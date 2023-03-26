@@ -1,7 +1,8 @@
 # controller.py
+# ...
+from flask import request, jsonify
 from model import SchoolRouteDB
 from view import print_received_request, print_db_changes
-from flask import request, jsonify
 
 def login():
     print_received_request(request)
@@ -23,8 +24,38 @@ def login():
             if result:
                 stored_password = result[0][0]
                 if stored_password == password:
-                    response = {"message": "Inicio de sesión exitoso"}
-                    status_code = 200
+                    # Buscar token existente y válido en la tabla sessions
+                    find_token_query = """
+                        SELECT token FROM sessions
+                        WHERE username = %s AND expires_at > NOW();
+                    """
+                    token_result = db.fetch_data(find_token_query, (username,))
+
+                    if token_result:
+                        token = token_result[0][0]
+                        response = {"token": token}
+                        status_code = 200
+                    else:
+                        # Eliminar tokens caducados
+                        delete_expired_tokens_query = """
+                            DELETE FROM sessions WHERE username = %s AND expires_at <= NOW();
+                        """
+                        db.execute_sql(delete_expired_tokens_query, (username,))
+
+                        # Generar e insertar nuevo token en la tabla sessions
+                        token_creation_query = """
+                            INSERT INTO sessions (username, token, created_at, expires_at)
+                            VALUES (%s, gen_random_uuid(), NOW(), NOW() + INTERVAL '1 day')
+                            RETURNING token;
+                        """
+                        token_result = db.execute_sql_and_return(token_creation_query, (username,))
+                        if token_result:
+                            token = token_result[0]
+                            response = {"token": token}
+                            status_code = 200
+                        else:
+                            response = {"message": "Error al generar el token"}
+                            status_code = 500
                 else:
                     response = {"message": "Contraseña incorrecta"}
                     status_code = 401

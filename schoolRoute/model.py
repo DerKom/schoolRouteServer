@@ -51,3 +51,16 @@ class SchoolRouteDB:
         except Exception as e:
             print(f"Error al ejecutar la consulta SQL: {e}")
             return None
+
+    def execute_sql_and_return(self, sql_query, params=None):
+        if not self.cur:
+            print("No se ha establecido conexión con la base de datos.")
+            return
+        try:
+            self.cur.execute(sql_query, params)
+            result = self.cur.fetchone()
+            self.conn.commit()
+            return result
+        except Exception as e:
+            print(f"Error al ejecutar la consulta SQL: {e}")
+            return None
