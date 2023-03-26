@@ -1,49 +1,42 @@
-# model.py
-import psycopg2
+# controller.py
+from model import SchoolRouteDB
+from view import print_received_request, print_db_changes
+from flask import request, jsonify
 
-class SchoolRouteDB:
-    def __init__(self):
-        self.conn = None
-        self.cur = None
+def login():
+    print_received_request(request)
 
-    def connect(self):
+    username = request.form.get('username')
+    password = request.form.get('password')
+
+    response = {}
+    status_code = 200
+
+    # Verificar si el usuario existe en la base de datos de forma segura
+    db = SchoolRouteDB()
+    if db.connect():
         try:
-            self.conn = psycopg2.connect(
-                database="schoolroute",
-                user="gerente",
-                password="Gerente123498765",
-                host="localhost",
-                port="5432"
-            )
-            self.cur = self.conn.cursor()
+            # Consulta SQL parametrizada para evitar inyección de SQL
+            sql_query = "SELECT password FROM users WHERE username = %s;"
+            result = db.fetch_data(sql_query, (username, ))
+
+            if result:
+                stored_password = result[0][0]
+                if stored_password == password:
+                    response = {"message": "Inicio de sesión exitoso"}
+                    status_code = 200
+                else:
+                    response = {"message": "Contraseña incorrecta"}
+                    status_code = 401
+            else:
+                response = {"message": "Usuario no encontrado"}
+                status_code = 404
+
         except Exception as e:
-            print(f"Error al conectar con la base de datos: {e}")
-            return False
-        return True
+            print(f"Error al verificar el usuario: {e}")
+            response = {"message": "Error interno del servidor"}
+            status_code = 500
+        finally:
+            db.disconnect()
 
-    def disconnect(self):
-        if self.cur:
-            self.cur.close()
-        if self.conn:
-            self.conn.close()
-
-    def fetch_data(self, sql_query):
-        if not self.cur:
-            print("No se ha establecido conexión con la base de datos.")
-            return
-        try:
-            self.cur.execute(sql_query)
-            rows = self.cur.fetchall()
-            return rows
-        except Exception as e:
-            print(f"Error al obtener datos con la consulta SQL: {e}")
-            return None
-
-    def execute_sql(self, sql_query):
-        if not self.cur:
-            print("No se ha establecido conexión con la base de datos.")
-            return
-        try:
-            self.cur.execute(sql_query)
-            result = self.cur.fetchone()
-            self.conn.commit()
+    return jsonify(response), status_code
