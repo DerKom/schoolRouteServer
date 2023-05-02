@@ -1,0 +1,3516 @@
+Nombre del centro: AEOI A DISTANCIA DE CANARIAS
+Dirección: C/ GRANADERA CANARIA, 2, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0966296, Longitud: -15.4127224
+Teléfono: nan
+Correo: eoiadistancia.ceu@gobiernodecanarias.org
+
+Nombre del centro: AEOI GANDO
+Dirección: CARRETERA GENERAL DEL SUR, KM.20, TELDE
+Latitud: 27.9955313, Longitud: -15.4173726
+Teléfono: 928-132682
+Correo: 35009826@gobiernodecanarias.org
+
+Nombre del centro: AEOI LAS PALMAS DE GRAN CANARIA
+Dirección: PASEO DE TOMÁS MORALES, 39, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1112771, Longitud: -15.4234805
+Teléfono: 928-266056
+Correo: 35008381@gobiernodecanarias.org
+
+Nombre del centro: AEOI MOGÁN
+Dirección: PLAZA DE LAS MARAÑUELAS, 7, MOGÁN
+Latitud: 27.7572408, Longitud: -15.6824613
+Teléfono: 928-141336
+Correo: 35009735@gobiernodecanarias.org
+
+Nombre del centro: AEOI SAN NICOLÁS
+Dirección: AVDA. LOS CARDONES S/N, LA ALDEA DE SAN NICOLÁS
+Latitud: 27.9807367, Longitud: -15.783835
+Teléfono: 928-880948 y 928-553588
+Correo: 35600561@gobiernodecanarias.org
+
+Nombre del centro: AEOI TEROR
+Dirección: C/ JOSÉ MIRANDA GUERRA, 3, TEROR
+Latitud: 28.0599167, Longitud: -15.5469232
+Teléfono: 928-622249
+Correo: 35009772@gobiernodecanarias.org
+
+Nombre del centro: AEOI VALSEQUILLO
+Dirección: C/ MAESTRO JOSÉ SANTANA, 4, VALSEQUILLO DE GRAN CANARIA
+Latitud: 27.9850252, Longitud: -15.5236015
+Teléfono: 928-132682
+Correo: 35009826@gobiernodecanarias.org
+
+Nombre del centro: CAEDGM HIPOVET
+Dirección: C/ CAÑADA DE LOS PERROS, 18, TELDE
+Latitud: 28.0299989, Longitud: -15.4208914
+Teléfono: 608-161963
+Correo: info@hipovet.es
+
+Nombre del centro: CAEDGMS AFEN ESCUELA DE ENTRENADORES
+Dirección: C/ LAS MARGARITAS 28, FINCA AMURGA, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.769929, Longitud: -15.5479647
+Teléfono: 607-773137 y 646-859527
+Correo: info@afentd.com
+
+Nombre del centro: CAEDGMS DE FÚTBOL ACADEF FP GRAN CANARIA
+Dirección: CALLE LA SALLE Nº 27, ARUCAS
+Latitud: 28.1200298, Longitud: -15.518425
+Teléfono: 666-014076
+Correo: coordinador.grancanaria@acadef.es
+
+Nombre del centro: CAEDGMS ESCUELA CANARIA DE ENTRENADORES DE FÚTBOL
+Dirección: C/ ÁNGEL GUIMERÁ, 107, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1202531, Longitud: -15.4271468
+Teléfono: 928-293410
+Correo: escuelaentrenadores@fiflp.com
+
+Nombre del centro: CAEPA RADIO ECCA
+Dirección: AVDA. ESCALERITAS, 64 - 1º, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1192055, Longitud: -15.4373226
+Teléfono: 928-275454 y 928-257400
+Correo: info@radioecca.org
+
+Nombre del centro: CAMGEM ISAAC ALBÉNIZ
+Dirección: C/ LOS TARAHALES, 76, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0961107, Longitud: -15.4504588
+Teléfono: 928-415996
+Correo: elba_alvarez@eduarenas.com
+
+Nombre del centro: CASAD ESCUELA DE ACTORES DE CANARIAS (SEDE GRAN CANARIA)
+Dirección: C/ SOR BRÍGIDA CASTELLÓ, 1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.098471, Longitud: -15.4163972
+Teléfono: 928-334784 y 928-334786
+Correo: grancanaria@webeac.org
+
+Nombre del centro: CEAD PROFESOR FÉLIX PÉREZ PARRILLA
+Dirección: C/ DOCTOR GARCÍA CASTRILLO, 22, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1245273, Longitud: -15.4329393
+Teléfono: 928-245743 y 928-290345
+Correo: 35008536@gobiernodecanarias.org
+
+Nombre del centro: CEE MARENTE
+Dirección: URB. MARENTE, S/N, SANTA MARÍA DE GUÍA DE GRAN CANARIA
+Latitud: 28.1396662, Longitud: -15.6331236
+Teléfono: 928-303130
+Correo: 35008652@gobiernodecanarias.org
+
+Nombre del centro: CEE PETRA LORENZO
+Dirección: CRUZ DE JEREZ, 2, TELDE
+Latitud: 27.9760367, Longitud: -15.4223349
+Teléfono: 928-693180
+Correo: 35008664@gobiernodecanarias.org
+
+Nombre del centro: CEE ROMÁN PÉREZ DÉNIZ
+Dirección: C/ VELÁZQUEZ, 11, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1145652, Longitud: -15.5820821
+Teléfono: 928-724785
+Correo: 35001475@gobiernodecanarias.org
+
+Nombre del centro: CEE SIETE PALMAS
+Dirección: AVDA. DE LA FERIA, 3, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1055539, Longitud: -15.4484081
+Teléfono: 928-411454
+Correo: 35013696@gobiernodecanarias.org
+
+Nombre del centro: CEIP ADÁN DEL CASTILLO
+Dirección: PASEO DE LOS MÁRTIRES, 4, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0984416, Longitud: -15.4744654
+Teléfono: 928-304078
+Correo: 35005420@gobiernodecanarias.org
+
+Nombre del centro: CEIP ADELA SANTANA
+Dirección: CALLE LAS MAGNOLIAS, 12, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0567905, Longitud: -15.4609033
+Teléfono: 928-304417
+Correo: 35003459@gobiernodecanarias.org
+
+Nombre del centro: CEIP AGUADULCE
+Dirección: C/ MOLINO DE VIENTO, 18, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1140906, Longitud: -15.4214057
+Teléfono: 928-245556 y 928-241916
+Correo: 35008721@gobiernodecanarias.org
+
+Nombre del centro: CEIP AGUATONA
+Dirección: C/ GADIFER DE LA SALLE, S/N, INGENIO
+Latitud: 27.9318003, Longitud: -15.425353
+Teléfono: 928-303099
+Correo: 35000768@gobiernodecanarias.org
+
+Nombre del centro: CEIP AGUSTÍN HERNÁNDEZ DÍAZ
+Dirección: C/ SECRETARIO JUAN GONZÁLEZ LEÓN, 7, MOYA
+Latitud: 28.1117541, Longitud: -15.5824817
+Teléfono: 928-620482 y 682-186824
+Correo: 35000914@gobiernodecanarias.org
+
+Nombre del centro: CEIP AGUSTÍN MANRIQUE DE LARA
+Dirección: C/ DOÑA LUISA, 1, TELDE
+Latitud: 28.0161415, Longitud: -15.4068537
+Teléfono: 928-303128
+Correo: 35005021@gobiernodecanarias.org
+
+Nombre del centro: CEIP ALCALDE DIEGO TRUJILLO RODRÍGUEZ
+Dirección: AVDA. DE LOS CANTEROS, S/N, GÁLDAR
+Latitud: 28.147594, Longitud: -15.6475732
+Teléfono: 928-881665
+Correo: 35007271@gobiernodecanarias.org
+
+Nombre del centro: CEIP ALCALDE MARCIAL FRANCO
+Dirección: C/ LA GOMERA, 2 - URB. LOS FAROLES, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.924961, Longitud: -15.5730189
+Teléfono: 928-763079
+Correo: 35007507@gobiernodecanarias.org
+
+Nombre del centro: CEIP ALCALDE RAMÍREZ BETHENCOURT
+Dirección: C/ JUAN SARAZA ORTIZ, 4, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1042286, Longitud: -15.4295409
+Teléfono: 928-115616
+Correo: 35001487@gobiernodecanarias.org
+
+Nombre del centro: CEIP ALCARAVANERAS
+Dirección: C/ BARCELONA, 4, ESQ. LUIS ANTÚNEZ, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1333887, Longitud: -15.4309476
+Teléfono: 928-478814 y 928-478815
+Correo: 35009905@gobiernodecanarias.org
+
+Nombre del centro: CEIP ALCORAC HENRÍQUEZ
+Dirección: BATERÍA DE SAN JUAN, 1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.096167, Longitud: -15.4202617
+Teléfono: 928-304501
+Correo: 35008718@gobiernodecanarias.org
+
+Nombre del centro: CEIP ALDEA BLANCA
+Dirección: C/ GUMIDAFE, 8, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.8430891, Longitud: -15.4755291
+Teléfono: 928-393176
+Correo: 35005237@gobiernodecanarias.org
+
+Nombre del centro: CEIP ALFREDO KRAUS
+Dirección: C/ VENTURA DORESTE, S/N - LOMO LOS FRAILES, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1027366, Longitud: -15.4718971
+Teléfono: 928-672998 y 619-970855
+Correo: 35010300@gobiernodecanarias.org
+
+Nombre del centro: CEIP ALISIOS
+Dirección: C/ DOCTOR SVENTENIUS, 1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0841721, Longitud: -15.4199247
+Teléfono: 928-314765
+Correo: 35014494@gobiernodecanarias.org
+
+Nombre del centro: CEIP AMELIA VEGA MONZÓN
+Dirección: CTRA. DE LOS PICOS, 37. EL EJIDO, TELDE
+Latitud: 27.9870387, Longitud: -15.4281775
+Teléfono: 928-693982
+Correo: 35004348@gobiernodecanarias.org
+
+Nombre del centro: CEIP ANA BETANCOR ESTUPIÑÁN
+Dirección: CAMINO LOS ROMEROS, 54, AGAETE
+Latitud: 28.0774906, Longitud: -15.6713589
+Teléfono: 928-306366
+Correo: 35000045@gobiernodecanarias.org
+
+Nombre del centro: CEIP ANSITE
+Dirección: C/ ANDAMANA, 17, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8387589, Longitud: -15.4503305
+Teléfono: 928-750900
+Correo: 35003952@gobiernodecanarias.org
+
+Nombre del centro: CEIP ANTONIO PADRÓN
+Dirección: C/ DRAGO, 17, GÁLDAR
+Latitud: 28.1464184, Longitud: -15.6530929
+Teléfono: 928-303098
+Correo: 35000598@gobiernodecanarias.org
+
+Nombre del centro: CEIP ARAGÓN
+Dirección: C/ ALEXIS CARREL, 45, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0922776, Longitud: -15.4316812
+Teléfono: 928-316639
+Correo: 35002893@gobiernodecanarias.org
+
+Nombre del centro: CEIP ARÍÑEZ
+Dirección: ARÍÑEZ, 8, VEGA DE SAN MATEO
+Latitud: 28.0106885, Longitud: -15.5323919
+Teléfono: 928-303135
+Correo: 35006023@gobiernodecanarias.org
+
+Nombre del centro: CEIP ARTEMI SEMIDÁN
+Dirección: C/TAMARÁN, Nº59, MOGÁN
+Latitud: 27.761976, Longitud: -15.6815363
+Teléfono: 928-736505 y 928-735658
+Correo: 35009000@gobiernodecanarias.org
+
+Nombre del centro: CEIP ARTENARA
+Dirección: C/ LOS COFRITOS, S/N, ARTENARA
+Latitud: 28.0220598, Longitud: -15.6554233
+Teléfono: 928-393023
+Correo: 35000331@gobiernodecanarias.org
+
+Nombre del centro: CEIP ASTURIAS
+Dirección: BARRANCO DE TAURO, 2A CASA AYALA, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.131874, Longitud: -15.4814407
+Teléfono: 928-478927
+Correo: 35001086@gobiernodecanarias.org
+
+Nombre del centro: CEIP ATLÁNTIDA
+Dirección: AVDA. PARQUE CENTRAL,17, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0998278, Longitud: -15.4447446
+Teléfono: 928-415372 y 928-413544
+Correo: 35008706@gobiernodecanarias.org
+
+Nombre del centro: CEIP BAÑADEROS
+Dirección: C/ DOCTOR ENRIQUE NÁCHER HERNÁNDEZ, 3, ARUCAS
+Latitud: 28.1480491, Longitud: -15.5336532
+Teléfono: 928-626536
+Correo: 35000446@gobiernodecanarias.org
+
+Nombre del centro: CEIP BARRANCO BALOS
+Dirección: C/ TENERIFE, 82, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8604036, Longitud: -15.4294111
+Teléfono: 928-304081 y 928-756520
+Correo: 35006333@gobiernodecanarias.org
+
+Nombre del centro: CEIP BARRIO COSTA
+Dirección: C/ JUAN MEDINA GIRALDO, 6, INGENIO
+Latitud: 27.9183566, Longitud: -15.3995095
+Teléfono: 928-780526
+Correo: 35005584@gobiernodecanarias.org
+
+Nombre del centro: CEIP BEÑESMEN
+Dirección: C/ ANSITE, 2, AGÜIMES
+Latitud: 27.8804163, Longitud: -15.4318401
+Teléfono: 928-599143
+Correo: 35007179@gobiernodecanarias.org
+
+Nombre del centro: CEIP BENITO PÉREZ GALDÓS
+Dirección: C/ JUAN NEGRÍN, S/N (CUESTA CABALLERO), INGENIO
+Latitud: 27.917327, Longitud: -15.4244836
+Teléfono: 928-393063
+Correo: 35009267@gobiernodecanarias.org
+
+Nombre del centro: CEIP BUENAVISTA I
+Dirección: C/ ALBERTO GARCÍA IBÁÑEZ, 2, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1164741, Longitud: -15.4402612
+Teléfono: 928-304585
+Correo: 35007441@gobiernodecanarias.org
+
+Nombre del centro: CEIP BUENLUGAR
+Dirección: C/ ALMIRANTE CARRERO BLANCO, 1, FIRGAS
+Latitud: 28.1068916, Longitud: -15.5634091
+Teléfono: 928-303134
+Correo: 35000525@gobiernodecanarias.org
+
+Nombre del centro: CEIP CAIDEROS
+Dirección: C/ ALCALDE ROSAS CAIDEROS, GÁLDAR
+Latitud: 28.1520349, Longitud: -15.6961613
+Teléfono: 928-117670
+Correo: 35000574@gobiernodecanarias.org
+
+Nombre del centro: CEIP CAMINO DE LA MADERA
+Dirección: C/ VASCO DE GAMA, S/N, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8408592, Longitud: -15.4592911
+Teléfono: 928-304084
+Correo: 35008202@gobiernodecanarias.org
+
+Nombre del centro: CEIP CARRETERÍA
+Dirección: C/ EL LOMO, 60, MOYA
+Latitud: 28.1048286, Longitud: -15.5806427
+Teléfono: 928-118947
+Correo: 35000872@gobiernodecanarias.org
+
+Nombre del centro: CEIP CASA PASTORES
+Dirección: C/ RUIZ DE ALARCÓN, S/N, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8524906, Longitud: -15.4527707
+Teléfono: 928-304079
+Correo: 35003991@gobiernodecanarias.org
+
+Nombre del centro: CEIP CASAS DE VENEGUERA
+Dirección: DAMIÁN GONZÁLEZ SUÁREZ, 3., MOGÁN
+Latitud: 27.905897, Longitud: -15.7317317
+Teléfono: 928-393051
+Correo: 35005675@gobiernodecanarias.org
+
+Nombre del centro: CEIP CATALUÑA
+Dirección: C/ FARMACÉUTICO M. PADILLA, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0504201, Longitud: -15.4681272
+Teléfono: 928-202938
+Correo: 35001396@gobiernodecanarias.org
+
+Nombre del centro: CEIP CERCADO DE ESPINO
+Dirección: C/ CERCADO DE ESPINOS, S/N, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.8542584, Longitud: -15.6609622
+Teléfono: 928-899786
+Correo: 35005833@gobiernodecanarias.org
+
+Nombre del centro: CEIP CERVANTES
+Dirección: C/ GRANADERA CANARIA, 11, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.096446, Longitud: -15.4137406
+Teléfono: 928-312109
+Correo: 35001244@gobiernodecanarias.org
+
+Nombre del centro: CEIP CÉSAR MANRIQUE
+Dirección: C/ VIRGEN DEL PILAR, 35, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1173809, Longitud: -15.442634
+Teléfono: 928-118500
+Correo: 35008147@gobiernodecanarias.org
+
+Nombre del centro: CEIP CHANO SÁNCHEZ
+Dirección: C/ TOMÁS DE IRIARTE, 5, INGENIO
+Latitud: 27.9080058, Longitud: -15.4069223
+Teléfono: 928-211637 y 928-211638
+Correo: 35006424@gobiernodecanarias.org
+
+Nombre del centro: CEIP CIUDAD DEL CAMPO
+Dirección: CTRA. TEROR, 58, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0960994, Longitud: -15.4856691
+Teléfono: 928-211373
+Correo: 35006850@gobiernodecanarias.org
+
+Nombre del centro: CEIP CLAUDIO DE LA TORRE
+Dirección: C/ JUAN DE AUSTRIA, S/N, INGENIO
+Latitud: 47.516231, Longitud: 14.550072
+Teléfono: 928-781633
+Correo: 35000771@gobiernodecanarias.org
+
+Nombre del centro: CEIP COSTA
+Dirección: CTRA. LA COSTA, 28, MOYA
+Latitud: 28.1434735, Longitud: -15.5701555
+Teléfono: 928-655973
+Correo: 35000884@gobiernodecanarias.org
+
+Nombre del centro: CEIP DOCTOR GREGORIO CHIL Y NARANJO
+Dirección: C/ VELARDE, 43, TELDE
+Latitud: 27.983519, Longitud: -15.3948652
+Teléfono: 928-694396 y 679-768235
+Correo: 35005961@gobiernodecanarias.org
+
+Nombre del centro: CEIP DOCTOR HERNÁNDEZ BENÍTEZ
+Dirección: C/ TOMÁS DE IRIARTE, S/N, TELDE
+Latitud: 27.9082643, Longitud: -15.4071466
+Teléfono: 822-171707
+Correo: 35004312@gobiernodecanarias.org
+
+Nombre del centro: CEIP DOCTOR JUAN ESPINO SÁNCHEZ
+Dirección: C/ DOCTOR J. ESPINO SÁNCHEZ, 4, INGENIO
+Latitud: 27.9186005, Longitud: -15.4431217
+Teléfono: 928-781634
+Correo: 35000781@gobiernodecanarias.org
+
+Nombre del centro: CEIP DOCTOR JUAN NEGRÍN
+Dirección: C/ CONCEJAL ANDRÉS ALVARADO JANINA, 21, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0687444, Longitud: -15.4218871
+Teléfono: 928-332019
+Correo: 35008135@gobiernodecanarias.org
+
+Nombre del centro: CEIP DON BENITO
+Dirección: C/ SOR SIMONA, 1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1136821, Longitud: -15.4302154
+Teléfono: 928-252251
+Correo: 35001311@gobiernodecanarias.org
+
+Nombre del centro: CEIP EDUARDO RIVERO RAMOS
+Dirección: C/ HNOS. MANRIQUE, 26, ARUCAS
+Latitud: 28.1201412, Longitud: -15.5210607
+Teléfono: 928-303363
+Correo: 35000458@gobiernodecanarias.org
+
+Nombre del centro: CEIP EL CANARIO
+Dirección: C/ CANALEJAS, 19-21, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8570725, Longitud: -15.4361421
+Teléfono: 928-304072
+Correo: 35008184@gobiernodecanarias.org
+
+Nombre del centro: CEIP EL CARDÓN
+Dirección: C/ ALMERÍA, 4, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8520763, Longitud: -15.4359841
+Teléfono: 928-755227 y 617-651147
+Correo: 35008238@gobiernodecanarias.org
+
+Nombre del centro: CEIP EL GORO
+Dirección: C/ SÉNECA, 16, TELDE
+Latitud: 27.9598053, Longitud: -15.3962378
+Teléfono: 928-574704
+Correo: 35005006@gobiernodecanarias.org
+
+Nombre del centro: CEIP EL MATORRAL
+Dirección: CUARTERÍAS DEL MATORRAL, 76, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.9249459, Longitud: -15.5730295
+Teléfono: 928-303140
+Correo: 35004865@gobiernodecanarias.org
+
+Nombre del centro: CEIP EL RISCO
+Dirección: EL RISCO, S/N, AGAETE
+Latitud: 28.046339, Longitud: -15.7232766
+Teléfono: 928-455783
+Correo: 35000033@gobiernodecanarias.org
+
+Nombre del centro: CEIP EL TABLERO
+Dirección: AVDA. VEGA MONROY, Nº 21, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.7671893, Longitud: -15.6015767
+Teléfono: 928-143608
+Correo: 35013908@gobiernodecanarias.org
+
+Nombre del centro: CEIP EL TOSCÓN
+Dirección: C/ EL CARPINTERO, 27, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0939602, Longitud: -15.498643
+Teléfono: 928-655993
+Correo: 35006278@gobiernodecanarias.org
+
+Nombre del centro: CEIP ELVIRA VAQUERO
+Dirección: C/ MAESTRO JOSÉ SANTANA, 4, VALSEQUILLO DE GRAN CANARIA
+Latitud: 27.9850252, Longitud: -15.5236015
+Teléfono: 928-705230
+Correo: 35004683@gobiernodecanarias.org
+
+Nombre del centro: CEIP EL ZARDO
+Dirección: C/ TISCAMANITA, 13, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.077165, Longitud: -15.462998
+Teléfono: 928-354572
+Correo: 35001050@gobiernodecanarias.org
+
+Nombre del centro: CEIP EN ARUCAS
+Dirección: CARRETERA EL LOMO, 17, ARUCAS
+Latitud: 28.1172906, Longitud: -15.5211067
+Teléfono: 928-622860
+Correo: 35015590@gobiernodecanarias.org
+
+Nombre del centro: CEIP ESTEBAN NAVARRO SÁNCHEZ
+Dirección: C/ ESTEBAN NAVARRO, 10, TELDE
+Latitud: 27.9955168, Longitud: -15.3965863
+Teléfono: 928-306588 y 928-306589
+Correo: 35004257@gobiernodecanarias.org
+
+Nombre del centro: CEIP ESTRELLA BARREIRO MORENO
+Dirección: C/ POETA CIPRIANO ACOSTA NAVARRO, S/N, ARUCAS
+Latitud: 28.1346555, Longitud: -15.4885285
+Teléfono: 928-578475
+Correo: 35005651@gobiernodecanarias.org
+
+Nombre del centro: CEIP EUROPA-NÉSTOR ÁLAMO
+Dirección: AVDA. LAS RAMBLAS DE JINÁMAR, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0314747, Longitud: -15.4092104
+Teléfono: 928-715916
+Correo: 35015280@gobiernodecanarias.org
+
+Nombre del centro: CEIP FEDERICO GARCÍA LORCA
+Dirección: C/ ALMIRANTE BENÍTEZ INGLOTT, 1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1136643, Longitud: -15.4352268
+Teléfono: 928-304083
+Correo: 35006591@gobiernodecanarias.org
+
+Nombre del centro: CEIP FERNANDO GUANARTEME
+Dirección: C/ GUILLÉN MORALES, 15, GÁLDAR
+Latitud: 28.145531, Longitud: -15.6581612
+Teléfono: 928-880096
+Correo: 35000586@gobiernodecanarias.org
+
+Nombre del centro: CEIP FERNANDO GUANARTEME
+Dirección: C/ PAVÍA, 22, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1286151, Longitud: -15.4470911
+Teléfono: 928-277302 y 928-225370
+Correo: 35001268@gobiernodecanarias.org
+
+Nombre del centro: CEIP FERNANDO LEÓN Y CASTILLO
+Dirección: C/ ALFONSO DE ARMAS AYALA, 11, TELDE
+Latitud: 27.9967503, Longitud: -15.4106517
+Teléfono: 928-303557
+Correo: 35004324@gobiernodecanarias.org
+
+Nombre del centro: CEIP FRONTÓN
+Dirección: C/ CAMINO FRONTÓN, 152, MOYA
+Latitud: 28.1276652, Longitud: -15.585837
+Teléfono: 928-611057 y 928-303348
+Correo: 35006783@gobiernodecanarias.org
+
+Nombre del centro: CEIP GALICIA
+Dirección: C/ DON QUIJOTE DE LA MANCHA, 43, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1552227, Longitud: -15.4261131
+Teléfono: 928-463231
+Correo: 35001578@gobiernodecanarias.org
+
+Nombre del centro: CEIP GINER DE LOS RÍOS
+Dirección: C/ STA. JUANA DE ARCO, 3, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1125066, Longitud: -15.4253838
+Teléfono: 928-244624 y 928-246189
+Correo: 35001219@gobiernodecanarias.org
+
+Nombre del centro: CEIP GRAN CANARIA
+Dirección: C/ LUIS BENÍTEZ INGLOTT, 10, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1218653, Longitud: -15.4383389
+Teléfono: 928-599064
+Correo: 35007453@gobiernodecanarias.org
+
+Nombre del centro: CEIP HILDA ZUDÁN
+Dirección: C/ FERNANDO SAGASETA, 29, TELDE
+Latitud: 28.025372, Longitud: -15.4080434
+Teléfono: 928-713457
+Correo: 35009462@gobiernodecanarias.org
+
+Nombre del centro: CEIP HOYA ANDREA
+Dirección: C/ PLUTÓN, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0936589, Longitud: -15.4615747
+Teléfono: 928-211794
+Correo: 35009541@gobiernodecanarias.org
+
+Nombre del centro: CEIP HOYA DE PINEDA
+Dirección: C/ ALFARERA JULIANITA, S/N, GÁLDAR
+Latitud: 28.1463501, Longitud: -15.6515167
+Teléfono: 928-393001
+Correo: 35005501@gobiernodecanarias.org
+
+Nombre del centro: CEIP HUERTAS DEL PALMAR
+Dirección: EL PALMAR, 80, TEROR
+Latitud: 28.0815546, Longitud: -15.5369935
+Teléfono: 928-303115
+Correo: 35004491@gobiernodecanarias.org
+
+Nombre del centro: CEIP IBERIA
+Dirección: C/ PROFESOR AGUSTÍN MILLARES CARLÓ,16, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1115541, Longitud: -15.4170069
+Teléfono: 928-393179
+Correo: 35006621@gobiernodecanarias.org
+
+Nombre del centro: CEIP ISABEL LA CATÓLICA
+Dirección: C/ DOCTOR WOELFEL, 6, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1194307, Longitud: -15.4362191
+Teléfono: 928-478560 y 928-478559
+Correo: 35001281@gobiernodecanarias.org
+
+Nombre del centro: CEIP JINÁMAR FASE V
+Dirección: C/ JULIO CARO BAROJA, 2, TELDE
+Latitud: 28.0226375, Longitud: -15.3998461
+Teléfono: 928-117624
+Correo: 35008925@gobiernodecanarias.org
+
+Nombre del centro: CEIP JOSÉ MANUEL ILLERA DE LA MORA
+Dirección: C/ SANTOÑA, 9, SANTA BRÍGIDA
+Latitud: 28.0309078, Longitud: -15.4761013
+Teléfono: 928-359981 y 629-911548
+Correo: 35003903@gobiernodecanarias.org
+
+Nombre del centro: CEIP JOSÉ PÉREZ Y PÉREZ
+Dirección: C/ SARGENTO PROVISIONAL, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1067225, Longitud: -15.4424646
+Teléfono: 928-303017
+Correo: 35008743@gobiernodecanarias.org
+
+Nombre del centro: CEIP JOSÉ SÁNCHEZ Y SÁNCHEZ
+Dirección: C/ LAUREADO GENERAL SERRA ALGARRA, 14, AGAETE
+Latitud: 28.0987779, Longitud: -15.6946325
+Teléfono: 928-478864
+Correo: 35000011@gobiernodecanarias.org
+
+Nombre del centro: CEIP JOSÉ TEJERA SANTANA
+Dirección: C/ SALAMANCA, 1, TELDE
+Latitud: 28.028896, Longitud: -15.4185684
+Teléfono: 928-393174
+Correo: 35004270@gobiernodecanarias.org
+
+Nombre del centro: CEIP JUAN ARENCIBIA SOSA
+Dirección: C/ MIGUEL RODRÍGUEZ, S/N, SANTA MARÍA DE GUÍA DE GRAN CANARIA
+Latitud: 28.1528738, Longitud: -15.6320838
+Teléfono: 928-306582
+Correo: 35004166@gobiernodecanarias.org
+
+Nombre del centro: CEIP JUAN DEL RÍO AYALA
+Dirección: C/ CIRCUNVALACIÓN, 1, SANTA BRÍGIDA
+Latitud: 28.034837, Longitud: -15.4973892
+Teléfono: 928-641528 y 928-641041
+Correo: 35003927@gobiernodecanarias.org
+
+Nombre del centro: CEIP JUAN GRANDE
+Dirección: AVDA. DE LOS COLEGIOS, S/N, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.8077107, Longitud: -15.4727085
+Teléfono: 928-732075
+Correo: 35005249@gobiernodecanarias.org
+
+Nombre del centro: CEIP JUAN NEGRÍN
+Dirección: PLAZA J. PAUL SARTRE, 1, TELDE
+Latitud: 27.9955313, Longitud: -15.4173726
+Teléfono: 928-078088
+Correo: 35006357@gobiernodecanarias.org
+
+Nombre del centro: CEIP LA CALZADA
+Dirección: CAMINO EL BARRANCO, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1235459, Longitud: -15.4362574
+Teléfono: 928-393028
+Correo: 35001074@gobiernodecanarias.org
+
+Nombre del centro: CEIP LA CARDONERA
+Dirección: C/ BENTEJUI, 90, LA ALDEA DE SAN NICOLÁS
+Latitud: 27.9729756, Longitud: -15.7795561
+Teléfono: 928-892369
+Correo: 35004907@gobiernodecanarias.org
+
+Nombre del centro: CEIP LA CERRUDA
+Dirección: C/ AGAETE, 58, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8385737, Longitud: -15.4434187
+Teléfono: 928-478982
+Correo: 35006345@gobiernodecanarias.org
+
+Nombre del centro: CEIP LA DEHESA - SAN JUAN
+Dirección: C/ SANTA BÁRBARA, 29, SANTA MARÍA DE GUÍA DE GRAN CANARIA
+Latitud: 28.1317953, Longitud: -15.6154577
+Teléfono: 928-899777
+Correo: 35004099@gobiernodecanarias.org
+
+Nombre del centro: CEIP LA GARITA
+Dirección: C/ PALMERA, S/N, TELDE
+Latitud: 28.007257, Longitud: -15.3779639
+Teléfono: 928-304070
+Correo: 35010002@gobiernodecanarias.org
+
+Nombre del centro: CEIP LA GOLETA
+Dirección: C/ SAN FERNANDO, 13, ARUCAS
+Latitud: 28.1194548, Longitud: -15.5349125
+Teléfono: 928-602082
+Correo: 35000367@gobiernodecanarias.org
+
+Nombre del centro: CEIP LA LADERA
+Dirección: C/ ALEGRANZA, 7, LA ALDEA DE SAN NICOLÁS
+Latitud: 27.9852899, Longitud: -15.7888313
+Teléfono: 928-115271
+Correo: 35003851@gobiernodecanarias.org
+
+Nombre del centro: CEIP LA LECHUZA
+Dirección: CTRA. LA LECHUZA, 5, VEGA DE SAN MATEO
+Latitud: 28.0106885, Longitud: -15.5323919
+Teléfono: 928-660319
+Correo: 35005481@gobiernodecanarias.org
+
+Nombre del centro: CEIP LA PAREDILLA
+Dirección: C/ LA GÜERA, S/N, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.9101389, Longitud: -15.5401365
+Teléfono: 928-478526
+Correo: 35008226@gobiernodecanarias.org
+
+Nombre del centro: CEIP LA PASTRANA
+Dirección: C/ ALCALDE ANTONIO HERNÁNDEZ RODRÍGUEZ, 38, INGENIO
+Latitud: 27.9218668, Longitud: -15.4395299
+Teléfono: 928-780700
+Correo: 35007283@gobiernodecanarias.org
+
+Nombre del centro: CEIP LAS BREÑAS
+Dirección: C/ CEREZO, S/N, TELDE
+Latitud: 27.9955313, Longitud: -15.4173726
+Teléfono: 928-655999
+Correo: 35007143@gobiernodecanarias.org
+
+Nombre del centro: CEIP LAS CANTERAS
+Dirección: C/ AMÉRICO VESPUCIO, 39, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1493844, Longitud: -15.4309948
+Teléfono: 928-429794
+Correo: 35001271@gobiernodecanarias.org
+
+Nombre del centro: CEIP LAS DUNAS
+Dirección: C/ MONTAÑA CLARA, 16, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.7651434, Longitud: -15.5825039
+Teléfono: 928-478906
+Correo: 35007787@gobiernodecanarias.org
+
+Nombre del centro: CEIP LAS LAGUNETAS
+Dirección: C/ LOS GUINDEROS, 29, VEGA DE SAN MATEO
+Latitud: 28.0106885, Longitud: -15.5323919
+Teléfono: 928-303132
+Correo: 35004737@gobiernodecanarias.org
+
+Nombre del centro: CEIP LAS MESAS
+Dirección: C/ PUNTA DEL HIDALGO, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1003063, Longitud: -15.497279
+Teléfono: 928-211662 y 928-211661
+Correo: 35009449@gobiernodecanarias.org
+
+Nombre del centro: CEIP LA SOLANA
+Dirección: LA SOLANA, VEGA DE SAN MATEO
+Latitud: 28.027325, Longitud: -15.5383069
+Teléfono: 928-303131
+Correo: 35004750@gobiernodecanarias.org
+
+Nombre del centro: CEIP LAS REHOYAS
+Dirección: C/ MONTEJURRA, 1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1082529, Longitud: -15.4320077
+Teléfono: 928-372371
+Correo: 35014834@gobiernodecanarias.org
+
+Nombre del centro: CEIP LAS TEDERAS
+Dirección: C/ ACUSA ESQ. C/ TEOBALDO POWER, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8459361, Longitud: -15.4490739
+Teléfono: 928-750084
+Correo: 35014101@gobiernodecanarias.org
+
+Nombre del centro: CEIP LAS TORRES
+Dirección: C/ AMAPOLA, 11. URB. LAS TORRES, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1112475, Longitud: -15.4531683
+Teléfono: 928-115781
+Correo: 35007431@gobiernodecanarias.org
+
+Nombre del centro: CEIP LAS VEGAS
+Dirección: C/ F. DÍAZ BERTRANA, 3, VALSEQUILLO DE GRAN CANARIA
+Latitud: 27.9915528, Longitud: -15.4982481
+Teléfono: 928-570055
+Correo: 35004701@gobiernodecanarias.org
+
+Nombre del centro: CEIP LA VIÑUELA
+Dirección: CAMINO LA VIÑUELA, S/N, AGÜIMES
+Latitud: 27.9052572, Longitud: -15.4476611
+Teléfono: 928-783080
+Correo: 35008494@gobiernodecanarias.org
+
+Nombre del centro: CEIP LA ZAFRA
+Dirección: C/ LOS LLANOS, 9, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8578403, Longitud: -15.4440829
+Teléfono: 928-149926
+Correo: 35013881@gobiernodecanarias.org
+
+Nombre del centro: CEIP LEÓN Y CASTILLO
+Dirección: C/ GUAYEDRA, 17 - OSORIO, 56, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1517445, Longitud: -15.425108
+Teléfono: 928-478795
+Correo: 35001301@gobiernodecanarias.org
+
+Nombre del centro: CEIP LOLA MASSIEU LA ANGOSTURA
+Dirección: EL TEJAR, S/N, SANTA BRÍGIDA
+Latitud: 14.6400039, Longitud: -90.7770529
+Teléfono: 928-644186 y 646-924961
+Correo: 35005250@gobiernodecanarias.org
+
+Nombre del centro: CEIP LOS ALTOS
+Dirección: C/ RAMÓN GARCÍA, 16, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0592732, Longitud: -15.504662
+Teléfono: 928-303129
+Correo: 35001062@gobiernodecanarias.org
+
+Nombre del centro: CEIP LOS CASERONES
+Dirección: C/ DUERO, 2, TELDE
+Latitud: 28.0124222, Longitud: -15.4272511
+Teléfono: 928-304594
+Correo: 35006941@gobiernodecanarias.org
+
+Nombre del centro: CEIP LOS GILES
+Dirección: C/ SÁHARA, 40, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1152028, Longitud: -15.4744273
+Teléfono: 928-304593
+Correo: 35008160@gobiernodecanarias.org
+
+Nombre del centro: CEIP LOS LLANETES
+Dirección: C/ EL CEDRO, 2, VALSEQUILLO DE GRAN CANARIA
+Latitud: 27.9205507, Longitud: -15.4448953
+Teléfono: 928-304077
+Correo: 35004658@gobiernodecanarias.org
+
+Nombre del centro: CEIP LOS LLANOS
+Dirección: C/ CENTRÍFUGA, S/N, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8596079, Longitud: -15.4378588
+Teléfono: 928-304069
+Correo: 35009152@gobiernodecanarias.org
+
+Nombre del centro: CEIP LOS QUINTANA
+Dirección: C/ SILVA LINARES S/N, GÁLDAR
+Latitud: 28.1159078, Longitud: -15.6685641
+Teléfono: 928-115644
+Correo: 35009413@gobiernodecanarias.org
+
+Nombre del centro: CEIP LOS TARAHALES
+Dirección: VUELTA DE LOS TARAHALES, 1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0971663, Longitud: -15.4485908
+Teléfono: 928-411555 y 629-378959
+Correo: 35008093@gobiernodecanarias.org
+
+Nombre del centro: CEIP LUCÍA JIMÉNEZ OLIVA
+Dirección: C/ ÁLVAREZ QUINTERO, 1, TELDE
+Latitud: 27.9420643, Longitud: -15.3939199
+Teléfono: 928-574678 y 928-575507
+Correo: 35005031@gobiernodecanarias.org
+
+Nombre del centro: CEIP LUIS CORTÍ
+Dirección: AVDA. ATALAYA-BECERRIL, 11, SANTA MARÍA DE GUÍA DE GRAN CANARIA
+Latitud: 28.147053, Longitud: -15.6357314
+Teléfono: 928-880685
+Correo: 35006451@gobiernodecanarias.org
+
+Nombre del centro: CEIP MAESTRO FÉLIX SANTANA
+Dirección: C/ DOS DE MAYO, 83, TELDE
+Latitud: 27.9897252, Longitud: -15.4335123
+Teléfono: 928-393171
+Correo: 35007301@gobiernodecanarias.org
+
+Nombre del centro: CEIP MAESTRO MANUEL CRUZ SAAVEDRA
+Dirección: C/ SANTO TOMÁS DE AQUINO, S/N, GÁLDAR
+Latitud: 28.1463501, Longitud: -15.6515167
+Teléfono: 928-883058
+Correo: 35008901@gobiernodecanarias.org
+
+Nombre del centro: CEIP MANOLO ORTEGA
+Dirección: PASAJE ECHEDEY, 1, ARUCAS
+Latitud: 28.1418342, Longitud: -15.5226633
+Teléfono: 928-626080
+Correo: 35000461@gobiernodecanarias.org
+
+Nombre del centro: CEIP MANUEL BALBUENA PEDRAZA
+Dirección: C/ JUAN MATEO DE CASTRO, 18, MOYA
+Latitud: 28.0567454, Longitud: -15.609502
+Teléfono: 928-303008
+Correo: 35000938@gobiernodecanarias.org
+
+Nombre del centro: CEIP MARÍA JESÚS PÉREZ MORALES
+Dirección: LOMO LA VIUDA, 77, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1235459, Longitud: -15.4362574
+Teléfono: 928-304092
+Correo: 35003605@gobiernodecanarias.org
+
+Nombre del centro: CEIP MARÍA JESÚS RAMÍREZ DÍAZ
+Dirección: C/ CÁNOVAS DEL CASTILLO, 67, TELDE
+Latitud: 28.0007428, Longitud: -15.4005142
+Teléfono: 928-695152
+Correo: 35005614@gobiernodecanarias.org
+
+Nombre del centro: CEIP MARÍA MUÑOZ MAYOR
+Dirección: CTRA. GENERAL DEL SUR, S/N, AGÜIMES
+Latitud: 27.9018327, Longitud: -15.4463485
+Teléfono: 928-478907
+Correo: 35000151@gobiernodecanarias.org
+
+Nombre del centro: CEIP MARÍA SUÁREZ FIOL
+Dirección: C/ GUILLERMO MARCONI, 1, TELDE
+Latitud: 27.9955313, Longitud: -15.4173726
+Teléfono: 928-078121 y 675-437338
+Correo: 35004294@gobiernodecanarias.org
+
+Nombre del centro: CEIP MARPEQUEÑA
+Dirección: C/ SAN AGUSTÍN, 73, TELDE
+Latitud: 28.0019206, Longitud: -15.3876358
+Teléfono: 928-130274 y 928-134096
+Correo: 35007829@gobiernodecanarias.org
+
+Nombre del centro: CEIP MARTÍN CHIRINO
+Dirección: C/ LOMO LA PLANA, 47, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0947812, Longitud: -15.4544486
+Teléfono: 928-211945
+Correo: 35014639@gobiernodecanarias.org
+
+Nombre del centro: CEIP MESA Y LÓPEZ
+Dirección: C/ JESÚS FERRER JIMENO, 15, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1293569, Longitud: -15.4397634
+Teléfono: 928-478896 y 928-478854
+Correo: 35007881@gobiernodecanarias.org
+
+Nombre del centro: CEIP MIGUEL DE SANTIAGO
+Dirección: C/ CRONISTA PEDRO GONZÁLEZ SOSA,16 - BARRIO S. ROQUE, SANTA MARÍA DE GUÍA DE GRAN CANARIA
+Latitud: 28.1363445, Longitud: -15.6290811
+Teléfono: 928-211835
+Correo: 35006461@gobiernodecanarias.org
+
+Nombre del centro: CEIP MIRAFLOR
+Dirección: C/ LOMO COBO, 11, TEROR
+Latitud: 28.0733646, Longitud: -15.5214802
+Teléfono: 928-304088
+Correo: 35005456@gobiernodecanarias.org
+
+Nombre del centro: CEIP MONSEÑOR SOCORRO LANTIGUA
+Dirección: C/ JOSÉ MIRANDA GUERRA, 1, TEROR
+Latitud: 28.0592862, Longitud: -15.5437566
+Teléfono: 928-631113 y 928-632728
+Correo: 35004518@gobiernodecanarias.org
+
+Nombre del centro: CEIP MONTAÑA LAS PALMAS
+Dirección: C/ TRONCHADA, 9, TELDE
+Latitud: 27.9947743, Longitud: -15.4522706
+Teléfono: 928-393000
+Correo: 35009012@gobiernodecanarias.org
+
+Nombre del centro: CEIP MONTAÑA LOS VÉLEZ
+Dirección: C/ DALIA, S/N, AGÜIMES
+Latitud: 27.9008868, Longitud: -15.4139336
+Teléfono: 928-782194
+Correo: 35000124@gobiernodecanarias.org
+
+Nombre del centro: CEIP NANDA CAMBRES
+Dirección: C/ CARVAJAL, 57, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1235459, Longitud: -15.4362574
+Teléfono: 928-231302
+Correo: 35007684@gobiernodecanarias.org
+
+Nombre del centro: CEIP NÉSTOR DE LA TORRE
+Dirección: C/ JOAQUÍN BELÓN, 26, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1042593, Longitud: -15.4353797
+Teléfono: 928-393192
+Correo: 35006448@gobiernodecanarias.org
+
+Nombre del centro: CEIP NICOLÁS AGUIAR JIMÉNEZ
+Dirección: AVDA. DE LA JUVENTUD, 8, SANTA MARÍA DE GUÍA DE GRAN CANARIA
+Latitud: 28.1385236, Longitud: -15.6339484
+Teléfono: 928-882292 y 928-551533
+Correo: 35004154@gobiernodecanarias.org
+
+Nombre del centro: CEIP OASIS DE MASPALOMAS
+Dirección: AVDA. ALEJANDRO CASTILLO, S/N, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.7672746, Longitud: -15.5887725
+Teléfono: 928-211667
+Correo: 35008524@gobiernodecanarias.org
+
+Nombre del centro: CEIP OROBAL
+Dirección: C/ OBISPO MARQUINA, S/N, ARUCAS
+Latitud: 28.104444, Longitud: -15.5083274
+Teléfono: 928-621942
+Correo: 35010191@gobiernodecanarias.org
+
+Nombre del centro: CEIP PADILLA
+Dirección: C/ PADILLA, 50, FIRGAS
+Latitud: 28.1099297, Longitud: -15.5533222
+Teléfono: 928-117083
+Correo: 35005560@gobiernodecanarias.org
+
+Nombre del centro: CEIP PADRE COLLADO
+Dirección: CTRA. GENERAL. LOMO MAGULLO, S/N, TELDE
+Latitud: 27.987026, Longitud: -15.456325
+Teléfono: 928-694725
+Correo: 35004282@gobiernodecanarias.org
+
+Nombre del centro: CEIP PEDRO LEZCANO
+Dirección: C/ TAMARA, 1, TELDE
+Latitud: 28.029676, Longitud: -15.4166236
+Teléfono: 928-117608
+Correo: 35008275@gobiernodecanarias.org
+
+Nombre del centro: CEIP PEPE DÁMASO
+Dirección: C/ MARIUCHA, 84, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1101157, Longitud: -15.4367256
+Teléfono: 928-208619
+Correo: 35001347@gobiernodecanarias.org
+
+Nombre del centro: CEIP PEPE MONAGAS
+Dirección: C/ LUJÁN PÉREZ , S/N, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.7690622, Longitud: -15.6032487
+Teléfono: 928-455032
+Correo: 35007519@gobiernodecanarias.org
+
+Nombre del centro: CEIP PERSEIDAS
+Dirección: C/ MANUEL DE FALLA, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0930551, Longitud: -15.4492564
+Teléfono: 928-117851
+Correo: 35015516@gobiernodecanarias.org
+
+Nombre del centro: CEIP PIEDRA DE MOLINO
+Dirección: C/ PIEDRA DE MOLINO, 31, SANTA MARÍA DE GUÍA DE GRAN CANARIA
+Latitud: 28.0825405, Longitud: -15.6233863
+Teléfono: 928-393025
+Correo: 35004063@gobiernodecanarias.org
+
+Nombre del centro: CEIP PINTOR MANOLO MILLARES
+Dirección: AVDA. PEDRO HIDALGO, 1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0722149, Longitud: -15.4242431
+Teléfono: 928-332519 y 928-332451
+Correo: 35007763@gobiernodecanarias.org
+
+Nombre del centro: CEIP PINTOR NÉSTOR
+Dirección: C/ PADRE PAUL EMILIO MOLINA RÍOS, 2, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1235459, Longitud: -15.4362574
+Teléfono: 928-304086
+Correo: 35008639@gobiernodecanarias.org
+
+Nombre del centro: CEIP PLÁCIDO FLEITAS
+Dirección: C/ EL ROQUE, 2, TELDE
+Latitud: 27.9983269, Longitud: -15.4773144
+Teléfono: 928-306577 y 928-306578
+Correo: 35007817@gobiernodecanarias.org
+
+Nombre del centro: CEIP PLAYA DE ARGUINEGUÍN
+Dirección: C/ TANAUSÚ, 2, MOGÁN
+Latitud: 27.7620393, Longitud: -15.6806166
+Teléfono: 928-735853
+Correo: 35000859@gobiernodecanarias.org
+
+Nombre del centro: CEIP PLAYA DE MOGÁN
+Dirección: C/ LA CRUZ, 3, MOGÁN
+Latitud: 27.8839292, Longitud: -15.723279
+Teléfono: 928-565726
+Correo: 35000860@gobiernodecanarias.org
+
+Nombre del centro: CEIP POETA FERNANDO GONZÁLEZ
+Dirección: C/ LEÓN Y CASTILLO, 94, TELDE
+Latitud: 28.0015413, Longitud: -15.4174695
+Teléfono: 928-692649
+Correo: 35004336@gobiernodecanarias.org
+
+Nombre del centro: CEIP POETA FRANCISCO TARAJANO
+Dirección: C/ NICOLÁS COPÉRNICO, 35, TELDE
+Latitud: 27.9972917, Longitud: -15.4312972
+Teléfono: 928-078115
+Correo: 35008445@gobiernodecanarias.org
+
+Nombre del centro: CEIP POETA MONTIANO PLACERES
+Dirección: C/ MANUEL ALEMÁN ÁLAMO, S/N, TELDE
+Latitud: 28.0269534, Longitud: -15.4084408
+Teléfono: 928-599062 y 928-599061
+Correo: 35006655@gobiernodecanarias.org
+
+Nombre del centro: CEIP POETA TOMÁS MORALES
+Dirección: C/ JUAN DE BETHENCOURT, 41, INGENIO
+Latitud: 27.9099444, Longitud: -15.4055469
+Teléfono: 928-455975
+Correo: 35007878@gobiernodecanarias.org
+
+Nombre del centro: CEIP POLICARPO BÁEZ
+Dirección: C/ CARMELO CALDERÍN, 8, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8493337, Longitud: -15.4682195
+Teléfono: 928-752524 y 928-755908
+Correo: 35006886@gobiernodecanarias.org
+
+Nombre del centro: CEIP PRÍNCIPE DE ASTURIAS
+Dirección: C/ LAS RUBIESAS, S/N, TELDE
+Latitud: 27.9978461, Longitud: -15.3887823
+Teléfono: 928-115833
+Correo: 35004300@gobiernodecanarias.org
+
+Nombre del centro: CEIP PROFESORA ADELINA FLORES MEDINA
+Dirección: LOS MORROS, 2, TELDE
+Latitud: 27.9955313, Longitud: -15.4173726
+Teléfono: 928-899787
+Correo: 35004269@gobiernodecanarias.org
+
+Nombre del centro: CEIP PROFESOR CARLOS SOCAS MUÑOZ
+Dirección: AVDA. DE AMÉRICA, 122, INGENIO
+Latitud: 27.9179597, Longitud: -15.436437
+Teléfono: 928-780502
+Correo: 35006436@gobiernodecanarias.org
+
+Nombre del centro: CEIP PROFESOR RAFAEL GÓMEZ SANTOS
+Dirección: CALLE DEL AGUA, 18, VEGA DE SAN MATEO
+Latitud: 28.0089633, Longitud: -15.5329434
+Teléfono: 928-661837
+Correo: 35004762@gobiernodecanarias.org
+
+Nombre del centro: CEIP ROQUE AGUAYRO
+Dirección: C/ MÉJICO, 20, AGÜIMES
+Latitud: 27.9021846, Longitud: -15.4475207
+Teléfono: 928-781144
+Correo: 35000057@gobiernodecanarias.org
+
+Nombre del centro: CEIP SALVADOR MANRIQUE DE LARA
+Dirección: C/ BRUNO NARANJO DÍAZ, 13, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0706126, Longitud: -15.4494104
+Teléfono: 928-455796
+Correo: 35005419@gobiernodecanarias.org
+
+Nombre del centro: CEIP SAN ANTONIO
+Dirección: C/ LA PORTADA, 22, TELDE
+Latitud: 28.0066408, Longitud: -15.4008386
+Teléfono: 928-599099
+Correo: 35005043@gobiernodecanarias.org
+
+Nombre del centro: CEIP SAN FERNANDO DE MASPALOMAS
+Dirección: AVDA. DE TEJEDA, 11, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.7658948, Longitud: -15.5817878
+Teléfono: 928-478585
+Correo: 35003757@gobiernodecanarias.org
+
+Nombre del centro: CEIP SAN ISIDRO
+Dirección: C/ GARCÍA LORCA, S/N, GÁLDAR
+Latitud: 28.1320088, Longitud: -15.6598082
+Teléfono: 928-478881
+Correo: 35000707@gobiernodecanarias.org
+
+Nombre del centro: CEIP SAN JOSÉ ARTESANO
+Dirección: C/ ANTº.PILDAIN ZAPIAIN, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0865301, Longitud: -15.4417899
+Teléfono: 928-211806
+Correo: 35001116@gobiernodecanarias.org
+
+Nombre del centro: CEIP SAN JUAN
+Dirección: C/ LEÓN Y CASTILLO, 75, TELDE
+Latitud: 28.0011116, Longitud: -15.418022
+Teléfono: 928-694918
+Correo: 35006473@gobiernodecanarias.org
+
+Nombre del centro: CEIP SAN LORENZO
+Dirección: C/ ANTONIO MARTEL RODRÍGUEZ, 5, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0763747, Longitud: -15.4752087
+Teléfono: 928-599106
+Correo: 35005407@gobiernodecanarias.org
+
+Nombre del centro: CEIP SANTA ÁGUEDA
+Dirección: C/ EL PAJAR, S/N, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.7569017, Longitud: -15.6702054
+Teléfono: 928-735415
+Correo: 35003711@gobiernodecanarias.org
+
+Nombre del centro: CEIP SANTA BÁRBARA
+Dirección: C/ PINTOR JUAN GUILLERMO, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1261384, Longitud: -15.4384123
+Teléfono: 928-263507
+Correo: 35007970@gobiernodecanarias.org
+
+Nombre del centro: CEIP SANTA CATALINA
+Dirección: C/ ISLA DE CUBA, 27, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1374825, Longitud: -15.4331976
+Teléfono: 928-229917 y 928-265848
+Correo: 35001323@gobiernodecanarias.org
+
+Nombre del centro: CEIP SANTA LUCÍA
+Dirección: C/ MAESTRA CLARA PÉREZ , 16, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.9113371, Longitud: -15.5408141
+Teléfono: 928-303001
+Correo: 35003964@gobiernodecanarias.org
+
+Nombre del centro: CEIP SANTIDAD
+Dirección: C/ DORAMAS, 2, ARUCAS
+Latitud: 28.1111145, Longitud: -15.51085
+Teléfono: 928-306984
+Correo: 35000495@gobiernodecanarias.org
+
+Nombre del centro: CEIP SARDINA DEL NORTE
+Dirección: C/ HERNÁN CORTÉS, S/N, GÁLDAR
+Latitud: 28.1541224, Longitud: -15.6903755
+Teléfono: 928-882601
+Correo: 35005547@gobiernodecanarias.org
+
+Nombre del centro: CEIP SAUCILLO
+Dirección: CRUZ DEL POLEO, S/N, GÁLDAR
+Latitud: 28.1463501, Longitud: -15.6515167
+Teléfono: 928-117139
+Correo: 35000719@gobiernodecanarias.org
+
+Nombre del centro: CEIP SAULO TORÓN
+Dirección: CTRA. LAS MEDIANÍAS, S/N, TELDE
+Latitud: 27.9908193, Longitud: -15.4324367
+Teléfono: 928-692102
+Correo: 35006311@gobiernodecanarias.org
+
+Nombre del centro: CEIP SIETE PALMAS
+Dirección: C/ LAS BORRERAS, 2 - URB. SIETE PALMAS, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.10692, Longitud: -15.4510846
+Teléfono: 928-478728
+Correo: 35010178@gobiernodecanarias.org
+
+Nombre del centro: CEIP TAGOROR
+Dirección: C/ MANUEL BECERRA, 3, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.852345, Longitud: -15.4423665
+Teléfono: 928-304075
+Correo: 35004002@gobiernodecanarias.org
+
+Nombre del centro: CEIP TAJINASTE
+Dirección: C/ TENERIFE, 84.- BARRANCO DE BALOS, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8611218, Longitud: -15.4307539
+Teléfono: 928-304066
+Correo: 35008196@gobiernodecanarias.org
+
+Nombre del centro: CEIP TAMARÁN
+Dirección: C/ PRIMERO DE MAYO, 120, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8496974, Longitud: -15.4430759
+Teléfono: 928-304090
+Correo: 35004956@gobiernodecanarias.org
+
+Nombre del centro: CEIP TASARTE
+Dirección: C/ EL CASTILLO, 39, LA ALDEA DE SAN NICOLÁS
+Latitud: 27.9224549, Longitud: -15.7585449
+Teléfono: 928-303102
+Correo: 35004932@gobiernodecanarias.org
+
+Nombre del centro: CEIP TEMISAS
+Dirección: BDA. SAN MIGUEL, 52, AGÜIMES
+Latitud: 27.9018327, Longitud: -15.4463485
+Teléfono: 928-393002
+Correo: 35000161@gobiernodecanarias.org
+
+Nombre del centro: CEIP TENTENIGUADA
+Dirección: C/ SAN JUAN BAUTISTA, 33, VALSEQUILLO DE GRAN CANARIA
+Latitud: 27.9870803, Longitud: -15.5219921
+Teléfono: 928-303138
+Correo: 35005471@gobiernodecanarias.org
+
+Nombre del centro: CEIP TEOBALDO POWER
+Dirección: C/ FARMACÉUTICO PEDRO RIVERO, 1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1023493, Longitud: -15.4393767
+Teléfono: 928-599080
+Correo: 35003423@gobiernodecanarias.org
+
+Nombre del centro: CEIP TIMPLISTA JOSÉ ANTONIO RAMOS
+Dirección: C/ CARMELO BETHENCOURT, 1-3, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.109403, Longitud: -15.4258785
+Teléfono: 928-208853
+Correo: 35001372@gobiernodecanarias.org
+
+Nombre del centro: CEIP TINGUARO
+Dirección: C/ LA CERRUDA, 16, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8442, Longitud: -15.4429019
+Teléfono: 928-796280
+Correo: 35007799@gobiernodecanarias.org
+
+Nombre del centro: CEIP TRAPICHE
+Dirección: PASEO DE SAN JOSÉ, 45, ARUCAS
+Latitud: 28.1340208, Longitud: -15.5396246
+Teléfono: 928-304579
+Correo: 35000501@gobiernodecanarias.org
+
+Nombre del centro: CEIP TRUJILLO
+Dirección: C/ JUAN XXIII, 25, MOYA
+Latitud: 28.1194256, Longitud: -15.5777112
+Teléfono: 928-724779
+Correo: 35006795@gobiernodecanarias.org
+
+Nombre del centro: CEIP UTIACA
+Dirección: C/ UTIACA, 39, VEGA DE SAN MATEO
+Latitud: 28.0192266, Longitud: -15.5537768
+Teléfono: 928-393035 y 928-661168
+Correo: 35004749@gobiernodecanarias.org
+
+Nombre del centro: CEIP VALENCIA
+Dirección: C/ HOYA AYALA, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0919631, Longitud: -15.4635606
+Teléfono: 928-670370
+Correo: 35003575@gobiernodecanarias.org
+
+Nombre del centro: CEIP VALLE DE SAN ROQUE
+Dirección: VALLE DE SAN ROQUE, S/N, VALSEQUILLO DE GRAN CANARIA
+Latitud: 27.9960894, Longitud: -15.5093108
+Teléfono: 928-303015
+Correo: 35004695@gobiernodecanarias.org
+
+Nombre del centro: CEIP VEINTE DE ENERO
+Dirección: C/ LUIS VELASCO, 83, AGÜIMES
+Latitud: 27.85933, Longitud: -15.397519
+Teléfono: 928-180540
+Correo: 35000112@gobiernodecanarias.org
+
+Nombre del centro: CEIP VILLA DE FIRGAS
+Dirección: C/ SACRISTÁN AGUSTÍN ASENSIO GUERRA, 19, FIRGAS
+Latitud: 28.104254, Longitud: -15.5642841
+Teléfono: 928-478640
+Correo: 35000549@gobiernodecanarias.org
+
+Nombre del centro: CEIP VIRGEN DEL CARMEN
+Dirección: AVDA. LOS CARDONES, 12, LA ALDEA DE SAN NICOLÁS
+Latitud: 27.9800109, Longitud: -15.7825489
+Teléfono: 928-303341
+Correo: 35007118@gobiernodecanarias.org
+
+Nombre del centro: CEL DE CANARIAS
+Dirección: C/ MÁLAGA, 46, LAS PALMAS DE GRAN CANARIA
+Latitud: None, Longitud: None
+Teléfono: 928-306355
+Correo: 35015784@gobiernodecanarias.org
+
+Nombre del centro: CEO EN LAS PALMAS DE GRAN CANARIA
+Dirección: C/ ALICANTE, 34. SAN CRISTÓBAL, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0849336, Longitud: -15.4177713
+Teléfono: 928-317381 y 928-339158
+Correo: 35015802@gobiernodecanarias.org
+
+Nombre del centro: CEO LUJÁN PÉREZ
+Dirección: CASA AGUILAR, 1, SANTA MARÍA DE GUÍA DE GRAN CANARIA
+Latitud: 28.1177153, Longitud: -15.6076661
+Teléfono: 928-557305
+Correo: 35004041@gobiernodecanarias.org
+
+Nombre del centro: CEO MOGÁN
+Dirección: C/ EL MOCÁN, 36, MOGÁN
+Latitud: 27.8837812, Longitud: -15.7220542
+Teléfono: 928-569236
+Correo: 35000835@gobiernodecanarias.org
+
+Nombre del centro: CEO MOTOR GRANDE- ROSA PADRÓN PULIDO
+Dirección: C/ LÉRIDA, 4, MOGÁN
+Latitud: 27.8008004, Longitud: -15.6960277
+Teléfono: 928-560812
+Correo: 35014159@gobiernodecanarias.org
+
+Nombre del centro: CEO OMAYRA SÁNCHEZ
+Dirección: CTRA. MARZAGÁN. LLANOS BARRERA, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0409757, Longitud: -15.4259254
+Teléfono: 928-393057
+Correo: 35008691@gobiernodecanarias.org
+
+Nombre del centro: CEO PANCHO GUERRA
+Dirección: C/ VERTEGUI, 1, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.8008452, Longitud: -15.4605785
+Teléfono: 928-211660
+Correo: 35003733@gobiernodecanarias.org
+
+Nombre del centro: CEO REY JUAN CARLOS I
+Dirección: C/ LOS MATOS, 24, VALLESECO
+Latitud: 28.0476499, Longitud: -15.5752228
+Teléfono: 928-618096
+Correo: 35004713@gobiernodecanarias.org
+
+Nombre del centro: CEO TEJEDA
+Dirección: C/GALINDO, 12, TEJEDA
+Latitud: 27.9887954, Longitud: -15.6119758
+Teléfono: 928-211765 y 928-666213
+Correo: 35004245@gobiernodecanarias.org
+
+Nombre del centro: CEO TUNTE
+Dirección: C/ MANUEL ZENÓN ARAÑA YÁNEZ, 12-14, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.9222008, Longitud: -15.575446
+Teléfono: 928-211626 y 928-211623
+Correo: 35003812@gobiernodecanarias.org
+
+Nombre del centro: CEPA AGÜIMES-INGENIO
+Dirección: C/ ALCALDE ANTONIO HDEZ. RGUEZ., 35, INGENIO
+Latitud: 27.9182821, Longitud: -15.4331746
+Teléfono: 928-784214
+Correo: 35008962@gobiernodecanarias.org
+
+Nombre del centro: CEPA ARUCAS Y FIRGAS FERNANDO MARRERO PULIDO
+Dirección: C/ HUELVA, 9, ARUCAS
+Latitud: 28.1225458, Longitud: -15.5158637
+Teléfono: 928-304382
+Correo: 35009619@gobiernodecanarias.org
+
+Nombre del centro: CEPA GÁLDAR
+Dirección: C/ TENESORA VIDIÑA, 17, GÁLDAR
+Latitud: 28.1465988, Longitud: -15.6498861
+Teléfono: 928-882316
+Correo: 35008974@gobiernodecanarias.org
+
+Nombre del centro: CEPA LA ALDEA
+Dirección: C/ FRANCISCO LEÓN HERRERA, 2, LA ALDEA DE SAN NICOLÁS
+Latitud: 27.9843999, Longitud: -15.7800727
+Teléfono: 928-892485
+Correo: 35010026@gobiernodecanarias.org
+
+Nombre del centro: CEPA LAS PALMAS
+Dirección: C/ CARVAJAL, 2 TRASERA, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1235459, Longitud: -15.4362574
+Teléfono: 928-248719
+Correo: 35007982@gobiernodecanarias.org
+
+Nombre del centro: CEPA LAS PALMAS-CIUDAD ALTA
+Dirección: CTRA. GENERAL DEL NORTE, 68. POL. CRUZ DE PIEDRA, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.102163, Longitud: -15.4383389
+Teléfono: 928-251754 y 928-207055
+Correo: 35009632@gobiernodecanarias.org
+
+Nombre del centro: CEPA LAS PALMAS-CONO SUR
+Dirección: C/ ALICANTE, 20, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0887833, Longitud: -15.4165424
+Teléfono: 928-314981
+Correo: 35009644@gobiernodecanarias.org
+
+Nombre del centro: CEPA LAS PALMAS-TAMARACEITE
+Dirección: C/ JERICÓ, 7 (LOMO LOS FRAILES), LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1034235, Longitud: -15.4680271
+Teléfono: 928-437010 y 928-436930
+Correo: 35010324@gobiernodecanarias.org
+
+Nombre del centro: CEPA MOGÁN
+Dirección: PLAZA DE LAS MARAÑUELAS, 7, MOGÁN
+Latitud: 27.7572408, Longitud: -15.6824613
+Teléfono: 928-578478
+Correo: 35009620@gobiernodecanarias.org
+
+Nombre del centro: CEPA SAN BARTOLOMÉ DE TIRAJANA
+Dirección: C/ PARTERA LEONORITA, S/N, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.7674057, Longitud: -15.5755971
+Teléfono: 928-766680 y 928-767635
+Correo: 35009656@gobiernodecanarias.org
+
+Nombre del centro: CEPA SANTA BRÍGIDA
+Dirección: C/ EL PARAÍSO 39-41, SANTA BRÍGIDA
+Latitud: -14.0599514, Longitud: -75.7500891
+Teléfono: 928-478837
+Correo: 35009668@gobiernodecanarias.org
+
+Nombre del centro: CEPA SANTA LUCÍA DE TIRAJANA
+Dirección: C/ PÍO X, 22, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.84538, Longitud: -15.4414019
+Teléfono: 928-753970 y 928-755744
+Correo: 35008986@gobiernodecanarias.org
+
+Nombre del centro: CEPA TELDE-CASCO
+Dirección: C/ ANDRÉS MANJÓN, 21 (ALA SUR), TELDE
+Latitud: 27.9955313, Longitud: -15.4173726
+Teléfono: 928-692273 y 928-693981
+Correo: 35008019@gobiernodecanarias.org
+
+Nombre del centro: CEPA TELDE-JINÁMAR
+Dirección: C/ MANUEL ALEMÁN ÁLAMO, 3. VALLE DE JINÁMAR, TELDE
+Latitud: 28.0274983, Longitud: -15.4096336
+Teléfono: 928-796151
+Correo: 35009671@gobiernodecanarias.org
+
+Nombre del centro: CEPA TELDE-LA HERRADURA
+Dirección: C/ FULTON, 40, TELDE
+Latitud: 27.9955313, Longitud: -15.4173726
+Teléfono: 928-683288
+Correo: 35009681@gobiernodecanarias.org
+
+Nombre del centro: CEPA TEROR
+Dirección: PLAZA DE SINTES, LOCAL 1, TEROR
+Latitud: 28.0585054, Longitud: -15.5481718
+Teléfono: 928-613498
+Correo: 35009693@gobiernodecanarias.org
+
+Nombre del centro: CEP DORAMAS
+Dirección: C/ BENTEJUÍ, S/N, AGÜIMES
+Latitud: 27.8775036, Longitud: -15.4313467
+Teléfono: 928-180526
+Correo: 35000136@gobiernodecanarias.org
+
+Nombre del centro: CEP GUTIÉRREZ RUBALCAVA
+Dirección: C/ PALMA DE MALLORCA, 26, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0947338, Longitud: -15.4174015
+Teléfono: 928-307039
+Correo: 35006254@gobiernodecanarias.org
+
+Nombre del centro: CIFP CRUZ DE PIEDRA
+Dirección: CARRETERA GENERAL DEL NORTE, 40,KM 2., LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1029198, Longitud: -15.4359446
+Teléfono: 928-252969
+Correo: 35014640@gobiernodecanarias.org
+
+Nombre del centro: CIFP FELO MONZÓN GRAU BASSAS
+Dirección: CTRA. LOMO BLANCO, 48, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.081866, Longitud: -15.4472906
+Teléfono: 928-350350
+Correo: 35015875@gobiernodecanarias.org
+
+Nombre del centro: CIFP SAN CRISTOBAL
+Dirección: C/ CÓRDOBA, 46B., LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0916342, Longitud: -15.4176878
+Teléfono: 928-336083 y 928-336770
+Correo: 35014652@gobiernodecanarias.org
+
+Nombre del centro: CIFP TONY GALLARDO
+Dirección: CTRA. GENERAL DE LAS COLORADAS, Nº 1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1535499, Longitud: -15.4309213
+Teléfono: 928-796292
+Correo: 35015887@gobiernodecanarias.org
+
+Nombre del centro: CIFP VILLA DE AGÜIMES
+Dirección: C/ ALCORAC, 50., AGÜIMES
+Latitud: 27.87227, Longitud: -15.4241172
+Teléfono: 928-599141
+Correo: 35014664@gobiernodecanarias.org
+
+Nombre del centro: CIPFP CENTRO SUPERIOR DE FORMACIÓN EUROPA SUR (CESUR-LAS PALMAS)
+Dirección: C/ MENDOZA, 6 - URB. INDUSTRIAL ESCARLATA, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1008837, Longitud: -15.4653897
+Teléfono: 928-229622
+Correo: fjdeharo@grupocoremsa.com
+
+Nombre del centro: CIPFP INSTITUTO CANARIO SUPERIOR DE ESTUDIOS ICSE-LAS PALMAS
+Dirección: C/ LEÓN Y CASTILLO, 116 Y C/ LUIS DORESTE SILVA, 11, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1154699, Longitud: -15.4210396
+Teléfono: 928-247534 y 928-384644
+Correo: maribel@icse.es
+
+Nombre del centro: CIPFP INSTITUTO FOCAN
+Dirección: C/ BRAVO MURILLO, 38, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1078092, Longitud: -15.4210555
+Teléfono: 928-380012 y 928-372139
+Correo: grancanaria@institutofocan.es
+
+Nombre del centro: CPDEM ALEMÁN
+Dirección: LOMO DEL DRAGO, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.080702, Longitud: -15.4681084
+Teléfono: 928-670750 y 928-670754
+Correo: verwaltung@dslpa.org
+
+Nombre del centro: CPDEM CANTERBURY SCHOOL
+Dirección: CTRA. LOMO EL DIVISO, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.114483, Longitud: -15.5165222
+Teléfono: 828-113400
+Correo: administracion@canterburyschool.com
+
+Nombre del centro: CPDEM CANTERBURY SCHOOL
+Dirección: CTRA. PALMITOS PARK, 8, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.7876594, Longitud: -15.6201078
+Teléfono: 928-142889
+Correo: maspalomas@canterburyschool.com
+
+Nombre del centro: CPDEM LYCÉE FRANÇAIS RENÉ VERNEAU DE GRAN CANARIA
+Dirección: CTRA. DE TALIARTE, S/N, TELDE
+Latitud: 27.9891819, Longitud: -15.3753284
+Teléfono: 928-576091
+Correo: liceofrances.gc@mlfmonde.org
+
+Nombre del centro: CPDEM OAKLEY COLLEGE
+Dirección: C/ ZULOAGA, 17, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.05127, Longitud: -15.4655499
+Teléfono: 928-354247
+Correo: admin@oakleycollege.com
+
+Nombre del centro: CPDEM SHAKESPEARE BRITISH SCHOOL
+Dirección: C/ SOROLLA, 3 - MONTAÑA LAS HUESAS, TELDE
+Latitud: 27.9800151, Longitud: -15.3945814
+Teléfono: 928-684290 y 630-136349
+Correo: contacto@shakespeareschool.es
+
+Nombre del centro: CPDEM THE AMERICAN SCHOOL OF LAS PALMAS
+Dirección: CTRA. DE HOYOS, 4. KM. 5, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1008837, Longitud: -15.4653897
+Teléfono: 928-430023
+Correo: info@aslp.org
+
+Nombre del centro: CPDEM THE BRITISH SCHOOL OF GRAN CANARIA
+Dirección: CTRA. DE MARZAGÁN, S/N - CRUZ DE MORERA, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0409815, Longitud: -15.4258963
+Teléfono: 928-351167 y 928-351352
+Correo: director@bs-gc.net
+
+Nombre del centro: CPDEM THE BRITISH SCHOOL OF GRAN CANARIA SOUTH
+Dirección: C/ MAR DE AZOR 3, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.7520596, Longitud: -15.6093187
+Teléfono: 928-142494
+Correo: director@bs-gc.net
+
+Nombre del centro: CPDEP COLEGIO SUECO SVENSKA SKOLAN
+Dirección: LAS PITAS, S/N (APTOS. ROCAS ROJAS), SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.7723327, Longitud: -15.5426455
+Teléfono: 928-771412
+Correo: info@svenskaskolangc.com
+
+Nombre del centro: CPDEP ESCUELA NORUEGA GRAN CANARIA
+Dirección: C/ BJORN LYNG, 4, MOGÁN
+Latitud: 27.7784286, Longitud: -15.6918683
+Teléfono: 928-152900 y 928-152901
+Correo: postmottak@colegio.no
+
+Nombre del centro: CPEE CENTRO DE TRATAMIENTO INTEGRAL DE LA PARÁLISIS INFANTIL
+Dirección: C/ LA MATULA, 9, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0899423, Longitud: -15.4351285
+Teléfono: 928-313333
+Correo: centrotipcieducacion@gmail.com
+
+Nombre del centro: CPEE CIVITAS
+Dirección: C/ LA CALZADA, 88, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.058427, Longitud: -15.4708376
+Teléfono: 928-350138
+Correo: eecivitas@gmail.com
+
+Nombre del centro: CPEE LA CASITA
+Dirección: C/ GOYA, 6, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.051355, Longitud: -15.4702274
+Teléfono: 928-351104 y 671-553390
+Correo: recepcionlc@fucas.org
+
+Nombre del centro: CPEE SAN JUAN DE DIOS
+Dirección: URB. EL LASSO, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0764826, Longitud: -15.4271223
+Teléfono: 928-339080
+Correo: sabina.ramirez@sjd.es
+
+Nombre del centro: CPEI ANITA CONRAD
+Dirección: C/ DOCTOR GARCÍA CASTRILLO, 19, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1247215, Longitud: -15.4334182
+Teléfono: 928-292509 y 928-622727
+Correo: direccion.cambalud@anitaconrad.com
+
+Nombre del centro: CPEI BICHITOS
+Dirección: C/ CAMINO LOS OLIVOS, 96, SANTA BRÍGIDA
+Latitud: 28.0413086, Longitud: -15.4899045
+Teléfono: 633-868566
+Correo: cpeibichitos@gmail.com
+
+Nombre del centro: CPEI BILINGÜE LOS PEQUES
+Dirección: C/ GALO PONTE, 21, TELDE
+Latitud: 28.0031214, Longitud: -15.3903755
+Teléfono: 928-130132
+Correo: info@escuelainfantillospeques.com
+
+Nombre del centro: CPEI BOSQUEKO
+Dirección: CARRETERA DEL CENTRO - MONTE LENTISCAL 79, SANTA BRÍGIDA
+Latitud: 28.0410055, Longitud: -15.4811598
+Teléfono: 615-170134
+Correo: info@bosqueko.com
+
+Nombre del centro: CPEI CARICIAS
+Dirección: C/ SANTIAGO ASCANIO MONTEMAYOR, 6, TELDE
+Latitud: 27.9952791, Longitud: -15.4147304
+Teléfono: 649-650617
+Correo: lidia_schatzi@hotmail.es
+
+Nombre del centro: CPEI CASCARÓN
+Dirección: AVDA. JUAN CARLOS I, 3 - B8 - URB. JARDINES DE LAS RAMBLAS, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1181398, Longitud: -15.4445328
+Teléfono: 670-064212
+Correo: info@centroinfantilcascaron.es
+
+Nombre del centro: CPEI CHILDREN´S WORLD
+Dirección: C/ CAMILO SAINT SAENZ, 8, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1263647, Longitud: -15.431074
+Teléfono: 616-864064 y 928-902610
+Correo: childrensworld.c.p.e.i@gmail.com
+
+Nombre del centro: CPEI COLORES
+Dirección: AVDA. TIRAJANA, 11, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.7543712, Longitud: -15.5783524
+Teléfono: 928-767586
+Correo: estherrzerpa@gmail.com
+
+Nombre del centro: CPEI DOMINGO ALONSO
+Dirección: C/ LOMO LA PLANA, 16 - BLOQUE 31 - PORTAL 1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1023518, Longitud: -15.4519202
+Teléfono: 639-474042
+Correo: escuelainfantil@domingoalonsogroup.com
+
+Nombre del centro: CPEI EL ARBOLITO
+Dirección: C/ PÉREZ DEL TORO, 57, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1153879, Longitud: -15.4262164
+Teléfono: 928-290261
+Correo: susherros@hotmail.com
+
+Nombre del centro: CPEI EL BARQUITO
+Dirección: C/ PÁRROCO FRANCISCO RODRÍGUEZ RODRÍGUEZ, 45, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1288225, Longitud: -15.4448223
+Teléfono: 928-079403 y 620-022734
+Correo: info@escuelainfantilelbarquito.com
+
+Nombre del centro: CPEI EL PATIO DE MI CASA
+Dirección: C/ ALFONSO EL SABIO, 1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1192752, Longitud: -15.4293092
+Teléfono: 828-904918
+Correo: cpeielpatiodemicasa@gmail.com
+
+Nombre del centro: CPEI EL PATIO DE MI CASA 7 PALMAS
+Dirección: C/ LOMO LA PLANA, 16 - URB 7 PALMAS, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1023518, Longitud: -15.4519202
+Teléfono: 680-977717
+Correo: cpeielpatiodemicasa@gmail.com
+
+Nombre del centro: CPEI ESCUELA MATERNAL E INFANTIL DR. SÁNCHEZ
+Dirección: C/ HERMANOS GARCÍA DE LA TORRE, 4, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1275031, Longitud: -15.4303743
+Teléfono: 928-234641 y 670-800670
+Correo: luisbalmes@hotmail.com
+
+Nombre del centro: CPEI FIRST STEPS
+Dirección: C/ CAMILO SAINT SAENS, Nº1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1265705, Longitud: -15.4314061
+Teléfono: 928-291599 y 628-347207
+Correo: info@firststeps.es
+
+Nombre del centro: CPEI GARABATO
+Dirección: C/ PIO XII, 17, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.123867, Longitud: -15.4316412
+Teléfono: 928-245926
+Correo: direccion@garabato.es
+
+Nombre del centro: CPEI GUAYETE
+Dirección: C/ SAN ISIDRO, 3, ARUCAS
+Latitud: 28.1293487, Longitud: -15.5090414
+Teléfono: 928-622796
+Correo: escuelainfantil@guayete.com
+
+Nombre del centro: CPEI HISPANO INGLÉS II
+Dirección: C/ GARCÍA MORATO, 31, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1242296, Longitud: -15.4340788
+Teléfono: 928-251616
+Correo: direccion@colegiohispanoingles.com
+
+Nombre del centro: CPEI LA ARDILLA AMARILLA
+Dirección: C/ ALFONSO DE ARMAS AYALA, 30, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1047563, Longitud: -15.4799749
+Teléfono: 928-670273
+Correo: info@laardillaamarilla.es
+
+Nombre del centro: CPEI LA BLANCA PALOMA
+Dirección: C/ TIRSO DE MOLINA, 3 - ESQ. C/ EMILIO LEV, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1195989, Longitud: -15.4290865
+Teléfono: 928-246403
+Correo: fatimacardenes@hotmail.com
+
+Nombre del centro: CPEI LA CASITA DE LOS NIÑOS
+Dirección: CARRETERA TAMARACEITE A TEROR, 52-54, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0973642, Longitud: -15.48253
+Teléfono: 928-671871 y 616-702078
+Correo: casitadelospequescpei@gmail.com
+
+Nombre del centro: CPEI LA ESCUELA DE ELE
+Dirección: C/ FAYCANES, Nº 13, TELDE
+Latitud: 27.9928526, Longitud: -15.4245201
+Teléfono: 928-072609
+Correo: info@laescueladeele.com
+
+Nombre del centro: CPEI LA GALLINA TURULETA
+Dirección: CTRA. GRAL. DE TAMARACEITE, 63, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0998844, Longitud: -15.4618569
+Teléfono: 928-437881
+Correo: gallinaturuleta@telefonica.net
+
+Nombre del centro: CPEI LA MANZANA ARENALES
+Dirección: C/ OBISPO RABADÁN, 48, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1117804, Longitud: -15.4216973
+Teléfono: 928-371724
+Correo: arenales@la-manzana.com
+
+Nombre del centro: CPEI LA PIRULETA
+Dirección: C/ ALFREDO CALDERÓN, 57- BAJO, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1305675, Longitud: -15.4327077
+Teléfono: 928-078559 y 658-999506
+Correo: centroinfantillapiruleta@gmail.com
+
+Nombre del centro: CPEI LITTLE STAR ESCUELA INFANTIL
+Dirección: C/ CANALEJAS, 65, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1121427, Longitud: -15.4213325
+Teléfono: 928-961982
+Correo: elpatitofeolaspalmas@gmail.com
+
+Nombre del centro: CPEI LOS ENANITOS
+Dirección: C/ MURILLO, 12, TELDE
+Latitud: 27.9800346, Longitud: -15.3939272
+Teléfono: 630-136349 y 928-702086
+Correo: losenanitos7@hotmail.com
+
+Nombre del centro: CPEI LOS JAIMITOS
+Dirección: C/ JUAN DE JUNI, 54, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0517458, Longitud: -15.4714946
+Teléfono: 928-351000
+Correo: info@colegiojaimebalmes.es
+
+Nombre del centro: CPEI LOS NARANJITOS II
+Dirección: C/ PADRE MANJÓN, 3, INGENIO
+Latitud: 27.9136564, Longitud: -15.4130094
+Teléfono: 627-458527
+Correo: jns_servicios@hotmail.com
+
+Nombre del centro: CPEI MAFALDA
+Dirección: CTRA. GRAL. DEL NORTE KM. 4,1 - LOS TARAHALES, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0967733, Longitud: -15.4502812
+Teléfono: 928-410375
+Correo: escuelainfantilmaphalda@gmail.com
+
+Nombre del centro: CPEI MANUELITA
+Dirección: ALBERTO MANRIQUE, 9 - PARCELA 1 - URB. SONNELAND, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.76096, Longitud: -15.60174
+Teléfono: 699-412436 y 928-078093
+Correo: administracion@escuelainfantilmanuelitalatortuga.es
+
+Nombre del centro: CPEI MARPE INFANTIL
+Dirección: C/ VALLE INCLÁN, 4, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1159635, Longitud: -15.4336692
+Teléfono: 928-205277
+Correo: altavistall@colegiomarpe.com
+
+Nombre del centro: CPEI MI ARCO IRIS
+Dirección: C/ SECRETARIO ARTILES, 78, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1419537, Longitud: -15.432046
+Teléfono: 928-269015
+Correo: infampopi@gmail.com
+
+Nombre del centro: CPEI MI BARQUITO
+Dirección: C.C. URB. PARQUE RESIDENCIAL MIRADOR DEL NORTE, ARUCAS
+Latitud: 28.1201412, Longitud: -15.5210607
+Teléfono: 928-634433
+Correo: mibarquito@hotmail.es
+
+Nombre del centro: CPEI MI COLE DE VEGUETA
+Dirección: C/ ALCALDE FCO. HERNÁNDEZ GONZÁLEZ, 32, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.098775, Longitud: -15.4128133
+Teléfono: 928-339189 y 679-268741
+Correo: micoledevegueta@gmail.com
+
+Nombre del centro: CPEI MIS PEQUES
+Dirección: C/ DR. PONCE ARIAS, 25, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1283025, Longitud: -15.4323603
+Teléfono: 928-241723
+Correo: isa.ra@icloud.com
+
+Nombre del centro: CPEI MUNDO FELIZ
+Dirección: C/ MADRES DOMINICAS, 2 - MANZANA 4 - URB. LAS CUARTAS, SANTA MARÍA DE GUÍA DE GRAN CANARIA
+Latitud: 28.1425297, Longitud: -15.6345956
+Teléfono: 699-623001
+Correo: info@cpeimundofeliz.com
+
+Nombre del centro: CPEI NUEVA ATLÁNTIDA
+Dirección: PASEO DE TOMÁS MORALES,132, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1189593, Longitud: -15.4273496
+Teléfono: 928-232518
+Correo: info@guarderianuevaatlantida.com
+
+Nombre del centro: CPEIP ANITA CONRAD SUR
+Dirección: CAMINO LOMO LOS AZULES, PEDRAZO ALTO, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.7683879, Longitud: -15.6248931
+Teléfono: 928-775192
+Correo: gestion@anitaconrad.net
+
+Nombre del centro: CPEIP ARENAS
+Dirección: LLANOS DE TARAHALES, 76, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0961107, Longitud: -15.4504588
+Teléfono: 928-415996
+Correo: noemi.navarro@colegioarenas.es
+
+Nombre del centro: CPEIP BRAINS
+Dirección: C/ PASEO DE TOMÁS MORALES, 111, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1185811, Longitud: -15.4275527
+Teléfono: 928-296444
+Correo: secretarialp@colegiobrains.com
+
+Nombre del centro: CPEIP HISPANO INGLÉS
+Dirección: PASEO MADRID, 2-4 Y 6, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.120456, Longitud: -15.4263276
+Teléfono: 928-251616
+Correo: direccion@colegiohispanoingles.com
+
+Nombre del centro: CPEI PIOLINA
+Dirección: C/ DIEGO DE VELÁZQUEZ, 9, GÁLDAR
+Latitud: 28.1485769, Longitud: -15.6480504
+Teléfono: 928-550002
+Correo: darimensa@hotmail.es	
+
+Nombre del centro: CPEI PIZQUITO
+Dirección: C/ CANO, 9, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1040578, Longitud: -15.4163719
+Teléfono: 928-381591
+Correo: pizquito@pizquito.es
+
+Nombre del centro: CPEIP KAIZEN MONTESSORI
+Dirección: C/ PLAN DE LORETO, 7, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0653695, Longitud: -15.456815
+Teléfono: 680-685225
+Correo: dacil@montessorigrancanaria.com
+
+Nombre del centro: CPEIP LA CASA DEL SOL
+Dirección: PASAJE DEL ROBLE, 19, ARUCAS
+Latitud: 28.1201412, Longitud: -15.5210607
+Teléfono: 928-622144
+Correo: lacasadelsolarucas@gmail.com
+
+Nombre del centro: CPEIP LA HIGUERITA
+Dirección: CTRA. DE MARZAGÁN, 165, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0401277, Longitud: -15.4294707
+Teléfono: 928-715847 y 928-712179
+Correo: info@colegiolahiguerita.es
+
+Nombre del centro: CPEIP MARPE-CIUDAD JARDÍN
+Dirección: C/ ÁNGEL GUIMERÁ, 97, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1193357, Longitud: -15.426783
+Teléfono: 928-231911
+Correo: marpe.ciudadjardin@colegiomarpe.es
+
+Nombre del centro: CPEIP NUESTRA SEÑORA DEL CARMEN
+Dirección: C/ 29 DE ABRIL, 71, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1415163, Longitud: -15.4326749
+Teléfono: 928-278755 y 928-265392
+Correo: direccion@cevdelcarmenesur.es
+
+Nombre del centro: CPEIP SAGRADO CORAZÓN DE JESÚS
+Dirección: C/ EL PINO, 3, ARUCAS
+Latitud: 28.1201412, Longitud: -15.5210607
+Teléfono: 928-601036
+Correo: sacorje@cevsagradocorazonarucasesur.es
+
+Nombre del centro: CPEIPS ALMA´S
+Dirección: BARRANCO NEGRO TABAIBALES, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.77402983533746, Longitud: -15.62659366650264
+Teléfono: 928-142028
+Correo: direccion@colegioalmas.com
+
+Nombre del centro: CPEIPS ANITA CONRAD
+Dirección: CAMINO LOS DOLORES, 11, FIRGAS
+Latitud: 28.1351727, Longitud: -15.5513455
+Teléfono: 928-622727 y 928-245385
+Correo: direccion.cambalud@anitaconrad.com
+
+Nombre del centro: CPEIPS ARENAS SUR
+Dirección: C/ LAS MARGARITAS, 28.- FINCA AMURGA, 517, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.769929, Longitud: -15.5479647
+Teléfono: 928-765934
+Correo: irene.rodriguez@arenassur.com
+
+Nombre del centro: CPEIPS ATLANTIC SCHOOL GUAYDIL
+Dirección: CTRA. DEL FONDILLO, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0666368, Longitud: -15.451696
+Teléfono: 928-353311
+Correo: secretaria@atlanticschools.net
+
+Nombre del centro: CPEIPS ENRIQUE DE OSSO
+Dirección: C/ AMAZONAS, 52, TELDE
+Latitud: 27.9780039, Longitud: -15.429515
+Teléfono: 928-695255 y 610-556456
+Correo: direcciongeneral@telde.escuelateresiana.com
+
+Nombre del centro: CPEIPS HEIDELBERG
+Dirección: BARRANCO SECO. APTDO. 248, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.07631341463046, Longitud: -15.4386597285575
+Teléfono: 928-351672 y 928-350462
+Correo: secretarioacademico@heidelbergschule.com
+
+Nombre del centro: CPEIPS JAIME BALMES
+Dirección: C/ JUAN JUNI, 27 Y 54, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0516365, Longitud: -15.4705632
+Teléfono: 928-351000
+Correo: info@colegiojaimebalmes.es
+
+Nombre del centro: CPEIPS JESÚS SACRAMENTADO
+Dirección: C/ PEDRO ARGÜELLO, 12, GÁLDAR
+Latitud: 28.1444972, Longitud: -15.6494547
+Teléfono: 928-880723
+Correo: jesussacramentado@planalfa.es
+
+Nombre del centro: CPEIPS JUAN RAMÓN JIMÉNEZ
+Dirección: CTRA. LOS HOYOS, 160 (KM 3.200), LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1008837, Longitud: -15.4653897
+Teléfono: 928-354008 y 928-354012
+Correo: colegio@cooperativajuanramonjimenez.com
+
+Nombre del centro: CPEIPS LA SALLE
+Dirección: C/ LA SALLE, 27, ARUCAS
+Latitud: 28.1200298, Longitud: -15.518425
+Teléfono: 928-600066
+Correo: lasalle@lasallearucas.es
+
+Nombre del centro: CPEIPS LA SALLE ANTÚNEZ
+Dirección: C/ LUIS ANTÚNEZ, 37, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1312962, Longitud: -15.4308286
+Teléfono: 928-241668
+Correo: lasalleantunez@lasalleantunez.es
+
+Nombre del centro: CPEIPS LOS ÁNGELES
+Dirección: C/ ECHEGARAY, 52, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1160133, Longitud: -15.4331101
+Teléfono: 928-252887
+Correo: admin@educalosangeles.es
+
+Nombre del centro: CPEIPS MARÍA AUXILIADORA
+Dirección: PASEO DE TOMÁS MORALES, 41, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1131307, Longitud: -15.4243346
+Teléfono: 928-233365 y 928-242259
+Correo: secretarialaspalmasma@salesianas.org
+
+Nombre del centro: CPEIPS MARÍA AUXILIADORA
+Dirección: C/ RUIZ, 15, TELDE
+Latitud: 27.9961191, Longitud: -15.4165039
+Teléfono: 928-690114 y 928-691592
+Correo: titulartelde@salesianas.org
+
+Nombre del centro: CPEIPS MARPE ALTAVISTA
+Dirección: C/ VALLE INCLÁN, ESQ.CARLOS M., 4, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.116072, Longitud: -15.4341328
+Teléfono: 928-257729 y 928-205084
+Correo: altavistall@colegiomarpe.com
+
+Nombre del centro: CPEIPS NORTE
+Dirección: C/ SECRETARIO PADILLA, 57, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1345399, Longitud: -15.4395734
+Teléfono: 928-271797
+Correo: administracion@colegionorte.com
+
+Nombre del centro: CPEIPS NUESTRA SEÑORA DE LAS NIEVES
+Dirección: CTRA. GENERAL MARZAGÁN, 147, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1029198, Longitud: -15.4359446
+Teléfono: 928-717261 y 928-712448
+Correo: colegiodelasnieves@telefonica.net
+
+Nombre del centro: CPEIPS NUESTRA SEÑORA DEL PILAR
+Dirección: C/ CASTILLEJOS, 6, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1306853, Longitud: -15.4419589
+Teléfono: 928-260138
+Correo: titularlaspalmasnsp@salesianas.org
+
+Nombre del centro: CPEIPS NUESTRA SEÑORA DEL ROSARIO
+Dirección: AVDA. HNOS. DE LA SALLE, 1, AGÜIMES
+Latitud: 27.9178058, Longitud: -15.4383618
+Teléfono: 928-781843 y 606-727258
+Correo: colegiorosario@ipejesussacramentado.com
+
+Nombre del centro: CPEIPS SAGRADA FAMILIA
+Dirección: C/ ACONCAGUA, 3. CASABLANCA III, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0941478, Longitud: -15.4413928
+Teléfono: 928-419788 y 928-416144
+Correo: sagradafamilia@cevhc.es
+
+Nombre del centro: CPEIPS SAGRADO CORAZÓN
+Dirección: CTRA. DEL CENTRO, 1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0985105, Longitud: -15.4194963
+Teléfono: 928-351546 y 928-351550
+Correo: info@colegiosagradocorazon.com
+
+Nombre del centro: CPEIPS SALESIANOS SAGRADO CORAZÓN DE JESÚS
+Dirección: C/ BEETHOVEN, 4, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1223076, Longitud: -15.4282703
+Teléfono: 928-245139
+Correo: direccioncolegio.laspalmas@salesianos.edu
+
+Nombre del centro: CPEIPS SAN ANTONIO MARÍA CLARET
+Dirección: C/ OBISPO RABADÁN, 13, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1121279, Longitud: -15.4200557
+Teléfono: 928-670100 y 928-670104
+Correo: secrabadan@claretlaspalmas.es
+
+Nombre del centro: CPEIPS SAN IGNACIO DE LOYOLA
+Dirección: C/ JUAN E. DORESTE, 1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1482905, Longitud: -15.4217587
+Teléfono: 928-314000
+Correo: sanignacio@fundacionloyola.es
+
+Nombre del centro: CPEIPS SAN ISIDORO
+Dirección: C/ DOCTOR RUANO Y URQUÍA, 8, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1153429, Longitud: -15.4390483
+Teléfono: 928-250119 y 928-200756
+Correo: colegiosanisidoro@gmail.com
+
+Nombre del centro: CPEIPS SAN JOSÉ FESD
+Dirección: C/ GENERAL BRAVO, 8, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1036238, Longitud: -15.4168524
+Teléfono: 928-367099
+Correo: dirgeneral.laspalmas@fesd.es
+
+Nombre del centro: CPEIPS SAN JUAN BOSCO
+Dirección: CTRA. DEL CENTRO, 54, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0975351, Longitud: -15.4220712
+Teléfono: 928-311454
+Correo: titularlaspalmassjb@salesianas.org
+
+Nombre del centro: CPEIPS SAN MARTÍN DE PORRES
+Dirección: C/ DOÑA PERFECTA, 73, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1099544, Longitud: -15.4334781
+Teléfono: 928-203642
+Correo: cpeipssanmartindeporres@gmail.com
+
+Nombre del centro: CPEIPS SAN MIGUEL ARCÁNGEL
+Dirección: C/ HENRY DUNNAT, 1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1125048, Longitud: -15.4354908
+Teléfono: 928-251832
+Correo: sanmiguelarcangel.lp@gmail.com
+
+Nombre del centro: CPEIPS SAN RAFAEL
+Dirección: C/ PADRE DÁMASO SERNA, 5, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1132797, Longitud: -15.4401982
+Teléfono: 928-255595
+Correo: creasanrafael@hotmail.com
+
+Nombre del centro: CPEIPS SANTA MARÍA MICAELA
+Dirección: C/ FERNANDO GALVÁN, 3, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.097655, Longitud: -15.4150377
+Teléfono: 928-330904
+Correo: smmicaelalp@planalfa.es
+
+Nombre del centro: CPEIPS SANTA TERESA DE JESÚS
+Dirección: C/ PÍO XII, 34, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1255047, Longitud: -15.432295
+Teléfono: 928-290001
+Correo: direcciongeneral@laspalmas.escuelateresiana.com
+
+Nombre del centro: CPEIPS SANTO DOMINGO SAVIO
+Dirección: C/ CASTILLO, 11, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1236391, Longitud: -15.4349194
+Teléfono: 928-312315
+Correo: sdomingosavio@telefonica.net
+
+Nombre del centro: CPEIPS SAN VICENTE DE PAÚL
+Dirección: C/ PARANÁ, 5, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.092641, Longitud: -15.44168
+Teléfono: 928-421495 y 928-419132
+Correo: info@sanvicentedepaul.es
+
+Nombre del centro: CPEIPS SAUCILLO
+Dirección: C/ SAUCILLO, 20, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.150883, Longitud: -15.4304584
+Teléfono: 928-469251 y 928-464864
+Correo: colegio@saucillo.e.telefonica.net
+
+Nombre del centro: CPEIP TAURO
+Dirección: C/ TAURO, 22, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1502177, Longitud: -15.4260902
+Teléfono: 928-915911 y 606-594306
+Correo: coletauro@gmail.com
+
+Nombre del centro: CPEI RATÓN SIN COLA
+Dirección: C/ LEÓN Y CASTILLO, 30, TELDE
+Latitud: 28.0019839, Longitud: -15.4155802
+Teléfono: 928-685280 y 678-784489
+Correo: escuelainfantilratonsincola@gmail.com
+
+Nombre del centro: CPEIS ARENAS ATLANTICO
+Dirección: PASEO DE SAN PATRICIO, 20, ARUCAS
+Latitud: 28.1298892, Longitud: -15.5225031
+Teléfono: 928-629140
+Correo: noemi.navarro@colegioarenas.es
+
+Nombre del centro: CPEI TAMBI 1
+Dirección: C/ LUIS DORESTE SILVA, 12 - BAJO A, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1157274, Longitud: -15.4201281
+Teléfono: 928-231252
+Correo: eitambi@yahoo.es
+
+Nombre del centro: CPEI TAMBI 2
+Dirección: C/ CAMELIA,13 - BAJO B, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1144937, Longitud: -15.451918
+Teléfono: 928-231252
+Correo: eitambi@yahoo.es
+
+Nombre del centro: CPEI TU JARDÍN
+Dirección: C/ TOMÁS MILLER, 30 - ESQ. C/ LOS MARTÍNEZ DE ESCOBAR, 25, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1379232, Longitud: -15.4334193
+Teléfono: 928-283227
+Correo: guarderiatujardin@hotmail.com
+
+Nombre del centro: CPEPS ATLANTIC SCHOOL GAROÉ
+Dirección: C/ GUSTAVO J. NAVARRO NIETO, 23, SANTA BRÍGIDA
+Latitud: 28.1094543, Longitud: -15.4408867
+Teléfono: 928-355000
+Correo: secretaria@atlanticschools.net
+
+Nombre del centro: CPES BRAINS INTERNATIONAL SCHOOL
+Dirección: CTRA. DE LA PARDILLA, KM 1,7, TELDE
+Latitud: 28.0154817, Longitud: -15.3910789
+Teléfono: 928-694257 y 928-506114
+Correo: secretariatelde@colegiobrains.com
+
+Nombre del centro: CPES CENTRO SOPEÑA LAS PALMAS
+Dirección: C/ PRUDENCIA HDEZ. AJENO, 15-17, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0851672, Longitud: -15.419481
+Teléfono: 928-310962 y 928-314504
+Correo: d.academica@sopenalaspalmas.org
+
+Nombre del centro: CPES HISPANO INGLÉS III
+Dirección: CAMINO LOS FIERROS, 7, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0492585, Longitud: -15.457167
+Teléfono: 928-251616 y 928-356826
+Correo: direccion@colegiohispanoingles.com
+
+Nombre del centro: CPES NUESTRA SEÑORA DEL PILAR
+Dirección: C/ LEPANTO, 20, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1296204, Longitud: -15.4450433
+Teléfono: 928-272947
+Correo: administracion@cceelpilar.es
+
+Nombre del centro: CPES RENÉ VERNEAU DE GRAN CANARIA
+Dirección: CTRA. DE TALIARTE, S/N, TELDE
+Latitud: 27.9891819, Longitud: -15.3753284
+Teléfono: 928-576091
+Correo: liceofrances.gc@mlfmonde.org
+
+Nombre del centro: CPES SANTA CATALINA
+Dirección: C/ ARÍSTIDES BRIAND, 16, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1365656, Longitud: -15.437038
+Teléfono: 928-221582 y 928-472107
+Correo: administracion@ccestacatalina.es
+
+Nombre del centro: CPES SANTA ISABEL DE HUNGRÍA
+Dirección: AVDA. DE ESCALERITAS, 53, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1199467, Longitud: -15.4366091
+Teléfono: 928-250761
+Correo: administracion@ccestaisabel.es
+
+Nombre del centro: CPFP ACADEMIA TELDE
+Dirección: C/ PITÁGORAS, 19, TELDE
+Latitud: 27.9941679, Longitud: -15.3989873
+Teléfono: 928-681118
+Correo: formacion@academiatelde.com
+
+Nombre del centro: CPFP CENTRO DE ESTUDIOS MASTER
+Dirección: AVDA. DE CANARIAS, 380, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8431757, Longitud: -15.44644
+Teléfono: 928-755105
+Correo: lolygonzalez@centromaster.com
+
+Nombre del centro: CPFP CENTRO DE FORMACIÓN PARA EL EMPLEO SANTA BRÍGIDA SL
+Dirección: C/ DOCTOR JUAN GONZÁLEZ ROSALES, 7, SANTA BRÍGIDA
+Latitud: None, Longitud: None
+Teléfono: 928-644265
+Correo: formacion@centroformacionsantabrigida.com
+
+Nombre del centro: CPFP CENTRO INTERNACIONAL POLITÉCNICO
+Dirección: C/ MIGUEL DE CERVANTES, 2. EDIF. BITÁCORA, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1008837, Longitud: -15.4653897
+Teléfono: 928-369211
+Correo: infolpa@formacioncip.com
+
+Nombre del centro: CPFP GORSAN
+Dirección: C/ LOMO LA PLANA, 34 - BLOQUE 21 - ESCALERA 1 - LOCALES 19,20,21 Y, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0964403, Longitud: -15.4542015
+Teléfono: 928-074710
+Correo: direccion@gorsan.es
+
+Nombre del centro: CPFP HIGIDENT
+Dirección: C/ LEÓN Y CASTILLO, 11, 1ª PLANTA, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1098309, Longitud: -15.4183168
+Teléfono: 928-382497 y 646-090200
+Correo: higidentlpgc@hotmail.com
+
+Nombre del centro: CPFP HOTEL ESCUELA SANTA BRÍGIDA
+Dirección: C/ REAL DE COELLO, 2, SANTA BRÍGIDA
+Latitud: 28.0457912, Longitud: -15.4772827
+Teléfono: 928-478452 y 928-478462
+Correo: ymarrero@hecansa.com
+
+Nombre del centro: CPFP INFORPRO
+Dirección: C/ ARGUINEGUÍN, 3 - URB. INDUSTRIAL LAS TORRES, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1103268, Longitud: -15.4566517
+Teléfono: 928-220603
+Correo: direccion@inforpro.education
+
+Nombre del centro: CPFP KUMA
+Dirección: AVDA. JOSÉ RAMÍREZ BETHENCOURT, 17 - BAJO TRASERA, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1168518, Longitud: -15.4202617
+Teléfono: 928-315335
+Correo: javiermayoral@ckuma.com
+
+Nombre del centro: CPFP RAMA SANITARIA, S.L.
+Dirección: CARRETERA DE ALMATRICHE,27, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0923441, Longitud: -15.4595896
+Teléfono: 928-698685 y 928-667875
+Correo: administracion@escueladentalcanarias.com
+
+Nombre del centro: CPM LAS PALMAS DE GRAN CANARIA
+Dirección: C/ MANINIDRA, 1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1040289, Longitud: -15.4175729
+Teléfono: 928-478571
+Correo: 35007374@gobiernodecanarias.org
+
+Nombre del centro: CSM CANARIAS (SEDE GRAN CANARIA)
+Dirección: C/ SAN FRANCISCO, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1173847, Longitud: -15.4532335
+Teléfono: 928-478571
+Correo: 35013738@gobiernodecanarias.org
+
+Nombre del centro: EASD GRAN CANARIA
+Dirección: AVDA. DE CANARIAS, 44 (JUNTO EDF. PINEDA), LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0770761, Longitud: -15.4156869
+Teléfono: 928-478555
+Correo: 35003034@gobiernodecanarias.org
+
+Nombre del centro: EEI ALMIRANTE ANTEQUERA
+Dirección: C/ CÓRDOBA, 13. SAN CRISTÓBAL, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0942792, Longitud: -15.4153719
+Teléfono: 928-311101
+Correo: 35006266@gobiernodecanarias.org
+
+Nombre del centro: EEI ARIDAMAN (D.G.PROTECC.MENOR)
+Dirección: C/ CAMILO JOSÉ CELA, 3, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0628453, Longitud: -15.4515205
+Teléfono: 928-350672
+Correo: mmarqui@gobiernodecanarias.org
+
+Nombre del centro: EEI BAMBI
+Dirección: C/ LICENCIADO AGUSTÍN RODRÍGUEZ, 3, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1045952, Longitud: -15.4399641
+Teléfono: 928-907896 y 928-446016
+Correo: jgomez@laspalmasgc.es
+
+Nombre del centro: EEI BASE AÉREA DE GANDO
+Dirección: CARRETERA DEL SUR, KM 20, TELDE
+Latitud: 27.9955313, Longitud: -15.4173726
+Teléfono: 928-328434 y 928-328316
+Correo: ofap_ala46@mde.es
+
+Nombre del centro: EEI BLANCANIEVES
+Dirección: C/ DOCTOR JIMÉNEZ NEYRA, 35, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1098676, Longitud: -15.4281509
+Teléfono: 928-446016
+Correo: jgomez@laspalmasgc.es
+
+Nombre del centro: EEI CARRIZAL
+Dirección: C/ ARCIPRESTE DE HITA, 8, INGENIO
+Latitud: 27.9102805, Longitud: -15.4048907
+Teléfono: 928-780076 y 928-784726
+Correo: escuelasinfantiles@ingenio.es
+
+Nombre del centro: EEI DUMBO
+Dirección: CTRA. CIUDAD DE SAN JUAN DE DIOS, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0802175, Longitud: -15.4259097
+Teléfono: 928-446040 y 928-446016
+Correo: jgomez@laspalmasgc.es
+
+Nombre del centro: EEI EL CANARIO
+Dirección: C/ CANALEJAS, 48 A, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8568002, Longitud: -15.4334419
+Teléfono: 928-753407
+Correo: escuelasinfantiles@santaluciagc.com
+
+Nombre del centro: EEI EL DOCTORAL
+Dirección: C/ LOS POCEROS, 1, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.9146624, Longitud: -15.4030443
+Teléfono: 928-753406
+Correo: escuelasinfantiles@santaluciagc.com
+
+Nombre del centro: EEI GRUMETE
+Dirección: C/ CARVAJAL, 1 BAJO, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1235459, Longitud: -15.4362574
+Teléfono: 928-230618
+Correo: reasperlaspalmas@fn.mde.es
+
+Nombre del centro: EEI HEIDI (SCHAMANN)
+Dirección: C/ DOCTOR MARAÑÓN, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1031454, Longitud: -15.4397795
+Teléfono: 928-446040
+Correo: jgomez@laspalmasgc.es
+
+Nombre del centro: EEI JINÁMAR
+Dirección: C/ LOTUS KUNKELLI, 60, TELDE
+Latitud: 28.0247888, Longitud: -15.4084668
+Teléfono: 928-695284 y 828-013615
+Correo: escuelasinfantiles@telde.es
+
+Nombre del centro: EEI JOSÉ MELIÁN RODRÍGUEZ
+Dirección: C/ TIRMA, S/N, AGÜIMES
+Latitud: 27.8776189, Longitud: -15.4300133
+Teléfono: 928-181942 y 608-910907
+Correo: 35008512@gobiernodecanarias.org
+
+Nombre del centro: EEI LA CARRUCHA
+Dirección: C/ CORONEL ROCHA, 45, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1544361, Longitud: -15.4262662
+Teléfono: 928-907676 y 928-446016
+Correo: jgomez@laspalmasgc.es
+
+Nombre del centro: EEI LA ESCUELITA
+Dirección: C/ PÁRROCO MARRERO DÍAZ, S/N, VALLESECO
+Latitud: 28.0474528, Longitud: -15.5772536
+Teléfono: 928-619978
+Correo: guarderia@valleseco.es
+
+Nombre del centro: EEI LA HERRADURA
+Dirección: C/ HOLANDA ESQUINA C/ ROQUE DEL EST, TELDE
+Latitud: 52.132633, Longitud: 5.291265999999999
+Teléfono: 928-695271 y 828-013615
+Correo: escuelasinfantiles@telde.es
+
+Nombre del centro: EEI LA SIRENITA (TAMARACEITE)
+Dirección: C/ CRUZ DEL OVEJERO, S/N - Bº DE TAMARACEITE, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0982914, Longitud: -15.478169
+Teléfono: 928-446040
+Correo: jgomez@laspalmasgc.es
+
+Nombre del centro: EEI LAS REMUDAS
+Dirección: C/ RAFAEL ALBERTI ,NRO 1- RESIDENCIAL LAS REMUDAS, TELDE
+Latitud: 28.008867, Longitud: -15.3934689
+Teléfono: 928-695273 y 828-013615
+Correo: escuelasinfantiles@telde.es
+
+Nombre del centro: EEI LOS LLANOS
+Dirección: C/ LOS LLANOS, 44, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8581946, Longitud: -15.4437167
+Teléfono: 928-790219
+Correo: escuelasinfantiles@santaluciagc.com
+
+Nombre del centro: EEI LOS PITUFOS
+Dirección: C/ OBISPO MARQUINA, 3, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1055462, Longitud: -15.5082246
+Teléfono: 928-446016
+Correo: jgomez@laspalmasgc.es
+
+Nombre del centro: EEI MARÍA JESÚS RAMÍREZ OSITOS
+Dirección: C/ TAMARÁN, 57, MOGÁN
+Latitud: 27.7615698, Longitud: -15.6815083
+Teléfono: 928-158800
+Correo: escuelainfantilarg@mogan.es
+
+Nombre del centro: EEI MOGÁN
+Dirección: AVDA. LOS MARREROS, 28, MOGÁN
+Latitud: 27.8288657, Longitud: -15.7546047
+Teléfono: 928-565982
+Correo: mogan@cativos.com
+
+Nombre del centro: EEI PINOCHO
+Dirección: C/ SAN BORONDÓN, 15, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0986582, Longitud: -15.475229
+Teléfono: 928-907659 y 928-446016
+Correo: jgomez@laspalmasgc.es
+
+Nombre del centro: EEI PLUTO (B. ATLÁNTICO)
+Dirección: C/ PERPENDICULAR A C/ DIEGO BETANCOR SUAREZ - Bº DEL ATLÁNTICO, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1101607, Longitud: -15.4452874
+Teléfono: 928-446040
+Correo: jgomez@laspalmasgc.es
+
+Nombre del centro: EEI POCAHONTAS (SARAMAGO)
+Dirección: C/ ALBAHACA, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.10924, Longitud: -15.44845
+Teléfono: 928-446040
+Correo: jgomez@laspalmasgc.es
+
+Nombre del centro: EEI PRINCESA TENESOYA
+Dirección: C/ DEBUSSY, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1235459, Longitud: -15.4362574
+Teléfono: 928-446016
+Correo: jgomez@laspalmasgc.es
+
+Nombre del centro: EEI SAN ISIDRO
+Dirección: C/ SINDICO LORENZO Y VÁZQUEZ, S/N, GÁLDAR
+Latitud: 28.12979, Longitud: -15.662274
+Teléfono: 928-550518
+Correo: einfantil@galdar.es
+
+Nombre del centro: EEI SARANTONTÓN
+Dirección: C/ BELETÉN, 31, AGÜIMES
+Latitud: 27.8760862, Longitud: -15.4258791
+Teléfono: 928-183897
+Correo: sramirez@aguimes.es
+
+Nombre del centro: EMM AGAETE
+Dirección: C/ CANARIO, 20., AGAETE
+Latitud: 28.099613, Longitud: -15.6994625
+Teléfono: 928-898681
+Correo: escuelasartisticas@aytoagaete.es
+
+Nombre del centro: EMM AGÜIMES
+Dirección: C/ DEL MORAL, 6, AGÜIMES
+Latitud: 27.9018327, Longitud: -15.4463485
+Teléfono: 928-789195
+Correo: emma@aguimes.es
+
+Nombre del centro: EMM ARUCAS
+Dirección: C/ LOS MARQUESES DE ARUCAS, 38, ARUCAS
+Latitud: 28.1198791, Longitud: -15.5223657
+Teléfono: 928-605072
+Correo: escuelasartisticas@arucas.org
+
+Nombre del centro: EMM CANDIDITO
+Dirección: C/ PADRE CUETO, 2, TEROR
+Latitud: 28.059558, Longitud: -15.5484219
+Teléfono: 928-632755
+Correo: emmcandiditoteror@gmail.com
+
+Nombre del centro: EMMD INGENIO
+Dirección: AVDA. DE LOS ARTESANOS, S/N, INGENIO
+Latitud: 27.9163783, Longitud: -15.4212472
+Teléfono: 928-787293 y 928-781176
+Correo: escuela@bandadeingenio.com
+
+Nombre del centro: EMMD MOGÁN
+Dirección: C/ ALCALDE PACO GONZÁLEZ, 10, MOGÁN
+Latitud: 27.7578918, Longitud: -15.6801482
+Teléfono: 928-158807 y 928-568581
+Correo: eam@mogan.es
+
+Nombre del centro: EMMD SANTA MARÍA DE GUÍA
+Dirección: C/ SANCHO DE VAGAS, 19, SANTA MARÍA DE GUÍA DE GRAN CANARIA
+Latitud: 28.139494, Longitud: -15.6295001
+Teléfono: 928-880095 y 928-551670
+Correo: emydguia@yahoo.es
+
+Nombre del centro: EMMD VALSEQUILLO
+Dirección: AVDA. JUAN CARLOS I, 8, VALSEQUILLO DE GRAN CANARIA
+Latitud: 27.9909919, Longitud: -15.4973958
+Teléfono: 928-417977 y 699-077278
+Correo: cultura@valsequillogc.net
+
+Nombre del centro: EMM LA ALDEA
+Dirección: C/ PASEO LAS PALMERAS, S/N, LA ALDEA DE SAN NICOLÁS
+Latitud: 27.9822218, Longitud: -15.7793741
+Teléfono: 928-890190
+Correo: nayra_ojeda@hotmail.com
+
+Nombre del centro: EMM LAS PALMAS DE GRAN CANARIA
+Dirección: C/ MONTEJURRA Nº1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1083985, Longitud: -15.4318707
+Teléfono: 928-361307 y 928-360538
+Correo: ememlaspalmas@ememlaspalmas.com
+
+Nombre del centro: EMM PEDRO ESPINOSA
+Dirección: C/ TENESOR SEMIDÁN, 3, GÁLDAR
+Latitud: 28.1448712, Longitud: -15.654397
+Teléfono: 928-880050
+Correo: escuelademusica@galdar.es
+
+Nombre del centro: EMM SAN BARTOLOMÉ DE TIRAJANA
+Dirección: AVDA. DE TEJEDA, 52, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.7663266, Longitud: -15.5796315
+Teléfono: nan
+Correo: emmusica@maspalomas.com
+
+Nombre del centro: EMM SANTA BRÍGIDA
+Dirección: C/ LA NUEVA, 13, SANTA BRÍGIDA
+Latitud: None, Longitud: None
+Teléfono: 928-640072
+Correo: loli.ortega7@gmail.com
+
+Nombre del centro: EMM SANTA LUCÍA DE TIRAJANA
+Dirección: C/ COLÓN, 18, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8499926, Longitud: -15.44048
+Teléfono: 928-754800
+Correo: info@ateneosantalucia.es
+
+Nombre del centro: EMM TELDE
+Dirección: C/ CONDE DE LA VEGA GRANDE 12, TELDE
+Latitud: 28.0041956, Longitud: -15.4138092
+Teléfono: 828-013318 y 928-699850
+Correo: escuela@gestesl.com
+
+Nombre del centro: EMM VEGA DE SAN MATEO
+Dirección: C/ DOCTOR JACINTO RODRÍGUEZ MEJÍAS, S/N, VEGA DE SAN MATEO
+Latitud: 28.0114059, Longitud: -15.532734
+Teléfono: 928-661902 y 928-661838
+Correo: emm@vegadesanmateo.org
+
+Nombre del centro: EMM VILLA DE MOYA
+Dirección: C/ JUAN DELGADO, 5, MOYA
+Latitud: 28.1098791, Longitud: -15.5834399
+Teléfono: 928-611255
+Correo: escuelamusicamoya@gmail.com
+
+Nombre del centro: EOI A DISTANCIA DE CANARIAS
+Dirección: CARRETERA LAS COLORADAS, 1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1601401, Longitud: -15.432174
+Teléfono: 928-455692
+Correo: 35015607@gobiernodecanarias.org
+
+Nombre del centro: EOI ARUCAS
+Dirección: CALLE DOCTOR FLEMING, 12, ARUCAS
+Latitud: 28.1204584, Longitud: -15.5210149
+Teléfono: 928-303362
+Correo: 35009772@gobiernodecanarias.org
+
+Nombre del centro: EOI INGENIO
+Dirección: C/ JUAN NEGRÍN, 9 (CUESTA CABALLERO), INGENIO
+Latitud: 27.9197271, Longitud: -15.4252499
+Teléfono: 928-787853
+Correo: 35009784@gobiernodecanarias.org
+
+Nombre del centro: EOI LAS PALMAS DE GRAN CANARIA
+Dirección: C/ FERNANDO GUANARTEME, 51, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1366432, Longitud: -15.4356554
+Teléfono: 928-266056 y 928-228912
+Correo: 35008381@gobiernodecanarias.org
+
+Nombre del centro: EOI MASPALOMAS
+Dirección: C/ MANUEL PESTANA QUINTANA, S/N, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.7685713, Longitud: -15.6049229
+Teléfono: 928-141336 y 928-141088
+Correo: 35009735@gobiernodecanarias.org
+
+Nombre del centro: EOI SANTA BRÍGIDA
+Dirección: CAMINO DE LOS OLIVOS, 41, SANTA BRÍGIDA
+Latitud: 28.0401135, Longitud: -15.4922158
+Teléfono: 928-642764
+Correo: 35009796@gobiernodecanarias.org
+
+Nombre del centro: EOI SANTA LUCÍA
+Dirección: C/ GINÉS DE LOS RIOS, 14, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8505555, Longitud: -15.4429171
+Teléfono: 928-790252
+Correo: 35009814@gobiernodecanarias.org
+
+Nombre del centro: EOI SANTA MARÍA DE GUÍA
+Dirección: C/ SANCHO VARGAS, 19, SANTA MARÍA DE GUÍA DE GRAN CANARIA
+Latitud: 28.139494, Longitud: -15.6295001
+Teléfono: 928-553588
+Correo: 35009802@gobiernodecanarias.org
+
+Nombre del centro: EOI SIETE PALMAS
+Dirección: C/ HOYA DEL ENAMORADO, S/N. URB. SIETE PALMAS, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1011712, Longitud: -15.4500427
+Teléfono: 928-455042
+Correo: 35013805@gobiernodecanarias.org
+
+Nombre del centro: EOI TELDE
+Dirección: AVDA. CABILDO, S/N (JUNTO A PARQUE DE BOMBEROS), TELDE
+Latitud: 27.9955313, Longitud: -15.4173726
+Teléfono: 928-132682 y 928-706768
+Correo: 35009826@gobiernodecanarias.org
+
+Nombre del centro: IES AGAETE PEPE DÁMASO
+Dirección: URB. EL TURMAN S/N, AGAETE
+Latitud: 28.1002592, Longitud: -15.6996738
+Teléfono: 928-898691 y 928-554240
+Correo: 35009863@gobiernodecanarias.org
+
+Nombre del centro: IES AGUSTÍN MILLARES SALL
+Dirección: LOMO LAS BRUJAS, 39, TELDE
+Latitud: 28.025547, Longitud: -15.4135347
+Teléfono: 928-712082 y 928-709018
+Correo: 35008287@gobiernodecanarias.org
+
+Nombre del centro: IES ALONSO QUESADA
+Dirección: AVDA. DE ESCALERITAS, 113, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.107119, Longitud: -15.440063
+Teléfono: 928-254027 y 928-250136
+Correo: 35002972@gobiernodecanarias.org
+
+Nombre del centro: IES AMURGA
+Dirección: AVDA. ALEJANDRO DEL CASTILLO, S/N, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.7672746, Longitud: -15.5887725
+Teléfono: 928-776244 y 928-730215
+Correo: 35010282@gobiernodecanarias.org
+
+Nombre del centro: IES ANA LUISA BENÍTEZ
+Dirección: C/ ANA BENÍTEZ, 15, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0976547, Longitud: -15.4393596
+Teléfono: 928-397676
+Correo: 35007842@gobiernodecanarias.org
+
+Nombre del centro: IES ANTONIO GODOY SOSA
+Dirección: C/ SAN GABRIEL, 14, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0987789, Longitud: -15.4765853
+Teléfono: 928-675182 y 928-675760
+Correo: 35010403@gobiernodecanarias.org
+
+Nombre del centro: IES ARGUINEGUÍN
+Dirección: C/ DAMASCO 15, MOGÁN
+Latitud: 27.761731, Longitud: -15.679425
+Teléfono: 928-736815 y 928-735664
+Correo: 35010105@gobiernodecanarias.org
+
+Nombre del centro: IES ARUCAS-DOMINGO RIVERO
+Dirección: CAMINO DE LA CRUZ, 22, ARUCAS
+Latitud: 28.1216593, Longitud: -15.5206486
+Teléfono: 928-601403 y 928-602844
+Correo: 35013842@gobiernodecanarias.org
+
+Nombre del centro: IES BAÑADEROS-CIPRIANO ACOSTA
+Dirección: C/ DOCTOR ENRIQUE NÁCHER HENRÍQUEZ, S/N, ARUCAS
+Latitud: 28.1183038, Longitud: -15.5122694
+Teléfono: 928-626037 y 928-626357
+Correo: 35010609@gobiernodecanarias.org
+
+Nombre del centro: IES CAIRASCO DE FIGUEROA
+Dirección: C/ SAN GABRIEL, 12, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1017584, Longitud: -15.4767606
+Teléfono: 928-670200 y 928-677530
+Correo: 35009711@gobiernodecanarias.org
+
+Nombre del centro: IES CARRIZAL
+Dirección: CAMINO DE LA FLORIDA S/N, INGENIO
+Latitud: 27.9074284, Longitud: -15.4063947
+Teléfono: 928-115145
+Correo: 35010488@gobiernodecanarias.org
+
+Nombre del centro: IES CASAS NUEVAS
+Dirección: C/ TENERIFE, 21, TELDE
+Latitud: 27.9919841, Longitud: -15.3904746
+Teléfono: 928-130070
+Correo: 35009346@gobiernodecanarias.org
+
+Nombre del centro: IES CRUCE DE ARINAGA
+Dirección: C/ PRINCESA GARA, S/N, AGÜIMES
+Latitud: 27.8813666, Longitud: -15.4232641
+Teléfono: 928-182788 y 928-120016
+Correo: 35008391@gobiernodecanarias.org
+
+Nombre del centro: IES DE TAFIRA - NELSON MANDELA
+Dirección: C/ SANTO TOMÁS, 1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0552797, Longitud: -15.4614989
+Teléfono: 928-351789
+Correo: 35003460@gobiernodecanarias.org
+
+Nombre del centro: IES DORAMAS
+Dirección: C/ ARAGÓN, 6. VÍNCULO DE SOLÍS, MOYA
+Latitud: 28.1147548, Longitud: -15.5749874
+Teléfono: 928-393069
+Correo: 35009565@gobiernodecanarias.org
+
+Nombre del centro: IES EL BATÁN
+Dirección: C/ ERNEST HEMINGWAY, 39, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0910136, Longitud: -15.4329384
+Teléfono: 928-322892 y 928-324806
+Correo: 35008470@gobiernodecanarias.org
+
+Nombre del centro: IES EL CALERO
+Dirección: C/ JOSÉ ALZOLA ARTILES, 2, TELDE
+Latitud: 27.9946358, Longitud: -15.3959633
+Teléfono: 928-306593
+Correo: 35008411@gobiernodecanarias.org
+
+Nombre del centro: IES EL DOCTORAL
+Dirección: C/ TISCAMANITA, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8387543, Longitud: -15.4436639
+Teléfono: 928-792013 y 928-125021
+Correo: 35010415@gobiernodecanarias.org
+
+Nombre del centro: IES EL RINCÓN
+Dirección: AVDA.DEL INDUST. JOSÉ SÁNCHEZ PEÑATE, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1008837, Longitud: -15.4653897
+Teléfono: 928-304367
+Correo: 35009577@gobiernodecanarias.org
+
+Nombre del centro: IES FARO DE MASPALOMAS
+Dirección: C/ SECUNDINO DELGADO, 4, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.7692318, Longitud: -15.5900329
+Teléfono: 928-765980 y 928-765989
+Correo: 35006643@gobiernodecanarias.org
+
+Nombre del centro: IES FERIA DEL ATLÁNTICO
+Dirección: ALFÉREZ PROVISIONAL, 24, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1043743, Longitud: -15.4476024
+Teléfono: 928-455016
+Correo: 35009395@gobiernodecanarias.org
+
+Nombre del centro: IES FERNANDO SAGASETA
+Dirección: C/ MANUEL ALEMÁN ÁLAMO, 1, TELDE
+Latitud: 28.0264302, Longitud: -15.4068443
+Teléfono: 928-712399 y 928-714122
+Correo: 35008299@gobiernodecanarias.org
+
+Nombre del centro: IES FRANCHY ROCA
+Dirección: C/ TINGUARO, 17, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1532126, Longitud: -15.429576
+Teléfono: 928-463464
+Correo: 35001293@gobiernodecanarias.org
+
+Nombre del centro: IES FRANCISCO HERNÁNDEZ MONZÓN
+Dirección: C/ ATAULFO ARGENTA, 34-36, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0937541, Longitud: -15.4486827
+Teléfono: 928-599180 y 928-599182
+Correo: 35006618@gobiernodecanarias.org
+
+Nombre del centro: IES GRAN CANARIA
+Dirección: C/ CANALEJAS, 48, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8568002, Longitud: -15.4334419
+Teléfono: 928-115151 y 928-115152
+Correo: 35010130@gobiernodecanarias.org
+
+Nombre del centro: IES GUANARTEME
+Dirección: C/ PINTOR JUAN GUILLERMO, 12, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1275356, Longitud: -15.4369575
+Teléfono: 928-265498 y 928-263545
+Correo: 35007994@gobiernodecanarias.org
+
+Nombre del centro: IES GUÍA
+Dirección: C/ EL NARANJO, 1, SANTA MARÍA DE GUÍA DE GRAN CANARIA
+Latitud: 28.1401029, Longitud: -15.628286
+Teléfono: 928-306575
+Correo: 35004105@gobiernodecanarias.org
+
+Nombre del centro: IES GUILLERMINA BRITO
+Dirección: C/ MESONERO ROMANO, 20, TELDE
+Latitud: 28.0116065, Longitud: -15.3943014
+Teléfono: 928-303119
+Correo: 35007945@gobiernodecanarias.org
+
+Nombre del centro: IES INGENIO
+Dirección: AVDA. DE LOS ARTESANOS, S/N (CUESTA CABALLERO), INGENIO
+Latitud: 27.917327, Longitud: -15.4244836
+Teléfono: 928-211796 y 928-478757
+Correo: 35010506@gobiernodecanarias.org
+
+Nombre del centro: IES ISABEL DE ESPAÑA
+Dirección: PASEO DE TOMÁS MORALES, 39, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1112771, Longitud: -15.4234805
+Teléfono: 928-368545
+Correo: 35002923@gobiernodecanarias.org
+
+Nombre del centro: IES JERÓNIMO SAAVEDRA
+Dirección: C/ JUAN SARAZA ORTIZ, 2, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1042815, Longitud: -15.4290822
+Teléfono: 928-371152 y 928-431093
+Correo: 35001426@gobiernodecanarias.org
+
+Nombre del centro: IES JINÁMAR
+Dirección: C/ COMPAÑÍA DE JESÚS, 3. POLÍGONO DE JINÁMAR, IIIª FASE., TELDE
+Latitud: 28.0307462, Longitud: -15.4158716
+Teléfono: 928-712066
+Correo: 35008597@gobiernodecanarias.org
+
+Nombre del centro: IES JOAQUÍN ARTILES
+Dirección: AVDA. HNOS. DE LA SALLE, S/N, AGÜIMES
+Latitud: 27.9177494, Longitud: -15.4383556
+Teléfono: 928-786296 y 928-786268
+Correo: 35000082@gobiernodecanarias.org
+
+Nombre del centro: IES JOSÉ ARENCIBIA GIL
+Dirección: C/ PÉREZ GALDÓS, 23, TELDE
+Latitud: 27.9994647, Longitud: -15.4142525
+Teléfono: 928-211109 y 928-115772
+Correo: 35004452@gobiernodecanarias.org
+
+Nombre del centro: IES JOSEFINA DE LA TORRE
+Dirección: C/ LOS LLANOS, 7. APTDO. 59, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8575447, Longitud: -15.4437396
+Teléfono: 928-156479 y 639-659224
+Correo: 35014068@gobiernodecanarias.org
+
+Nombre del centro: IES JOSÉ FRUGONI PÉREZ (LA ROCHA)
+Dirección: ANTIGUA CTRA. DE GANDO, S/N, TELDE
+Latitud: 27.9455437, Longitud: -15.3863574
+Teléfono: 928-478552
+Correo: 35008068@gobiernodecanarias.org
+
+Nombre del centro: IES JOSÉ ZERPA
+Dirección: C/ BATEY, 1, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8488279, Longitud: -15.4402297
+Teléfono: 928-758822 y 928-793777
+Correo: 35009401@gobiernodecanarias.org
+
+Nombre del centro: IES LA ALDEA DE SAN NICOLÁS
+Dirección: AVDA. DE CARDONES, S/N, LA ALDEA DE SAN NICOLÁS
+Latitud: 27.9807367, Longitud: -15.783835
+Teléfono: 928-306360
+Correo: 35009875@gobiernodecanarias.org
+
+Nombre del centro: IES LA ATALAYA
+Dirección: C/ CURA NAVARRO, 9, SANTA BRÍGIDA
+Latitud: 28.0275992, Longitud: -15.4804503
+Teléfono: 928-288240 y 628-640989
+Correo: 35013659@gobiernodecanarias.org
+
+Nombre del centro: IES LA ISLETA
+Dirección: C/ JUAN REJÓN, 58, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1495346, Longitud: -15.4232658
+Teléfono: 928-468550 y 928-464354
+Correo: 35003332@gobiernodecanarias.org
+
+Nombre del centro: IES LA MINILLA
+Dirección: C/ CONCEJAL GARCÍA FEO, 28, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1211865, Longitud: -15.4395232
+Teléfono: 928-270402 y 928-270404
+Correo: 35002960@gobiernodecanarias.org
+
+Nombre del centro: IES LAS HUESAS
+Dirección: JOSEFINA SUÁREZ RAMÍREZ, 15, TELDE
+Latitud: 27.9832356, Longitud: -15.3942408
+Teléfono: 928-478574
+Correo: 35009851@gobiernodecanarias.org
+
+Nombre del centro: IES LA VEGA DE SAN JOSÉ
+Dirección: PASEO DE SAN JOSÉ, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0920797, Longitud: -15.4189413
+Teléfono: 928-330744 y 928-331450
+Correo: 35009139@gobiernodecanarias.org
+
+Nombre del centro: IES LILA
+Dirección: C/ RAFAEL TRAVIESO, 28, TELDE
+Latitud: 27.9955313, Longitud: -15.4173726
+Teléfono: 928-711162 y 928-711850
+Correo: 35010142@gobiernodecanarias.org
+
+Nombre del centro: IES LOMO DE LA HERRADURA
+Dirección: C/ NICOLÁS COPÉRNICO, S/N, TELDE
+Latitud: 27.9963871, Longitud: -15.433304
+Teléfono: 928-694361 y 928-694150
+Correo: 35010154@gobiernodecanarias.org
+
+Nombre del centro: IES LOS TARAHALES
+Dirección: C/ ALFÉREZ PROVISIONAL, 3, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.100502, Longitud: -15.4491946
+Teléfono: 928-428686
+Correo: 35010427@gobiernodecanarias.org
+
+Nombre del centro: IES MESA Y LÓPEZ
+Dirección: AVDA. MESA Y LÓPEZ, 69, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.13112, Longitud: -15.43888
+Teléfono: 928-599130
+Correo: 35008561@gobiernodecanarias.org
+
+Nombre del centro: IES NOROESTE
+Dirección: LOMO GUILLÉN, S/N, SANTA MARÍA DE GUÍA DE GRAN CANARIA
+Latitud: 28.1417016, Longitud: -15.6350014
+Teléfono: 928-306728
+Correo: 35004130@gobiernodecanarias.org
+
+Nombre del centro: IES PABLO MONTESINO
+Dirección: C/ GUSTAVO J. NAVARRO, 27, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1091538, Longitud: -15.4409984
+Teléfono: 928-206988 y 928-206966
+Correo: 35009322@gobiernodecanarias.org
+
+Nombre del centro: IES PÉREZ GALDÓS
+Dirección: PASEO DE TOMÁS MORALES, 37-B, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1101788, Longitud: -15.4223629
+Teléfono: 928-363370 y 928-361539
+Correo: 35002911@gobiernodecanarias.org
+
+Nombre del centro: IES PLAYA DE ARINAGA
+Dirección: C/ LAS NASAS, AGÜIMES
+Latitud: 27.8594175, Longitud: -15.3922968
+Teléfono: 928-478874
+Correo: 35013702@gobiernodecanarias.org
+
+Nombre del centro: IES POETA TOMÁS MORALES CASTELLANO
+Dirección: PASEO TOMÁS MORALES, 37 A, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1101788, Longitud: -15.4223629
+Teléfono: 928-362077
+Correo: 35014482@gobiernodecanarias.org
+
+Nombre del centro: IES POLITÉCNICO LAS PALMAS
+Dirección: C/ CANALEJAS, 43, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1109559, Longitud: -15.4208528
+Teléfono: 928-361724 y 928-369368
+Correo: 35002984@gobiernodecanarias.org
+
+Nombre del centro: IES PRIMERO DE MAYO
+Dirección: URB. PARQUE CENTRAL, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.101568, Longitud: -15.446438
+Teléfono: 928-118162 y 928-458369
+Correo: 35009383@gobiernodecanarias.org
+
+Nombre del centro: IES PROFESOR ANTONIO CABRERA PÉREZ
+Dirección: AVDA. LA PAZ, 3, TELDE
+Latitud: 27.9955313, Longitud: -15.4173726
+Teléfono: 928-695714 y 928-696219
+Correo: 35007696@gobiernodecanarias.org
+
+Nombre del centro: IES PROFESOR JUAN PULIDO CASTRO
+Dirección: AVDA. DEL CABILDO, 36, TELDE
+Latitud: 28.0061596, Longitud: -15.3947884
+Teléfono: 928-455020
+Correo: 35010294@gobiernodecanarias.org
+
+Nombre del centro: IES RAMÓN MENÉNDEZ PIDAL
+Dirección: C/ DEBUSSY,1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1235459, Longitud: -15.4362574
+Teléfono: 928-315312 y 928-321225
+Correo: 35001438@gobiernodecanarias.org
+
+Nombre del centro: IES ROQUE AMAGRO
+Dirección: C/ JOSÉ SOSA, S/N - EL ROQUE, GÁLDAR
+Latitud: 28.1362763, Longitud: -15.6638825
+Teléfono: 928-551207 y 928-550744
+Correo: 35009334@gobiernodecanarias.org
+
+Nombre del centro: IES SANTA BRÍGIDA
+Dirección: CAMINO DE LOS OLIVOS, 41, SANTA BRÍGIDA
+Latitud: 28.0401135, Longitud: -15.4922158
+Teléfono: 928-899727
+Correo: 35010129@gobiernodecanarias.org
+
+Nombre del centro: IES SANTA LUCÍA
+Dirección: AVDA. DE LA UNIÓN, 97, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8500351, Longitud: -15.4524359
+Teléfono: 928-125030
+Correo: 35004038@gobiernodecanarias.org
+
+Nombre del centro: IES SANTIAGO SANTANA DÍAZ
+Dirección: LOPE DE VEGA, 1, ARUCAS
+Latitud: 28.1201412, Longitud: -15.5210607
+Teléfono: 928-455004
+Correo: 35009358@gobiernodecanarias.org
+
+Nombre del centro: IES SAULO TORÓN
+Dirección: C/ INFANTA BENCHARA, 4, GÁLDAR
+Latitud: 28.1460259, Longitud: -15.6523873
+Teléfono: 928-880628
+Correo: 35000628@gobiernodecanarias.org
+
+Nombre del centro: IES SCHAMANN
+Dirección: C/ MARIUCHA, 80, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.111147, Longitud: -15.4354098
+Teléfono: 928-259330
+Correo: 35010208@gobiernodecanarias.org
+
+Nombre del centro: IES SIETE PALMAS
+Dirección: C/ LAS BORRERAS, 1, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.106285, Longitud: -15.4500367
+Teléfono: 928-115555
+Correo: 35010439@gobiernodecanarias.org
+
+Nombre del centro: IES SIMÓN PÉREZ
+Dirección: CTRA. GRAL DEL NORTE, 40 B, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1039045, Longitud: -15.4340894
+Teléfono: 928-478886
+Correo: 35007891@gobiernodecanarias.org
+
+Nombre del centro: IES TABLERO I (AGUAÑAC)
+Dirección: PROLONG. CALLE BRASIL, 70, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.7746103, Longitud: -15.6063181
+Teléfono: 928-140132 y 928-142777
+Correo: 35003848@gobiernodecanarias.org
+
+Nombre del centro: IES TÁMARA
+Dirección: AVDA. DE TUNTE, 8, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.7676164, Longitud: -15.5815589
+Teléfono: 928-796285
+Correo: 35007064@gobiernodecanarias.org
+
+Nombre del centro: IES TAMOGANTE
+Dirección: C/ TAMOGANTE, 13, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8495782, Longitud: -15.462689
+Teléfono: 928-750354 y 928-750532
+Correo: 35003976@gobiernodecanarias.org
+
+Nombre del centro: IES TEROR
+Dirección: JOSÉ MIRANDA GUERRA, 3, TEROR
+Latitud: 28.0599167, Longitud: -15.5469232
+Teléfono: 928-630326
+Correo: 35010269@gobiernodecanarias.org
+
+Nombre del centro: IES VALLE DE LOS NUEVE
+Dirección: C/ BADAJOZ, 26, TELDE
+Latitud: 27.9909314, Longitud: -15.4457306
+Teléfono: 928-211634
+Correo: 35005055@gobiernodecanarias.org
+
+Nombre del centro: IES VALSEQUILLO
+Dirección: C/ MAESTRO JOSÉ SANTANA, 4, VALSEQUILLO DE GRAN CANARIA
+Latitud: 27.9850252, Longitud: -15.5236015
+Teléfono: 928-570750 y 928-705649
+Correo: 35009841@gobiernodecanarias.org
+
+Nombre del centro: IES VECINDARIO
+Dirección: AVDA. LA UNIÓN, 68, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.9101389, Longitud: -15.5401365
+Teléfono: 928-753101 y 928-753102
+Correo: 35007854@gobiernodecanarias.org
+
+Nombre del centro: IES VEGA DE SAN MATEO
+Dirección: CUATRO CAMINOS, S/N, VEGA DE SAN MATEO
+Latitud: 28.0106885, Longitud: -15.5323919
+Teléfono: 928-661563
+Correo: 35009589@gobiernodecanarias.org
+
+Nombre del centro: IES VILLA DE FIRGAS
+Dirección: C/ MAESTRA MILAGROS RIVERO VEGA, 2, FIRGAS
+Latitud: 28.1106431, Longitud: -15.5623675
+Teléfono: 928-478590
+Correo: 35013635@gobiernodecanarias.org
+
+Nombre del centro: IFPA ARUCAS
+Dirección: CARRETERA GC2, KM. 8,5, ARUCAS
+Latitud: 28.1423173, Longitud: -15.5720314
+Teléfono: 928-117638 y 928-117646
+Correo: 35006540@gobiernodecanarias.org
+
+Nombre del centro: IFPMP LAS PALMAS DE GRAN CANARIA
+Dirección: C/ SIMÓN BOLÍVAR, 15, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1377869, Longitud: -15.430101
+Teléfono: 928-494645
+Correo: director@maritimopesquerolp.org
+
+Nombre del centro: RE ARINAGA
+Dirección: PLAYA DEL CABRÓN, S/N, AGÜIMES
+Latitud: 27.870529, Longitud: -15.3865835
+Teléfono: 928-180534
+Correo: 35013741@gobiernodecanarias.org
+
+Nombre del centro: RE LA LADERA
+Dirección: LA LADERA, S/N, LA ALDEA DE SAN NICOLÁS
+Latitud: 27.9849292, Longitud: -15.7882636
+Teléfono: 928-884082
+Correo: 35003885@gobiernodecanarias.org
+
+Nombre del centro: RE MANUEL SOSA
+Dirección: C/ GUILLÉN MORALES, 15, GÁLDAR
+Latitud: 28.145531, Longitud: -15.6581612
+Teléfono: 928-552215
+Correo: 35000631@gobiernodecanarias.org
+
+Nombre del centro: RE SANTA MARÍA DE GUÍA
+Dirección: CRONISTA PEDRO GONZALEZ SOSA, 16 - Bº. S. ROQUE, SANTA MARÍA DE GUÍA DE GRAN CANARIA
+Latitud: 28.1363445, Longitud: -15.6290811
+Teléfono: 928-888008 y 928-883253
+Correo: 35004117@gobiernodecanarias.org
+
+Nombre del centro: RE SIETE PALMAS
+Dirección: AVDA. LA FERIA, Nº 3, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1133129, Longitud: -15.4195972
+Teléfono: 928-410832
+Correo: 35013714@gobiernodecanarias.org
+
+Nombre del centro: UAPA AGAETE
+Dirección: C/ JUAN DE ARMAS, Nº2, AGAETE
+Latitud: 28.0991788, Longitud: -15.6973099
+Teléfono: 928-882316
+Correo: 35008974@gobiernodecanarias.org
+
+Nombre del centro: UAPA ALCALDE RAMÍREZ BETHENCOURT (CEIP)
+Dirección: C/ RAFAEL GARCÍA PÉREZ, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1051545, Longitud: -15.4310763
+Teléfono: 928-251754 y 928-207055
+Correo: 35009632@gobiernodecanarias.org
+
+Nombre del centro: UAPA ANSITE
+Dirección: C/ ANDAMANA, 17 (CEIP ANSITE), SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8387892, Longitud: -15.4503299
+Teléfono: 928-753970 y 928-755744
+Correo: 35008986@gobiernodecanarias.org
+
+Nombre del centro: UAPA ANZO
+Dirección: PZA. DE SANTA RITA, S/N, GÁLDAR
+Latitud: 28.1463501, Longitud: -15.6515167
+Teléfono: 928-882316
+Correo: 35008974@gobiernodecanarias.org
+
+Nombre del centro: UAPA ARUCAS (TERCERA EDAD)
+Dirección: AVDA. DEL MIRÓN,18 (CENTRO DE PENSIONISTAS), ARUCAS
+Latitud: 28.1171556, Longitud: -15.5251131
+Teléfono: 928-304382
+Correo: 35009619@gobiernodecanarias.org
+
+Nombre del centro: UAPA BARRIAL
+Dirección: AVDA. LA CONSTITUCIÓN , 2, GÁLDAR
+Latitud: 28.1463501, Longitud: -15.6515167
+Teléfono: 928-882316
+Correo: 35008974@gobiernodecanarias.org
+
+Nombre del centro: UAPA BECERRIL
+Dirección: PLAZA DE SAN PABLO Nº9, SANTA MARÍA DE GUÍA DE GRAN CANARIA
+Latitud: 28.1467961, Longitud: -15.6374679
+Teléfono: 928-882316
+Correo: 35008974@gobiernodecanarias.org
+
+Nombre del centro: UAPA CAÑADA HONDA
+Dirección: C/ TAZIRGA, S/N, GÁLDAR
+Latitud: 28.1495429, Longitud: -15.6479511
+Teléfono: 928-882316
+Correo: 35008974@gobiernodecanarias.org
+
+Nombre del centro: UAPA CARDONES
+Dirección: PLAZA DE SAN ISIDRO, 45, ARUCAS
+Latitud: 28.1201412, Longitud: -15.5210607
+Teléfono: 928-304382
+Correo: 35009619@gobiernodecanarias.org
+
+Nombre del centro: UAPA CASA PASTORES
+Dirección: C/ RUIZ DE ALARCÓN, S/N (CEIP CASA PASTORES), SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8528671, Longitud: -15.4531326
+Teléfono: 928-753970 y 928-755744
+Correo: 35008986@gobiernodecanarias.org
+
+Nombre del centro: UAPA CASAS NUEVAS
+Dirección: C/ DAIMLER S/N, TELDE
+Latitud: 27.9933203, Longitud: -15.3902538
+Teléfono: 928-683288
+Correo: 35009681@gobiernodecanarias.org
+
+Nombre del centro: UAPA CASTILLO ROMERAL
+Dirección: C/ BENECHARO, S/N, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.802294, Longitud: -15.4601048
+Teléfono: 928-766680 y 928-767635
+Correo: 35009656@gobiernodecanarias.org
+
+Nombre del centro: UAPA CFM AGÜIMES
+Dirección: C/ LUIS ARTILES CASTRO, 24, AGÜIMES
+Latitud: 27.90686, Longitud: -15.44559
+Teléfono: 928-784214
+Correo: 35008962@gobiernodecanarias.org
+
+Nombre del centro: UAPA CRUCE DE ARINAGA
+Dirección: C/ GOFIO, S/N (CENTRO DE SERVICIOS SOCIALES), AGÜIMES
+Latitud: 27.9018327, Longitud: -15.4463485
+Teléfono: 928-784214
+Correo: 35008962@gobiernodecanarias.org
+
+Nombre del centro: UAPA CRUCE DE ARINAGA (BEÑESMÉN)
+Dirección: C/ ANSITE 2, AGÜIMES
+Latitud: 27.8804163, Longitud: -15.4318401
+Teléfono: 928-784214
+Correo: 35008962@gobiernodecanarias.org
+
+Nombre del centro: UAPA CRUCE DE ARINAGA (CEP)
+Dirección: C/ TIGOTÁN, 18, AGÜIMES
+Latitud: 27.8719654, Longitud: -15.4213409
+Teléfono: 928-784214
+Correo: 35008962@gobiernodecanarias.org
+
+Nombre del centro: UAPA CRUZ DE PIEDRA
+Dirección: C/ JOAQUÍN BELÓN, 19, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1038065, Longitud: -15.4365166
+Teléfono: 928-251754 y 928-207055
+Correo: 35009632@gobiernodecanarias.org
+
+Nombre del centro: UAPA CUESTA CABALLERO
+Dirección: C/ DOCTOR JUAN NEGRÍN, 9, AGÜIMES
+Latitud: 27.9048758, Longitud: -15.4416818
+Teléfono: 928-784214
+Correo: 35008962@gobiernodecanarias.org
+
+Nombre del centro: UAPA EL BATÁN
+Dirección: C/ ALEXIS CARREL, 45, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0922776, Longitud: -15.4316812
+Teléfono: 928-314981
+Correo: 35009644@gobiernodecanarias.org
+
+Nombre del centro: UAPA EL CANARIO
+Dirección: C/ CANALEJAS, 21 (CEIP EL CANARIO), SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8571734, Longitud: -15.4358446
+Teléfono: 928-753970 y 928-755744
+Correo: 35008986@gobiernodecanarias.org
+
+Nombre del centro: UAPA EL CRUCE
+Dirección: C/ FERNANDO GUANARTEME, S/N, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.856021, Longitud: -15.4412411
+Teléfono: 928-753970 y 928-755744
+Correo: 35008986@gobiernodecanarias.org
+
+Nombre del centro: UAPA EL RINCÓN (IES)
+Dirección: AVDA. DEL INDUSTRIAL JOSÉ SÁNCHEZ PEÑATE, S/N (IES EL RINCÓN), LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1008837, Longitud: -15.4653897
+Teléfono: 928-248719
+Correo: 35007982@gobiernodecanarias.org
+
+Nombre del centro: UAPA FAMARA
+Dirección: C/ FAMARA, 89, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8517116, Longitud: -15.4434027
+Teléfono: 928-753970 y 928-755744
+Correo: 35008986@gobiernodecanarias.org
+
+Nombre del centro: UAPA INGENIO BLANCO
+Dirección: CAMINO DE INGENIO BLANCO, S/N, SANTA MARÍA DE GUÍA DE GRAN CANARIA
+Latitud: 28.1396662, Longitud: -15.6331236
+Teléfono: 928-882316
+Correo: 35008974@gobiernodecanarias.org
+
+Nombre del centro: UAPA LA ANGOSTURA
+Dirección: CTRA. GENERAL DE LA ANGOSTURA, S/N (ASOCIACIÓN DE VECINOS), SANTA BRÍGIDA
+Latitud: 28.0347464, Longitud: -15.494688
+Teléfono: 928-478837
+Correo: 35009668@gobiernodecanarias.org
+
+Nombre del centro: UAPA LA ATALAYA
+Dirección: C/ CURA NAVARRO, 52, SANTA BRÍGIDA
+Latitud: 28.0276558, Longitud: -15.4781516
+Teléfono: 928-478837
+Correo: 35009668@gobiernodecanarias.org
+
+Nombre del centro: UAPA LA ATALAYA II
+Dirección: PLAZA SAN PEDRO, S/N, SANTA MARÍA DE GUÍA DE GRAN CANARIA
+Latitud: 28.1510036, Longitud: -15.631269
+Teléfono: 928-882316
+Correo: 35008974@gobiernodecanarias.org
+
+Nombre del centro: UAPA LA CASCADA
+Dirección: CALLE LA DIPUTACIÓN, 9, TEROR
+Latitud: 28.0600151, Longitud: -15.5482669
+Teléfono: 928-613498
+Correo: 35009693@gobiernodecanarias.org
+
+Nombre del centro: UAPA LA DEHESA
+Dirección: C/ GUÍA DE ISORA, S/N, SANTA MARÍA DE GUÍA DE GRAN CANARIA
+Latitud: 28.1251156, Longitud: -15.615226
+Teléfono: 928-882316
+Correo: 35008974@gobiernodecanarias.org
+
+Nombre del centro: UAPA LA ENCONADA
+Dirección: C/ JUAN RODRÍGUEZ RAMÍREZ, 15, GÁLDAR
+Latitud: 28.1463501, Longitud: -15.6515167
+Teléfono: 928-882316
+Correo: 35008974@gobiernodecanarias.org
+
+Nombre del centro: UAPA LA HOYA
+Dirección: AVDA. DE LA HOYA, S/N (AULAS CEPA), INGENIO
+Latitud: 27.9114468, Longitud: -15.4122766
+Teléfono: 928-784214
+Correo: 35008962@gobiernodecanarias.org
+
+Nombre del centro: UAPA LA ISLETA (IES)
+Dirección: C/ JUAN REJÓN, 58 (IES LA ISLETA), LAS PALMAS DE GRAN CANARIA
+Latitud: 28.149451, Longitud: -15.422631
+Teléfono: 928-248719
+Correo: 35007982@gobiernodecanarias.org
+
+Nombre del centro: UAPA LA LECHUZA (CEIP)
+Dirección: CARRETERA LA LECHUZA, Nº5, VEGA DE SAN MATEO
+Latitud: 28.0106885, Longitud: -15.5323919
+Teléfono: 928-478837
+Correo: 35009668@gobiernodecanarias.org
+
+Nombre del centro: UAPA LA ORILLA
+Dirección: C/ VASCO DE GAMA, S/N (CEIP CAMINO DE LA MADERA), SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8411279, Longitud: -15.4590453
+Teléfono: 928-753970 y 928-755744
+Correo: 35008986@gobiernodecanarias.org
+
+Nombre del centro: UAPA LA PALMILLA
+Dirección: C/ MARIANO DE CÁCERES, 2, LA ALDEA DE SAN NICOLÁS
+Latitud: 27.9836872, Longitud: -15.7804736
+Teléfono: 928-892485
+Correo: 35010026@gobiernodecanarias.org
+
+Nombre del centro: UAPA LA PARDILLA
+Dirección: C/ RAIMUNDO LULIO, 54, TELDE
+Latitud: 28.0135638, Longitud: -15.3936662
+Teléfono: 928-683288
+Correo: 35009681@gobiernodecanarias.org
+
+Nombre del centro: UAPA LA PLAZA
+Dirección: C/ REAL Nº 33, LA ALDEA DE SAN NICOLÁS
+Latitud: 27.9822218, Longitud: -15.7793741
+Teléfono: 928-892485
+Correo: 35010026@gobiernodecanarias.org
+
+Nombre del centro: UAPA LA PUNTA
+Dirección: C/ PUNTA DE GÁLDAR, 86 (ASOCIACIÓN DE VECINOS AMIGOS DEL CHARCÓN), GÁLDAR
+Latitud: 28.1690555, Longitud: -15.6837601
+Teléfono: 928-882316
+Correo: 35008974@gobiernodecanarias.org
+
+Nombre del centro: UAPA LAS COLORADAS
+Dirección: CTRA. GRAL. LAS COLORADAS. LOCAL SOCIAL JOSÉ VICENTE LEÓN, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1535499, Longitud: -15.4309213
+Teléfono: 928-248719
+Correo: 35007982@gobiernodecanarias.org
+
+Nombre del centro: UAPA LAS LAGUNETAS
+Dirección: PZA. LAS LAGUNETAS, S/N, VEGA DE SAN MATEO
+Latitud: 28.0048423, Longitud: -15.5756421
+Teléfono: 928-478837
+Correo: 35009668@gobiernodecanarias.org
+
+Nombre del centro: UAPA LAS PALMAS
+Dirección: CENTRO MAYORES LA ISLETA PLAZA CASTILLO DE LA LUZ, 58, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1492051, Longitud: -15.4254354
+Teléfono: 928-248719
+Correo: 35007982@gobiernodecanarias.org
+
+Nombre del centro: UAPA LOMO APOLINARIO
+Dirección: C/ LOMO APOLINARIO, 92. LOCAL SOCIAL LOMO APOLINARIO, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0947928, Longitud: -15.4395629
+Teléfono: 928-248719
+Correo: 35007982@gobiernodecanarias.org
+
+Nombre del centro: UAPA LOMO BLANCO
+Dirección: C/ HERACLIO SÁNCHEZ, S/N, LAS PALMAS DE GRAN CANARIA
+Latitud: 27.9952104, Longitud: -15.6196062
+Teléfono: 928-314981
+Correo: 35009644@gobiernodecanarias.org
+
+Nombre del centro: UAPA LOS CARDONES (IES)
+Dirección: AVENIDA LOS CARDONES S/N, LA ALDEA DE SAN NICOLÁS
+Latitud: 27.9807367, Longitud: -15.783835
+Teléfono: 928-892485
+Correo: 35010026@gobiernodecanarias.org
+
+Nombre del centro: UAPA LOS LLANOS
+Dirección: C/ CENTRÍFUGA, S/N (CEIP LOS LLANOS), SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8596079, Longitud: -15.4378588
+Teléfono: 928-753970 y 928-755744
+Correo: 35008986@gobiernodecanarias.org
+
+Nombre del centro: UAPA LOS QUINTANA
+Dirección: C/ SILVA LINARES, S/N, GÁLDAR
+Latitud: 28.1159078, Longitud: -15.6685641
+Teléfono: 928-882316
+Correo: 35008974@gobiernodecanarias.org
+
+Nombre del centro: UAPA MARMOLEJOS
+Dirección: C/ MARMOLEJOS Nº137, GÁLDAR
+Latitud: 28.1334789, Longitud: -15.6576154
+Teléfono: 928-882316
+Correo: 35008974@gobiernodecanarias.org
+
+Nombre del centro: UAPA MARZAGÁN
+Dirección: C/ PLAZA DEL CAMBULLONERO, 1., LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0422125, Longitud: -15.4281083
+Teléfono: 928-796151
+Correo: 35009671@gobiernodecanarias.org
+
+Nombre del centro: UAPA MOYA
+Dirección: C/ CERVANTES Nº22, MOYA
+Latitud: 28.1127853, Longitud: -15.5830981
+Teléfono: 928-882316
+Correo: 35008974@gobiernodecanarias.org
+
+Nombre del centro: UAPA PAGADOR (CEIP)
+Dirección: CTRA. LA COSTA, 28, MOYA
+Latitud: 28.1434735, Longitud: -15.5701555
+Teléfono: 928-882316
+Correo: 35008974@gobiernodecanarias.org
+
+Nombre del centro: UAPA PALMA DE ROJAS (AAVV)
+Dirección: C/ DOCTOR PASTEUR Nº9, GÁLDAR
+Latitud: 28.1463448, Longitud: -15.6422709
+Teléfono: 928-882316
+Correo: 35008974@gobiernodecanarias.org
+
+Nombre del centro: UAPA PINO SANTO ALTO (CEIP)
+Dirección: C/ PINO SANTO ALTO, Nº2, SANTA BRÍGIDA
+Latitud: 28.0342904, Longitud: -15.5279275
+Teléfono: 928-478837
+Correo: 35009668@gobiernodecanarias.org
+
+Nombre del centro: UAPA PISO FIRME
+Dirección: CTRA. GENERAL AGAETE, KM. 33, GÁLDAR
+Latitud: 28.1445796, Longitud: -15.6485741
+Teléfono: 928-882316
+Correo: 35008974@gobiernodecanarias.org
+
+Nombre del centro: UAPA PLAYA DE ARINAGA
+Dirección: C/ ALMIRANTE ESCRIGAS, 2 (CEIP 20 DE ENERO), AGÜIMES
+Latitud: 27.8593827, Longitud: -15.3973139
+Teléfono: 928-784214
+Correo: 35008962@gobiernodecanarias.org
+
+Nombre del centro: UAPA POZO IZQUIERDO
+Dirección: PZA. DE POZO IZQUIERDO, S/N (ASOCIACIÓN DE VECINOS), SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8280064, Longitud: -15.4236481
+Teléfono: 928-753970 y 928-755744
+Correo: 35008986@gobiernodecanarias.org
+
+Nombre del centro: UAPA PROYECTO HOMBRE
+Dirección: C/ FINCA LA TORNERA - CARRETERA TARIFA LOS HOYOS, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.0565645, Longitud: -15.4629703
+Teléfono: 928-314981
+Correo: 35009644@gobiernodecanarias.org
+
+Nombre del centro: UAPA SAN GREGORIO
+Dirección: C/ ALONSO QUESADA, 6, TELDE
+Latitud: 27.9985023, Longitud: -15.4162053
+Teléfono: 928-692273 y 928-693981
+Correo: 35008019@gobiernodecanarias.org
+
+Nombre del centro: UAPA SAN ISIDRO
+Dirección: C/ PLAZA SAN ISIDRO Nº2, GÁLDAR
+Latitud: 28.1327556, Longitud: -15.6602511
+Teléfono: 928-882316
+Correo: 35008974@gobiernodecanarias.org
+
+Nombre del centro: UAPA SAN JOSÉ DEL ÁLAMO
+Dirección: C/ LA ERMITA, 3 (ASOCIACIÓN DE VECINOS), TEROR
+Latitud: 28.0771168, Longitud: -15.5101789
+Teléfono: 928-613498
+Correo: 35009693@gobiernodecanarias.org
+
+Nombre del centro: UAPA SAN MATEO
+Dirección: C/ DEL AGUA S/N, EDIF. DE SERVICIOS SOCIALES, VEGA DE SAN MATEO
+Latitud: 28.0106885, Longitud: -15.5323919
+Teléfono: 928-478837
+Correo: 35009668@gobiernodecanarias.org
+
+Nombre del centro: UAPA SAN NICOLÁS
+Dirección: C/ GUADIANA S/N ESQUINA S. NICOLÁS DE BARI, LAS PALMAS DE GRAN CANARIA
+Latitud: 28.1021265, Longitud: -15.4201162
+Teléfono: 928-248719
+Correo: 35007982@gobiernodecanarias.org
+
+Nombre del centro: UAPA SAN ROQUE
+Dirección: C/ SOR LORENA DÍAZ BOLAÑOS S/N, SANTA MARÍA DE GUÍA DE GRAN CANARIA
+Latitud: 28.1396662, Longitud: -15.6331236
+Teléfono: 928-882316
+Correo: 35008974@gobiernodecanarias.org
+
+Nombre del centro: UAPA SANTA BRÍGIDA (IES)
+Dirección: CAMINO DE LOS OLIVOS, 41, SANTA BRÍGIDA
+Latitud: 28.0401135, Longitud: -15.4922158
+Teléfono: 928-478837
+Correo: 35009668@gobiernodecanarias.org
+
+Nombre del centro: UAPA SANTA LUCÍA
+Dirección: C/ MAESTRA CLARA PÉREZ, 16 (CEIP SANTA LUCÍA), SANTA LUCÍA DE TIRAJANA
+Latitud: 27.9113371, Longitud: -15.5408141
+Teléfono: 928-753970 y 928-755744
+Correo: 35008986@gobiernodecanarias.org
+
+Nombre del centro: UAPA SARDINA
+Dirección: C/ JIMÉNEZ DÍAZ, 1, GÁLDAR
+Latitud: 28.1546032, Longitud: -15.6908497
+Teléfono: 928-882316
+Correo: 35008974@gobiernodecanarias.org
+
+Nombre del centro: UAPA SARDINA
+Dirección: C/ HARIMAGUADA, 16, SANTA LUCÍA DE TIRAJANA
+Latitud: 27.8506716, Longitud: -15.46586
+Teléfono: 928-753970 y 928-755744
+Correo: 35008986@gobiernodecanarias.org
+
+Nombre del centro: UAPA SAULO TORÓN (IES)
+Dirección: C/ INFANTA BENCHARA, 4, GÁLDAR
+Latitud: 28.1460259, Longitud: -15.6523873
+Teléfono: 928-882316
+Correo: 35008974@gobiernodecanarias.org
+
+Nombre del centro: UAPA TABLERO MASPALOMAS (IES)
+Dirección: C/ BRASIL Nº70, SAN BARTOLOMÉ DE TIRAJANA
+Latitud: 27.7720766, Longitud: -15.6056177
+Teléfono: 928-766680 y 928-767635
+Correo: 35009656@gobiernodecanarias.org
+
+Nombre del centro: UAPA TENTENIGUADA
+Dirección: C/ SAN JUAN, 26, VALSEQUILLO DE GRAN CANARIA
+Latitud: 27.9873365, Longitud: -15.5209462
+Teléfono: 928-683288
+Correo: 35009681@gobiernodecanarias.org
+
+Nombre del centro: UAPA TEROR (IES)
+Dirección: C/ JOSÉ MIRANDA GUERRA, 3, TEROR
+Latitud: 28.0599167, Longitud: -15.5469232
+Teléfono: 928-613498
+Correo: 35009693@gobiernodecanarias.org
+
+Nombre del centro: UAPA UTIACA
+Dirección: LUGAR UTIACA Nº64, ASOCIACIÓN DE VECINOS SANTA MÓNICA, VEGA DE SAN MATEO
+Latitud: 28.0106885, Longitud: -15.5323919
+Teléfono: 928-478837
+Correo: 35009668@gobiernodecanarias.org
+
+Nombre del centro: UAPA VALLESECO
+Dirección: C/ PÁRROCO MARRERO, 12, VALLESECO
+Latitud: 28.0485543, Longitud: -15.5769096
+Teléfono: 928-613498
+Correo: 35009693@gobiernodecanarias.org
+
+Nombre del centro: UAPA VALSEQUILLO
+Dirección: CALLE MAESTRO JOSÉ SANTANA, 4, VALSEQUILLO DE GRAN CANARIA
+Latitud: 27.9850252, Longitud: -15.5236015
+Teléfono: 928-683288
+Correo: 35009681@gobiernodecanarias.org
+
