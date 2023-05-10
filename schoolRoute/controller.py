@@ -4,6 +4,82 @@ from flask import request, jsonify
 from model import SchoolRouteDB
 from view import print_received_request, print_db_changes
 
+
+def get_username_from_token(token):
+    db = SchoolRouteDB()
+    username = None
+    if db.connect():
+        try:
+            # Comprobamos si el token es válido y obtenemos el nombre de usuario asociado
+            sql_query = """
+                SELECT username FROM sessions
+                WHERE token = %s AND expires_at > NOW();
+            """
+            result = db.fetch_data(sql_query, (token,))
+
+            if result:
+                username = result[0][0]
+
+        except Exception as e:
+            print(f"Error al obtener el usuario del token: {e}")
+        finally:
+            db.disconnect()
+
+    return username
+
+
+def getUserRoute():
+    print_received_request(request)
+
+    token = request.form.get('token')
+    response = {}
+    status_code = 200
+
+    # Usamos la nueva función para obtener el nombre de usuario
+    username = get_username_from_token(token)
+
+    if username:
+        db = SchoolRouteDB()
+        if db.connect():
+            try:
+                # Buscamos la ruta del usuario
+                find_route_query = """
+                    SELECT * FROM rutas
+                    WHERE username = %s
+                    ORDER BY orden;
+                """
+                route_result = db.fetch_data(find_route_query, (username,))
+
+                if route_result:
+                    # Preparamos la información para enviarla como json
+                    route = []
+                    for row in route_result:
+                        route.append({
+                            "id": row[0],
+                            "username": row[1],
+                            "centername": row[2],
+                            "latitud": row[3],
+                            "longitud": row[4],
+                            "orden": row[5]
+                        })
+                    response = {"route": route}
+                    status_code = 200
+                else:
+                    response = {"message": "No se encontró una ruta para el usuario"}
+                    status_code = 404
+
+            except Exception as e:
+                print(f"Error al obtener la ruta del usuario: {e}")
+                response = {"message": "Error interno del servidor"}
+                status_code = 500
+            finally:
+                db.disconnect()
+    else:
+        response = {"message": "Token no válido o expirado"}
+        status_code = 401
+
+    return jsonify(response), status_code
+
 def login():
     print_received_request(request)
 
