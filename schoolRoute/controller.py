@@ -80,6 +80,58 @@ def getUserRoute():
 
     return jsonify(response), status_code
 
+def register():
+    print_received_request(request)
+
+    token = request.form.get('token')
+    new_username = request.form.get('username')
+    password = request.form.get('password')
+    isAdmin = request.form.get('isAdmin')
+    startAdress = request.form.get('startAdress')
+    days = request.form.get('days')
+
+    response = {}
+    status_code = 200
+
+    # Usamos la función para obtener el nombre de usuario
+    username = get_username_from_token(token)
+
+    if username:
+        db = SchoolRouteDB()
+        if db.connect():
+            try:
+                # Comprobamos si el usuario tiene permisos de administración
+                admin_query = "SELECT rol FROM users WHERE username = %s;"
+                admin_result = db.fetch_data(admin_query, (username, ))
+                if admin_result and admin_result[0][0] == 1:
+                    # Insertamos el nuevo usuario
+                    insert_user_query = """
+                        INSERT INTO users (username, password, rol)
+                        VALUES (%s, %s, %s);
+                    """
+                    db.execute_sql(insert_user_query, (new_username, password, isAdmin))
+
+                    # Aquí deberías insertar la dirección de inicio y los días en la tabla correspondiente
+                    # asumiendo que existen las tablas y columnas correspondientes
+
+                    response = {"message": "Usuario registrado con éxito"}
+                    status_code = 200
+                else:
+                    response = {"message": "El usuario no tiene permisos de administración"}
+                    status_code = 403
+
+            except Exception as e:
+                print(f"Error al registrar el usuario: {e}")
+                response = {"message": "Error interno del servidor"}
+                status_code = 500
+            finally:
+                db.disconnect()
+    else:
+        response = {"message": "Token no válido o expirado"}
+        status_code = 401
+
+    return jsonify(response), status_code
+
 def login():
     print_received_request(request)
 
