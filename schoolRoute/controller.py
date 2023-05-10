@@ -120,6 +120,10 @@ def register():
                     response = {"message": "El usuario no tiene permisos de administración"}
                     status_code = 403
 
+            except errors.UniqueViolation as e:
+                print(f"Error al registrar el usuario: {e}")
+                response = {"message": "El usuario ya existe"}
+                status_code = 409
             except Exception as e:
                 print(f"Error al registrar el usuario: {e}")
                 response = {"message": "Error interno del servidor"}

@@ -38,7 +38,7 @@ class SchoolRouteDB:
             return rows
         except Exception as e:
             print(f"Error al obtener datos con la consulta SQL: {e}")
-            return None
+            raise e
 
     def execute_sql(self, sql_query, params=None):
         if not self.cur:
@@ -50,7 +50,7 @@ class SchoolRouteDB:
             return result
         except Exception as e:
             print(f"Error al ejecutar la consulta SQL: {e}")
-            return None
+            raise e
 
     def execute_sql_and_return(self, sql_query, params=None):
         if not self.cur:
@@ -63,4 +63,4 @@ class SchoolRouteDB:
             return result
         except Exception as e:
             print(f"Error al ejecutar la consulta SQL: {e}")
-            return None
+            raise e
