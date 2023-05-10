@@ -87,8 +87,6 @@ def register():
     new_username = request.form.get('username')
     password = request.form.get('password')
     isAdmin = request.form.get('isAdmin')
-    startAdress = request.form.get('startAdress')
-    days = request.form.get('days')
 
     response = {}
     status_code = 200
@@ -102,13 +100,15 @@ def register():
             try:
                 # Comprobamos si el usuario tiene permisos de administración
                 admin_query = "SELECT rol FROM users WHERE username = %s;"
+
                 admin_result = db.fetch_data(admin_query, (username, ))
                 if admin_result and admin_result[0][0] == 1:
                     # Insertamos el nuevo usuario
                     insert_user_query = """
-                        INSERT INTO users (username, password, rol)
-                        VALUES (%s, %s, %s);
+                        INSERT INTO users (username, password, rol, created_at)
+                        VALUES (%s, %s, %s, CURRENT_TIMESTAMP);
                     """
+
                     db.execute_sql(insert_user_query, (new_username, password, isAdmin))
 
                     # Aquí deberías insertar la dirección de inicio y los días en la tabla correspondiente

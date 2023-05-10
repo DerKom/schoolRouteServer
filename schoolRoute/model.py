@@ -45,9 +45,9 @@ class SchoolRouteDB:
             print("No se ha establecido conexión con la base de datos.")
             return
         try:
-            self.cur.execute(sql_query, params)
-            result = self.cur.fetchone()
+            result = self.cur.execute(sql_query, params)
             self.conn.commit()
+            return result
         except Exception as e:
             print(f"Error al ejecutar la consulta SQL: {e}")
             return None
