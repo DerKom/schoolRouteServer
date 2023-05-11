@@ -3,6 +3,7 @@
 from flask import request, jsonify
 from model import SchoolRouteDB
 from view import print_received_request, print_db_changes
+from psycopg2 import errors
 
 
 def get_username_from_token(token):
@@ -26,6 +27,54 @@ def get_username_from_token(token):
             db.disconnect()
 
     return username
+
+def get_all_users():
+    db = SchoolRouteDB()
+
+    if db.connect():
+        try:
+            # Obtener el token del usuario a partir del formdata
+            token = request.form.get('token')
+
+            # Obtener el username asociado al token
+            username = get_username_from_token(token)
+
+            if username:
+                # Consulta para verificar si el usuario es administrador
+                verify_admin_query = """
+                    SELECT rol FROM users WHERE username = %s;
+                """
+                role_result = db.fetch_data(verify_admin_query, (username,))
+
+                if role_result and role_result[0][0] == 1:
+                    # Consulta para obtener todos los usuarios
+                    get_users_query = """
+                        SELECT username, rol FROM users;
+                    """
+                    users_result = db.fetch_data(get_users_query)
+
+                    if users_result:
+                        users = [dict(zip(['username', 'rol'], user)) for user in users_result]
+                        response = {"users": users}
+                        status_code = 200
+                    else:
+                        response = {"message": "No hay usuarios en la base de datos"}
+                        status_code = 404
+                else:
+                    response = {"message": "El usuario no es administrador"}
+                    status_code = 403
+            else:
+                response = {"message": "Token no válido"}
+                status_code = 401
+
+        except Exception as e:
+            print(f"Error al obtener usuarios: {e}")
+            response = {"message": "Error interno del servidor"}
+            status_code = 500
+        finally:
+            db.disconnect()
+
+    return jsonify(response), status_code
 
 
 def getUserRoute():
