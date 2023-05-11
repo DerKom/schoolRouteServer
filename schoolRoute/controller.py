@@ -28,6 +28,56 @@ def get_username_from_token(token):
 
     return username
 
+def modifyUsers():
+    db = SchoolRouteDB()
+
+    if db.connect():
+        try:
+            # Obtener el token del usuario a partir del formdata
+            token = request.form.get('token')
+
+            # Obtener el username asociado al token
+            admin_username = get_username_from_token(token)
+
+            # Obtener el username del usuario a modificar, su nuevo rol y nuevo nombre de usuario
+            user_to_modify = request.form.get('username')
+            new_role = request.form.get('isAdmin')
+            new_username = request.form.get('newUsername')
+
+            if admin_username:
+                # Consulta para verificar si el usuario es administrador
+                verify_admin_query = """
+                    SELECT rol FROM users WHERE username = %s;
+                """
+                role_result = db.fetch_data(verify_admin_query, (admin_username,))
+
+                if role_result and role_result[0][0] == 1:
+                    # Consulta para modificar el rol y el nombre de usuario
+                    modify_user_query = """
+                        UPDATE users SET rol = %s, username = %s WHERE username = %s;
+                    """
+                    db.execute_sql(modify_user_query, (new_role, new_username, user_to_modify))
+
+                    response = {"message": "El usuario ha sido modificado con éxito"}
+                    status_code = 200
+
+                else:
+                    response = {"message": "El usuario no es administrador"}
+                    status_code = 403
+            else:
+                response = {"message": "Token no válido"}
+                status_code = 401
+
+        except Exception as e:
+            print(f"Error al modificar el usuario: {e}")
+            response = {"message": "Error interno del servidor"}
+            status_code = 500
+        finally:
+            db.disconnect()
+
+    return jsonify(response), status_code
+
+
 def get_all_users():
     db = SchoolRouteDB()
 
