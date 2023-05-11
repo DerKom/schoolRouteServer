@@ -1,7 +1,7 @@
 # app.py
 from flask import Flask
 from flask_cors import CORS
-from controller import login, getUserRoute, register, get_all_users, modifyUsers
+from controller import login, getUserRoute, register, get_all_users, modifyUsers, deleteUsers
 
 app = Flask(__name__)
 CORS(app)
@@ -30,6 +30,12 @@ def handle_get_all_users():
 def handle_modify_user():
     response, status_code = modifyUsers()
     return response, status_code
+
+@app.route('/deleteUser', methods=['POST'])
+def handle_delete_user():
+    response, status_code = deleteUsers()
+    return response, status_code
+
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
