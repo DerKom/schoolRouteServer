@@ -75,6 +75,54 @@ def deleteUsers():
 
     return jsonify(response), status_code
 
+def changePassword():
+    db = SchoolRouteDB()
+
+    if db.connect():
+        try:
+            # Obtener el token del usuario a partir del formdata
+            token = request.form.get('token')
+
+            # Obtener el username asociado al token
+            admin_username = get_username_from_token(token)
+
+            # Obtener el username del usuario a modificar y la nueva contraseña
+            user_to_modify = request.form.get('username')
+            new_password = request.form.get('newPassword')
+
+            if admin_username:
+                # Consulta para verificar si el usuario es administrador
+                verify_admin_query = """
+                    SELECT rol FROM users WHERE username = %s;
+                """
+                role_result = db.fetch_data(verify_admin_query, (admin_username,))
+
+                if role_result and role_result[0][0] == 1:
+                    # Consulta para cambiar la contraseña del usuario
+                    change_password_query = """
+                        UPDATE users SET password = %s WHERE username = %s;
+                    """
+                    db.execute_sql(change_password_query, (new_password, user_to_modify))
+
+                    response = {"message": "La contraseña ha sido cambiada con éxito"}
+                    status_code = 200
+
+                else:
+                    response = {"message": "El usuario no es administrador"}
+                    status_code = 403
+            else:
+                response = {"message": "Token no válido"}
+                status_code = 401
+
+        except Exception as e:
+            print(f"Error al cambiar la contraseña: {e}")
+            response = {"message": "Error interno del servidor"}
+            status_code = 500
+        finally:
+            db.disconnect()
+
+    return jsonify(response), status_code
+
 def deleteUsers():
     db = SchoolRouteDB()
 
