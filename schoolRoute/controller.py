@@ -214,6 +214,78 @@ def getMaterials():
 
     return jsonify(response), status_code
 
+def checkRol():
+    db = SchoolRouteDB()
+
+    if db.connect():
+        try:
+            # Obtener el token del usuario a partir del formdata
+            token = request.form.get('token')
+
+            # Obtener el username asociado al token
+            username = get_username_from_token(token)
+
+            if username:
+                # Consulta para obtener el rol del usuario
+                fetch_role_query = """
+                    SELECT rol FROM users WHERE username = %s;
+                """
+                role_result = db.fetch_data(fetch_role_query, (username,))
+
+                if role_result:
+                    response = {"rol": role_result[0][0]}
+                    status_code = 200
+                else:
+                    response = {"message": "No se pudo obtener el rol del usuario"}
+                    status_code = 404
+
+            else:
+                response = {"message": "Token no válido"}
+                status_code = 401
+
+        except Exception as e:
+            print(f"Error al obtener el rol: {e}")
+            response = {"message": "Error interno del servidor"}
+            status_code = 500
+        finally:
+            db.disconnect()
+
+    return jsonify(response), status_code
+
+def cerrarSesion():
+    db = SchoolRouteDB()
+
+    if db.connect():
+        try:
+            # Obtener el token del usuario a partir del formdata
+            token = request.form.get('token')
+
+            # Obtener el username asociado al token
+            username = get_username_from_token(token)
+
+            if username:
+                # Consulta para eliminar el token de la sesión
+                delete_session_query = """
+                    DELETE FROM session WHERE token = %s;
+                """
+                db.execute_query(delete_session_query, (token,))
+
+                response = {"message": "Sesión cerrada correctamente"}
+                status_code = 200
+
+            else:
+                response = {"message": "Token no válido"}
+                status_code = 401
+
+        except Exception as e:
+            print(f"Error al cerrar la sesión: {e}")
+            response = {"message": "Error interno del servidor"}
+            status_code = 500
+        finally:
+            db.disconnect()
+
+    return jsonify(response), status_code
+
 
 def modifyCenterEmail():
     db = SchoolRouteDB()

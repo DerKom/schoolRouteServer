@@ -2,7 +2,7 @@
 from flask import Flask
 from flask_cors import CORS
 from controller import login, getUserRoute, register, get_all_users, modifyUsers, deleteUsers, changePassword, \
-    getCenters, modifyCenterEmail, getMaterials
+    getCenters, modifyCenterEmail, getMaterials, cerrarSesion, checkRol
 
 app = Flask(__name__)
 CORS(app)
@@ -16,6 +16,14 @@ def handle_login():
 def handle_get_centers():
     response, status_code = getCenters()
     return response, status_code
+
+@app.route('/cerrarSesion', methods=['POST'])
+def cerrar_sesion_route():
+    return cerrarSesion()
+
+@app.route('/checkRol', methods=['POST'])
+def check_rol_route():
+    return checkRol()
 
 @app.route('/getRoute', methods=['POST'])
 def handle_get_route():
