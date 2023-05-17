@@ -1,7 +1,7 @@
 # app.py
 from flask import Flask
 from flask_cors import CORS
-from controller import login, getUserRoute, register, get_all_users, modifyUsers, deleteUsers, changePassword, getCenters
+from controller import login, getUserRoute, register, get_all_users, modifyUsers, deleteUsers, changePassword, getCenters, modifyCenterEmail
 
 app = Flask(__name__)
 CORS(app)
@@ -44,6 +44,10 @@ def handle_delete_user():
 def handle_change_password():
     response, status_code = changePassword()
     return response, status_code
+
+@app.route('/modifyCenterEmail', methods=['POST'])
+def modify_center_email():
+    return modifyCenterEmail()
 
 
 if __name__ == '__main__':
