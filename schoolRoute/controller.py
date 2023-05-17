@@ -268,56 +268,94 @@ def get_all_users():
 
     return jsonify(response), status_code
 
+def getCenters():
+    db = SchoolRouteDB()
+
+    if db.connect():
+        try:
+            # Obtener el token del usuario a partir del formdata
+            token = request.form.get('token')
+
+            # Obtener el username asociado al token
+            admin_username = get_username_from_token(token)
+
+            if admin_username:
+                # Consulta para verificar si el usuario es administrador
+                verify_admin_query = """
+                    SELECT rol FROM users WHERE username = %s;
+                """
+                role_result = db.fetch_data(verify_admin_query, (admin_username,))
+
+                if role_result and role_result[0][0] == 1:
+                    # Consulta para obtener los datos de los centros
+                    fetch_centers_query = """
+                        SELECT id, nombre, direccion, correo FROM centros;
+                    """
+                    centers_data = db.fetch_data(fetch_centers_query)
+
+                    if centers_data:
+                        centers = [dict(zip(['id', 'nombre', 'direccion', 'correo'], center)) for center in centers_data]
+                        response = {"centers": centers}
+                        status_code = 200
+                    else:
+                        response = {"message": "No hay centros en la base de datos"}
+                        status_code = 404
+
+                else:
+                    response = {"message": "El usuario no es administrador"}
+                    status_code = 403
+            else:
+                response = {"message": "Token no válido"}
+                status_code = 401
+
+        except Exception as e:
+            print(f"Error al obtener los centros: {e}")
+            response = {"message": "Error interno del servidor"}
+            status_code = 500
+        finally:
+            db.disconnect()
+
+    return jsonify(response), status_code
 
 def getUserRoute():
-    print_received_request(request)
+    db = SchoolRouteDB()
 
-    token = request.form.get('token')
-    response = {}
-    status_code = 200
+    if db.connect():
+        try:
+            # Obtener el token del usuario a partir del formdata
+            token = request.form.get('token')
 
-    # Usamos la nueva función para obtener el nombre de usuario
-    username = get_username_from_token(token)
+            # Obtener el username asociado al token
+            username = get_username_from_token(token)
 
-    if username:
-        db = SchoolRouteDB()
-        if db.connect():
-            try:
-                # Buscamos la ruta del usuario
-                find_route_query = """
-                    SELECT * FROM rutas
-                    WHERE username = %s
-                    ORDER BY orden;
+            if username:
+                # Consulta para obtener los datos de las rutas del usuario
+                fetch_route_query = """
+                    SELECT id, centername, direccion, latitud, longitud 
+                    FROM rutas
+                    WHERE username = %s;
                 """
-                route_result = db.fetch_data(find_route_query, (username,))
+                route_data = db.fetch_data(fetch_route_query, (username,))
 
-                if route_result:
-                    # Preparamos la información para enviarla como json
-                    route = []
-                    for row in route_result:
-                        route.append({
-                            "id": row[0],
-                            "username": row[1],
-                            "centername": row[2],
-                            "latitud": row[3],
-                            "longitud": row[4],
-                            "orden": row[5]
-                        })
-                    response = {"route": route}
+                if route_data:
+                    # Crear el objeto de respuesta con los datos de la ruta
+                    routes = [dict(zip(['id', 'centername', 'direction', 'latitud', 'longitud'], route)) for route in route_data]
+                    response = {"routes": routes}
                     status_code = 200
                 else:
-                    response = {"message": "No se encontró una ruta para el usuario"}
+                    response = {"message": "No se encontraron rutas para el usuario"}
                     status_code = 404
 
-            except Exception as e:
-                print(f"Error al obtener la ruta del usuario: {e}")
-                response = {"message": "Error interno del servidor"}
-                status_code = 500
-            finally:
-                db.disconnect()
-    else:
-        response = {"message": "Token no válido o expirado"}
-        status_code = 401
+            else:
+                response = {"message": "Token no válido"}
+                status_code = 401
+
+        except Exception as e:
+            print(f"Error al obtener las rutas del usuario: {e}")
+            response = {"message": "Error interno del servidor"}
+            status_code = 500
+        finally:
+            db.disconnect()
 
     return jsonify(response), status_code
 

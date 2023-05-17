@@ -1,7 +1,7 @@
 # app.py
 from flask import Flask
 from flask_cors import CORS
-from controller import login, getUserRoute, register, get_all_users, modifyUsers, deleteUsers, changePassword
+from controller import login, getUserRoute, register, get_all_users, modifyUsers, deleteUsers, changePassword, getCenters
 
 app = Flask(__name__)
 CORS(app)
@@ -9,6 +9,11 @@ CORS(app)
 @app.route('/login', methods=['POST'])
 def handle_login():
     response, status_code = login()
+    return response, status_code
+
+@app.route('/getCenters', methods=['POST'])
+def handle_get_centers():
+    response, status_code = getCenters()
     return response, status_code
 
 @app.route('/getRoute', methods=['POST'])
