@@ -2,10 +2,25 @@
 from flask import Flask
 from flask_cors import CORS
 from controller import login, getUserRoute, register, get_all_users, modifyUsers, deleteUsers, changePassword, \
-    getCenters, modifyCenterEmail, getMaterials, cerrarSesion, checkRol
+    getCenters, modifyCenterEmail, getMaterials, cerrarSesion, checkRol, addMaterial, modifyMaterial, deleteMaterial
 
 app = Flask(__name__)
 CORS(app)
+
+@app.route('/deleteMaterial', methods=['POST'])
+def handle_delete_material():
+    response, status_code = deleteMaterial()
+    return response, status_code
+
+@app.route('/modifyMaterial', methods=['POST'])
+def handle_modify_material():
+    response, status_code = modifyMaterial()
+    return response, status_code
+
+@app.route('/addMaterial', methods=['POST'])
+def handle_add_material():
+    response, status_code = addMaterial()
+    return response, status_code
 
 @app.route('/login', methods=['POST'])
 def handle_login():

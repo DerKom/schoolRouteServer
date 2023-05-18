@@ -28,6 +28,58 @@ def get_username_from_token(token):
 
     return username
 
+def deleteMaterial():
+    db = SchoolRouteDB()
+
+    if db.connect():
+        try:
+            # Obtener el token del usuario a partir del formdata
+            token = request.form.get('token')
+
+            # Obtener el username asociado al token
+            admin_username = get_username_from_token(token)
+
+            # Obtener el id del material a eliminar
+            material_id = request.form.get('id')
+
+            if admin_username:
+                # Consulta para verificar si el usuario es administrador
+                verify_admin_query = """
+                    SELECT rol FROM users WHERE username = %s;
+                """
+                role_result = db.fetch_data(verify_admin_query, (admin_username,))
+
+                if role_result and role_result[0][0] == 1:
+                    if material_id is not None:
+                        # Consulta para eliminar el material
+                        delete_material_query = """
+                            DELETE FROM materials WHERE id = %s;
+                        """
+                        db.execute_sql(delete_material_query, (material_id,))
+
+                        response = {"message": "El material ha sido eliminado con éxito"}
+                        status_code = 200
+                    else:
+                        response = {"message": "Es necesario proporcionar un 'id' de material válido"}
+                        status_code = 400
+
+                else:
+                    response = {"message": "El usuario no es administrador"}
+                    status_code = 403
+            else:
+                response = {"message": "Token no válido"}
+                status_code = 401
+
+        except Exception as e:
+            print(f"Error al eliminar el material: {e}")
+            response = {"message": "Error interno del servidor"}
+            status_code = 500
+        finally:
+            db.disconnect()
+
+    return jsonify(response), status_code
+
+
 def deleteUsers():
     db = SchoolRouteDB()
 
@@ -191,7 +243,7 @@ def getMaterials():
                 if role_result and role_result[0][0] == 1:
                     # Consulta para obtener los datos de los materiales
                     fetch_materials_query = """
-                        SELECT * FROM materials;
+                        SELECT * FROM materials ORDER BY nombre;
                     """
                     materials = db.fetch_data(fetch_materials_query)
 
@@ -213,6 +265,114 @@ def getMaterials():
             db.disconnect()
 
     return jsonify(response), status_code
+
+def modifyMaterial():
+    db = SchoolRouteDB()
+
+    if db.connect():
+        try:
+            # Obtener el token del usuario a partir del formdata
+            token = request.form.get('token')
+
+            # Obtener el username asociado al token
+            admin_username = get_username_from_token(token)
+
+            # Obtener el id, el nombre y la descripción del material
+            material_id = request.form.get('id')
+            material_name = request.form.get('name')
+            material_description = request.form.get('description')
+
+            if admin_username:
+                # Consulta para verificar si el usuario es administrador
+                verify_admin_query = """
+                    SELECT rol FROM users WHERE username = %s;
+                """
+                role_result = db.fetch_data(verify_admin_query, (admin_username,))
+
+                if role_result and role_result[0][0] == 1:
+                    if material_id is not None:
+                        # Consulta para modificar el material
+                        modify_material_query = """
+                            UPDATE materials SET nombre = %s, descripcion = %s WHERE id = %s;
+                        """
+                        db.execute_sql(modify_material_query, (material_name, material_description, material_id))
+
+                        response = {"message": "El material ha sido modificado con éxito"}
+                        status_code = 200
+                    else:
+                        response = {"message": "Es necesario proporcionar un 'id' de material válido"}
+                        status_code = 400
+
+                else:
+                    response = {"message": "El usuario no es administrador"}
+                    status_code = 403
+            else:
+                response = {"message": "Token no válido"}
+                status_code = 401
+
+        except Exception as e:
+            print(f"Error al modificar el material: {e}")
+            response = {"message": "Error interno del servidor"}
+            status_code = 500
+        finally:
+            db.disconnect()
+
+    return jsonify(response), status_code
+
+def addMaterial():
+    db = SchoolRouteDB()
+
+    if db.connect():
+        try:
+            # Obtener el token del usuario a partir del formdata
+            token = request.form.get('token')
+
+            # Obtener el username asociado al token
+            admin_username = get_username_from_token(token)
+
+            # Obtener el nombre y la descripción del material
+            material_name = request.form.get('name')
+            material_description = request.form.get('description')
+
+            if admin_username:
+                # Consulta para verificar si el usuario es administrador
+                verify_admin_query = """
+                    SELECT rol FROM users WHERE username = %s;
+                """
+                role_result = db.fetch_data(verify_admin_query, (admin_username,))
+
+                if role_result and role_result[0][0] == 1:
+                    if material_name or material_description:
+                        # Consulta para añadir el material
+                        add_material_query = """
+                            INSERT INTO materials (nombre, descripcion)
+                            VALUES (%s, %s);
+                        """
+                        db.execute_sql(add_material_query, (material_name, material_description))
+
+                        response = {"message": "El material ha sido añadido con éxito"}
+                        status_code = 200
+                    else:
+                        response = {"message": "Debe proporcionar al menos un campo entre 'nombre' y 'descripcion'"}
+                        status_code = 400
+
+                else:
+                    response = {"message": "El usuario no es administrador"}
+                    status_code = 403
+            else:
+                response = {"message": "Token no válido"}
+                status_code = 401
+
+        except Exception as e:
+            print(f"Error al añadir el material: {e}")
+            response = {"message": "Error interno del servidor"}
+            status_code = 500
+        finally:
+            db.disconnect()
+
+    return jsonify(response), status_code
+
+
 
 def checkRol():
     db = SchoolRouteDB()
@@ -268,7 +428,7 @@ def cerrarSesion():
                 delete_session_query = """
                     DELETE FROM session WHERE token = %s;
                 """
-                db.execute_query(delete_session_query, (token,))
+                db.execute_sql(delete_session_query, (token,))
 
                 response = {"message": "Sesión cerrada correctamente"}
                 status_code = 200
@@ -314,7 +474,7 @@ def modifyCenterEmail():
                     update_email_query = """
                         UPDATE centros SET correo = %s WHERE correo = %s;
                     """
-                    db.execute_query(update_email_query, (new_email, old_email))
+                    db.execute_sql(update_email_query, (new_email, old_email))
 
                     response = {"message": "Correo del centro modificado exitosamente"}
                     status_code = 200
@@ -454,7 +614,7 @@ def getCenters():
                 if role_result and role_result[0][0] == 1:
                     # Consulta para obtener los datos de los centros
                     fetch_centers_query = """
-                        SELECT id, nombre, direccion, correo FROM centros;
+                        SELECT id, nombre, direccion, correo FROM centros ORDER BY nombre;
                     """
                     centers_data = db.fetch_data(fetch_centers_query)
 
