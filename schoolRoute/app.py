@@ -2,10 +2,22 @@
 from flask import Flask
 from flask_cors import CORS
 from controller import login, getUserRoute, register, get_all_users, modifyUsers, deleteUsers, changePassword, \
-    getCenters, modifyCenterEmail, getMaterials, cerrarSesion, checkRol, addMaterial, modifyMaterial, deleteMaterial
+    getCenters, modifyCenterEmail, getMaterials, cerrarSesion, checkRol, addMaterial, modifyMaterial, deleteMaterial, \
+    getRouteGroups
 
 app = Flask(__name__)
 CORS(app)
+
+@app.route('/setRouteToUser', methods=['POST'])
+def handle_set_route_to_user():
+    response, status_code = setRouteToUser()
+    return response, status_code
+
+@app.route('/getRouteGroups', methods=['POST'])
+def handle_get_route_groups():
+    response, status_code = getRouteGroups()
+    return response, status_code
+
 
 @app.route('/deleteMaterial', methods=['POST'])
 def handle_delete_material():

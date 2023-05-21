@@ -30,6 +30,60 @@ def get_username_from_token(token):
 
     return username
 
+def setRouteToUser():
+    db = SchoolRouteDB()
+
+    if db.connect():
+        try:
+            # Obtener el token del usuario a partir del formdata
+            token = request.form.get('token')
+
+            # Obtener el username asociado al token
+            admin_username = get_username_from_token(token)
+
+            if admin_username:
+                # Consulta para verificar si el usuario es administrador
+                verify_admin_query = """
+                    SELECT rol FROM users WHERE username = %s;
+                """
+                role_result = db.fetch_data(verify_admin_query, (admin_username,))
+
+                if role_result and role_result[0][0] == 1:
+                    # Obtener el username y groupnumber del formdata
+                    target_username = request.form.get('username')
+                    group_number = request.form.get('groupnumber')
+
+                    if target_username and group_number:
+                        # Consulta para asignar el username a las rutas con el groupnumber correspondiente
+                        assign_user_query = """
+                            UPDATE rutas SET username = %s WHERE groupnumber = %s;
+                        """
+                        db.execute_sql(assign_user_query, (target_username, group_number))
+
+                        response = {"message": "La ruta ha sido asignada al usuario con éxito"}
+                        status_code = 200
+
+                    else:
+                        response = {"message": "Es necesario proporcionar un 'username' y 'groupnumber' válidos"}
+                        status_code = 400
+
+                else:
+                    response = {"message": "El usuario no es administrador"}
+                    status_code = 403
+            else:
+                response = {"message": "Token no válido"}
+                status_code = 401
+
+        except Exception as e:
+            print(f"Error al asignar la ruta al usuario: {e}")
+            response = {"message": "Error interno del servidor"}
+            status_code = 500
+        finally:
+            db.disconnect()
+
+    return jsonify(response), status_code
+
+
 def deleteMaterial():
     db = SchoolRouteDB()
 
@@ -267,6 +321,51 @@ def getMaterials():
             db.disconnect()
 
     return jsonify(response), status_code
+
+def getRouteGroups():
+    db = SchoolRouteDB()
+
+    if db.connect():
+        try:
+            # Obtener el token del usuario a partir del formdata
+            token = request.form.get('token')
+
+            # Obtener el username asociado al token
+            admin_username = get_username_from_token(token)
+
+            if admin_username:
+                # Consulta para verificar si el usuario es administrador
+                verify_admin_query = """
+                    SELECT rol FROM users WHERE username = %s;
+                """
+                role_result = db.fetch_data(verify_admin_query, (admin_username,))
+
+                if role_result and role_result[0][0] == 1:
+                    # Consulta para obtener los distintos valores de groupnumber
+                    fetch_groupnumbers_query = """
+                        SELECT DISTINCT groupnumber FROM rutas ORDER BY groupnumber;
+                    """
+                    groupnumbers = db.fetch_data(fetch_groupnumbers_query)
+
+                    response = {"groupnumbers": [groupnumber[0] for groupnumber in groupnumbers]}
+                    status_code = 200
+
+                else:
+                    response = {"message": "El usuario no es administrador"}
+                    status_code = 403
+            else:
+                response = {"message": "Token no válido"}
+                status_code = 401
+
+        except Exception as e:
+            print(f"Error al obtener los groupnumbers: {e}")
+            response = {"message": "Error interno del servidor"}
+            status_code = 500
+        finally:
+            db.disconnect()
+
+    return jsonify(response), status_code
+
 
 def modifyMaterial():
     db = SchoolRouteDB()
