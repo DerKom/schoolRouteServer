@@ -29,7 +29,6 @@ def get_username_from_token(token):
             db.disconnect()
 
     return username
-
 def setRouteToUser():
     db = SchoolRouteDB()
 
@@ -54,6 +53,12 @@ def setRouteToUser():
                     group_number = request.form.get('groupnumber')
 
                     if target_username and group_number:
+                        # Consulta para desasignar el usuario de cualquier ruta que ya tenga asignada
+                        unassign_user_query = """
+                            UPDATE rutas SET username = NULL WHERE username = %s;
+                        """
+                        db.execute_sql(unassign_user_query, (target_username,))
+
                         # Consulta para asignar el username a las rutas con el groupnumber correspondiente
                         assign_user_query = """
                             UPDATE rutas SET username = %s WHERE groupnumber = %s;
@@ -82,7 +87,6 @@ def setRouteToUser():
             db.disconnect()
 
     return jsonify(response), status_code
-
 
 def deleteMaterial():
     db = SchoolRouteDB()
