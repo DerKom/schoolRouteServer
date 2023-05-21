@@ -3,7 +3,7 @@ from flask import Flask
 from flask_cors import CORS
 from controller import login, getUserRoute, register, get_all_users, modifyUsers, deleteUsers, changePassword, \
     getCenters, modifyCenterEmail, getMaterials, cerrarSesion, checkRol, addMaterial, modifyMaterial, deleteMaterial, \
-    getRouteGroups
+    getRouteGroups, setRouteToUser
 
 app = Flask(__name__)
 CORS(app)
