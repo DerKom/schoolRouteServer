@@ -7,6 +7,7 @@ from psycopg2 import errors
 
 
 def get_username_from_token(token):
+
     db = SchoolRouteDB()
     username = None
     if db.connect():
@@ -16,6 +17,7 @@ def get_username_from_token(token):
                 SELECT username FROM sessions
                 WHERE token = %s AND expires_at > NOW();
             """
+
             result = db.fetch_data(sql_query, (token,))
 
             if result:
